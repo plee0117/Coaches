@@ -32,8 +32,8 @@ def assign_staff(list_of_folks, name_of_csv, team, year, indx):
 		wikilink = ''
 		try:
 			if re.search('—', idx):
-				if idx.find('—')>idx.find('href='):
-					position = re.findall('<i>(.*)</i>')
+				if (idx.find('—')>idx.find(' href') and re.search(' href',idx)):
+					position = re.findall('<i>(.*)</i>', idx)[0]
 					wikilink = re.findall(' href="(.*)" title="', idx)[0]
 					staff['wikilink'] = 'https://en.wikipedia.com' + wikilink
 					name = re.findall('">(.*)</a>', idx)[0]
@@ -49,14 +49,21 @@ def assign_staff(list_of_folks, name_of_csv, team, year, indx):
 						name = re.findall('—(.*)', idx)[0]
 					
 			elif re.search('–', idx):
-				position = re.findall('(.*)–', idx)[0]
-				
-				if re.search(' href',idx):
-					name = re.findall('">(.*)</a>', idx)[0]
+				if (idx.find('–')>idx.find(' href') and re.search(' href',idx)):
+					position = re.findall('<i>(.*)</i>', idx)[0]
 					wikilink = re.findall(' href="(.*)" title="', idx)[0]
 					staff['wikilink'] = 'https://en.wikipedia.com' + wikilink
+					name = re.findall('">(.*)</a>', idx)[0]
+					
 				else:
-					name = re.findall('–(.*)', idx)[0]
+					position = re.findall('(.*)–', idx)[0]
+
+					if re.search(' href',idx):
+						name = re.findall('">(.*)</a>', idx)[0]
+						wikilink = re.findall(' href="(.*)" title="', idx)[0]
+						staff['wikilink'] = 'https://en.wikipedia.com' + wikilink
+					else:
+						name = re.findall('–(.*)', idx)[0]
 
 			elif re.search('-', idx):
 				position = re.findall('(.*)-', idx)[0]
