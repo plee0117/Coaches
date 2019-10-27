@@ -4,7 +4,7 @@ Brad Ecklund,Atlanta Falcons,1966,Offensive Line
 Hal Herring,Atlanta Falcons,1966,Chief Defensive
 John Symank,Atlanta Falcons,1966,Defensive Backfield
 Dick Bielski,Baltimore Colts,1966,Receivers/Offensive Ends
-John Sandusky,Baltimore Colts,1966,Offensive Line
+John Sandusky,Baltimore Colts,1966,Offensive Line Coach
 Art Spinney,Boston Patriots,1966,Offensive Line
 Jesse Richardson,Boston Patriots,1966,Defensive Line
 Rommie Loudd,Boston Patriots,1966,Linebackers
@@ -33,7 +33,7 @@ Bob Fry,Atlanta Falcons,1967,Assistant Offensive Line
 Hal Herring,Atlanta Falcons,1967,Chief Defensive
 John Symank,Atlanta Falcons,1967,Defensive Backfield
 Dick Bielski,Baltimore Colts,1967,Receivers/Offensive Ends
-John Sandusky,Baltimore Colts,1967,Offensive Line
+John Sandusky,Baltimore Colts,1967,Offensive Line Coach
 Art Spinney,Boston Patriots,1967,Offensive Line
 Jesse Richardson,Boston Patriots,1967,Defensive Line
 Rommie Loudd,Boston Patriots,1967,Linebackers
@@ -54,10 +54,10 @@ Les Bingaman,Miami Dolphins,1967,Defensive Line
 Bob Pellegrini,Miami Dolphins,1967,Linebackers
 Tom Keane,Miami Dolphins,1967,Defensive Backs
 Cyril Nelson,New Orleans Saints,1967,Comptroller
-George Dickson,New Orleans Saints,1967,Chief Offensive
-Walt Yowarsky,New Orleans Saints,1967,Offensive Line
-Bob Shaw,New Orleans Saints,1967,Receiver
-J D Roberts,New Orleans Saints,1967,Linebacker
+George Dickson,New Orleans Saints,1967,Chief Offensive Coach
+Walt Yowarsky,New Orleans Saints,1967,Offensive Line Coach
+Bob Shaw,New Orleans Saints,1967,Receiver Coach
+J D Roberts,New Orleans Saints,1967,Linebacker Coach
 Bill Cuthbertson,New Orleans Saints,1967,Assistant Trainer
 Lew Carpenter,Atlanta Falcons,1968,Chief Offensive
 Jim Phillips,Atlanta Falcons,1968,Receivers
@@ -66,7 +66,7 @@ Hal Herring,Atlanta Falcons,1968,Chief Defensive
 Bill Jobko,Atlanta Falcons,1968,Linebackers
 John Symank,Atlanta Falcons,1968,Defensive Backfield
 Dick Bielski,Baltimore Colts,1968,Receivers/Offensive Ends
-John Sandusky,Baltimore Colts,1968,Offensive Line
+John Sandusky,Baltimore Colts,1968,Offensive Line Coach
 Tom Yewcic,Boston Patriots,1968,Offensive Backfield
 Art Spinney,Boston Patriots,1968,Offensive Line
 Jesse Richardson,Boston Patriots,1968,Defensive Line
@@ -87,13 +87,13 @@ George Dickson,New Orleans Saints,1968,Chief Offensive
 Bob Shaw,New Orleans Saints,1968,Receivers
 Brad Ecklund,New Orleans Saints,1968,Offensive Line
 Walt Yowarsky,New Orleans Saints,1968,Offensive Line
-Joe Spencer,New York Jets,1968,Offensive Line
+Joe Spencer,New York Jets,1968,Offensive Line Coach
 Walt Yowarsky,Atlanta Falcons,1969,Offensive Backfield
 Duane Putnam,Atlanta Falcons,1969,Offensive Line
 Marion Campbell,Atlanta Falcons,1969,Head Defensive
 Bob Griffin,Atlanta Falcons,1969,Defensive Line
 Dick Bielski,Baltimore Colts,1969,Receivers/Offensive Ends
-John Sandusky,Baltimore Colts,1969,Offensive Line
+John Sandusky,Baltimore Colts,1969,Offensive Line Coach
 Bobby Boyd,Baltimore Colts,1969,Defensive Backfield
 Jerry Stoltz,Boston Patriots,1969,Receivers
 Bruce Beatty,Boston Patriots,1969,Offensive Line
@@ -107,7 +107,7 @@ Fritz Heisler,Cleveland Browns,1969,Offensive Line
 Bob Nussbaumer,Cleveland Browns,1969,Receivers
 Dick Modzelewski,Cleveland Browns,1969,Defensive Line
 Ed Ulinski,Cleveland Browns,1969,Linebackers
-Lou Groza,Cleveland Browns,1969,Placekickers
+Lou Groza,Cleveland Browns,1969,Placekickers Coach
 Leo Murphy,Cleveland Browns,1969,Athletic Trainer
 Hunter Enis,Denver Broncos,1969,Offensive Backs
 Whitey Dovell,Denver Broncos,1969,Offensive Line
@@ -159,7 +159,7 @@ Bob Fry,Pittsburgh Steelers,1970,Offensive Line
 Lionel Taylor,Pittsburgh Steelers,1970,Receivers
 Walter Hackett,Pittsburgh Steelers,1970,Defensive Line
 Charlie Sumner,Pittsburgh Steelers,1970,Defensive Backfield
-Louis Riecke,Pittsburgh Steelers,1970,Strength
+Louis Riecke,Pittsburgh Steelers,1970,Strength Coach
 Ralph Berlin,Pittsburgh Steelers,1970,Trainer
 Robert Milie,Pittsburgh Steelers,1970,Assistant Trainer
 Billy Ray Barnes,Atlanta Falcons,1971,Offensive Backfield
@@ -202,7 +202,7 @@ Babe Parilli,Pittsburgh Steelers,1971,Quarterbacks
 Lionel Taylor,Pittsburgh Steelers,1971,Receivers
 Walter Hackett,Pittsburgh Steelers,1971,Defensive Line
 Charlie Sumner,Pittsburgh Steelers,1971,Defensive Backfield
-Louis Riecke,Pittsburgh Steelers,1971,Strength
+Louis Riecke,Pittsburgh Steelers,1971,Strength Coach
 Ralph Berlin,Pittsburgh Steelers,1971,Trainer
 Billy Ray Barnes,Atlanta Falcons,1972,Offensive Backfield
 Duane Putnam,Atlanta Falcons,1972,Offensive Line
@@ -222,7 +222,7 @@ Ray Prochaska,Cleveland Browns,1972,Offensive Line
 John David Crow,Cleveland Browns,1972,Offensive Backs
 Fran Polsfoot,Cleveland Browns,1972,Wide Receivers
 Dick Modzelewski,Cleveland Browns,1972,Defensive Line
-Alva Tabor,Cleveland Browns,1972,Special Teams
+Alva Tabor,Cleveland Browns,1972,Special Teams Coach
 Leo Murphy,Cleveland Browns,1972,Trainer
 Jerry Frei,Denver Broncos,1972,Offensive Line
 Doc Urich,Denver Broncos,1972,Defensive Line
@@ -243,7 +243,7 @@ Marion Campbell,Atlanta Falcons,1973,Head Defensive
 Bob Griffin,Atlanta Falcons,1973,Defensive Line
 Pete McCulley,Baltimore Colts,1973,Receivers
 Bobby Franklin,Baltimore Colts,1973,Defensive Backfield
-Ray Callahan,Baltimore Colts,1973,Linebackers
+Ray Callahan,Baltimore Colts,1973,Linebackers Coach
 Bob Shaw,Buffalo Bills,1973,Receivers
 Jim Ringo,Buffalo Bills,1973,Offensive Line
 Stan Jones,Buffalo Bills,1973,Defensive Line
@@ -259,7 +259,7 @@ Bob Gambold,Denver Broncos,1973,Linebackers
 Myrel Moore,Denver Broncos,1973,Linebackers
 Bill McPeak,Miami Dolphins,1973,Offense
 Carl Taseff,Miami Dolphins,1973,Offensive Backs
-Bill Arnsparger,Miami Dolphins,1973,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1973,Assistant Head Coach/Defense
 Mike Scarry,Miami Dolphins,1973,Defensive Line
 Tom Keane,Miami Dolphins,1973,Defensive Backs
 Bill Nelsen,New England Patriots,1973,Quarterbacks
@@ -286,7 +286,7 @@ Bob Griffin,Atlanta Falcons,1974,Defensive Line
 Marv Matuszak,Atlanta Falcons,1974,Linebackers
 Pete McCulley,Baltimore Colts,1974,Receivers
 Jerry Smith,Baltimore Colts,1974,Defensive Line
-Frank Lauterbur,Baltimore Colts,1974,Linebackers
+Frank Lauterbur,Baltimore Colts,1974,Linebackers Coach
 Bob Shaw,Buffalo Bills,1974,Receivers
 Jim Ringo,Buffalo Bills,1974,Offensive Line
 Stan Jones,Buffalo Bills,1974,Defensive Line
@@ -387,7 +387,7 @@ Whitey Dovell,Baltimore Colts,1976,Offensive Line
 Jerry Smith,Baltimore Colts,1976,Defensive Line
 Frank Lauterbur,Baltimore Colts,1976,Defensive Backfield
 George Boutselis,Baltimore Colts,1976,Special Teams
-Jim LaRue,Buffalo Bills,1976,Running Backs
+Jim LaRue,Buffalo Bills,1976,Running Backs Coach
 Jerry Wampfler,Buffalo Bills,1976,Defensive Line
 John Ray,Buffalo Bills,1976,Linebackers
 Billy Atkins,Buffalo Bills,1976,Defensive Backfield
@@ -406,7 +406,7 @@ Bob Gambold,Denver Broncos,1976,Defensive Backs/Secondary
 Howard Schnellenberger,Miami Dolphins,1976,Offense/Receivers/Passing Game
 Carl Taseff,Miami Dolphins,1976,Offensive Backs/Special Teams
 John Sandusky,Miami Dolphins,1976,Offensive Line/Running Game
-Bill Arnsparger,Miami Dolphins,1976,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1976,Assistant Head Coach/Defense
 Mike Scarry,Miami Dolphins,1976,Defensive Line/Run Defense
 Don Doll,Miami Dolphins,1976,Linebackers/Pass Defense
 Tom Keane,Miami Dolphins,1976,Defensive Backs/Punting
@@ -450,9 +450,9 @@ Dick Bielski,Baltimore Colts,1977,Receivers
 Whitey Dovell,Baltimore Colts,1977,Offensive Line
 Frank Lauterbur,Baltimore Colts,1977,Defensive Backfield
 George Boutselis,Baltimore Colts,1977,Special Teams
-Jim LaRaue,Buffalo Bills,1977,Running Backs
-Kay Dalton,Buffalo Bills,1977,Wide Receivers
-Ray Wietecha,Buffalo Bills,1977,Offensive Linees
+Jim LaRaue,Buffalo Bills,1977,Running Backs Coach
+Kay Dalton,Buffalo Bills,1977,Wide Receivers Coach
+Ray Wietecha,Buffalo Bills,1977,Offensive Line Coaches
 Jerry Wampfler,Buffalo Bills,1977,Defensive Line
 Jim Carr,Buffalo Bills,1977,Linebackers
 Boyd Dowler,Cincinnati Bengals,1977,Quarterbacks/Receivers
@@ -475,7 +475,7 @@ Floyd Reese,Detroit Lions,1977,Special Teams/Strength And Conditioning
 Howard Schnellenberger,Miami Dolphins,1977,Offense/Receivers/Passing Game
 Carl Taseff,Miami Dolphins,1977,Offensive Backs/Special Teams
 John Sandusky,Miami Dolphins,1977,Offensive Line/Running Game
-Bill Arnsparger,Miami Dolphins,1977,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1977,Assistant Head Coach/Defense
 Mike Scarry,Miami Dolphins,1977,Defensive Line/Run Defense
 Tom Keane,Miami Dolphins,1977,Defensive Backs/Punting
 John Polonchek,New England Patriots,1977,Quarterbacks/Special Assistant Head Coach
@@ -507,7 +507,7 @@ Earl Leggett,Seattle Seahawks,1977,Defensive Line
 Larry Peccatiello,Seattle Seahawks,1977,Linebackers
 Bruce Scott,Seattle Seahawks,1977,Head Trainer
 Jim Whitesel,Seattle Seahawks,1977,Assistant Trainer
-Don Coryell,St. Louis Cardinals (NFL),1977,Head
+Don Coryell,St. Louis Cardinals (NFL),1977,Head Coach
 Harry Gilmer,St. Louis Cardinals (NFL),1977,Quarterbacks/Receivers
 Joe Gibbs,St. Louis Cardinals (NFL),1977,Offensive Backs
 Jim Hanifan,St. Louis Cardinals (NFL),1977,Offensive Line
@@ -522,8 +522,8 @@ Dick Bielski,Baltimore Colts,1978,Receivers
 Whitey Dovell,Baltimore Colts,1978,Offensive Line
 Ralph Hawkins,Baltimore Colts,1978,Defensive Backfield
 George Boutselis,Baltimore Colts,1978,Special Teams
-Elijah Pitts,Buffalo Bills,1978,Running Backs
-Jack Donaldson,Buffalo Bills,1978,Wide Receivers
+Elijah Pitts,Buffalo Bills,1978,Running Backs Coach
+Jack Donaldson,Buffalo Bills,1978,Wide Receivers Coach
 Willie Zapalac,Buffalo Bills,1978,Defensive Line
 Jim Wagstaff,Buffalo Bills,1978,Defensive Backs
 Steve Moore &amp; Elijah Pitts,Buffalo Bills,1978,Special Teams
@@ -548,10 +548,10 @@ Don Doll,Detroit Lions,1978,Special Teams
 Howard Schnellenberger,Miami Dolphins,1978,Offense/Receivers/Passing Game
 Carl Taseff,Miami Dolphins,1978,Offensive Backs/Special Teams
 John Sandusky,Miami Dolphins,1978,Offensive Line/Running Game
-Bill Arnsparger,Miami Dolphins,1978,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1978,Assistant Head Coach/Defense
 Mike Scarry,Miami Dolphins,1978,Defensive Line/Run Defense
 Tom Keane,Miami Dolphins,1978,Defensive Backs/Punting
-John Polonchek,New England Patriots,1978,Quarterbacks/Special Assistant Head
+John Polonchek,New England Patriots,1978,Quarterbacks/Special Assistant Head Coach
 Jim Ringo,New England Patriots,1978,Offensive Line
 Ernie Adams,New England Patriots,1978,Offensive Assistant
 Charlie Sumner,New England Patriots,1978,Linebackers/Secondary
@@ -579,7 +579,7 @@ Larry Peccatiello,Seattle Seahawks,1978,Defensive/Linebackers
 Jim E Mora,Seattle Seahawks,1978,Defensive Line
 Bruce Scott,Seattle Seahawks,1978,Head Trainer
 Jim Whitesel,Seattle Seahawks,1978,Assistant Trainer
-Bud Wilkinson,St. Louis Cardinals (NFL),1978,Head
+Bud Wilkinson,St. Louis Cardinals (NFL),1978,Head Coach
 Harry Gilmer,St. Louis Cardinals (NFL),1978,Quarterbacks/Receivers
 Pete Elliott,St. Louis Cardinals (NFL),1978,Offensive Backfield
 Jim Hanifan,St. Louis Cardinals (NFL),1978,Offensive Line
@@ -595,7 +595,7 @@ Dick Bielski,Baltimore Colts,1979,Receivers
 Ernie Zwahlen,Baltimore Colts,1979,Offensive Line
 John Symank,Baltimore Colts,1979,Defensive Backfield
 George Boutselis,Baltimore Colts,1979,Special Teams
-Jack Donaldson,Buffalo Bills,1979,Wide Receivers
+Jack Donaldson,Buffalo Bills,1979,Wide Receivers Coach
 Willie Zapalac,Buffalo Bills,1979,Defensive Line
 Jim Wagstaff,Buffalo Bills,1979,Defensive Backs
 Steve Moore,Buffalo Bills,1979,Special Teams
@@ -614,7 +614,7 @@ Bob Gambold,Houston Oilers,1979,Defensive Secondary
 John Paul Young,Houston Oilers,1979,Special Teams
 Carl Taseff,Miami Dolphins,1979,Offensive Backs
 John Sandusky,Miami Dolphins,1979,Offensive Line/Running Game
-Bill Arnsparger,Miami Dolphins,1979,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1979,Assistant Head Coach/Defense
 Mike Scarry,Miami Dolphins,1979,Defensive Line/Run Defense
 Tom Keane,Miami Dolphins,1979,Defensive Backs/Punting
 Steve Crosby,Miami Dolphins,1979,Special Teams
@@ -634,7 +634,7 @@ Pat Hodgson,New York Giants,1979,Receivers
 Ernie Adams,New York Giants,1979,Offensive Assistant
 Jim Stanley,New York Giants,1979,Defensive Line
 Deek Pollard,New York Giants,1979,Defensive Backfield
-George Perles,Pittsburgh Steelers,1979,Assistant Head
+George Perles,Pittsburgh Steelers,1979,Assistant Head Coach
 Rollie Dotsch,Pittsburgh Steelers,1979,Offensive Line
 Dick Hoak,Pittsburgh Steelers,1979,Offensive Backfield
 Dick Walker,Pittsburgh Steelers,1979,Defensive Backfield
@@ -653,7 +653,7 @@ Larry Peccatiello,Seattle Seahawks,1979,Defensive/Linebackers
 Jim E Mora,Seattle Seahawks,1979,Defensive Line
 Bruce Scott,Seattle Seahawks,1979,Head Trainer
 Jim Whitesel,Seattle Seahawks,1979,Assistant Trainer
-Bud Wilkinson,St. Louis Cardinals (NFL),1979,Head
+Bud Wilkinson,St. Louis Cardinals (NFL),1979,Head Coach
 Harry Gilmer,St. Louis Cardinals (NFL),1979,Quarterbacks/Receivers
 Jim Sweeney,St. Louis Cardinals (NFL),1979,Offensive Backfield
 Duane Putnam,St. Louis Cardinals (NFL),1979,Offensive Line
@@ -662,7 +662,7 @@ Rudy Feldman,St. Louis Cardinals (NFL),1979,Defensive Line
 Fred Glick,St. Louis Cardinals (NFL),1979,Defensive Secondary
 Jerry Thompson,St. Louis Cardinals (NFL),1979,Special Teams
 Don Brown,St. Louis Cardinals (NFL),1979,Flexibility And Strength
-Bob Bowser,Washington Redskins,1979,Special Assistant To Head
+Bob Bowser,Washington Redskins,1979,Special Assistant To Head Coach
 Fred O'Connor,Washington Redskins,1979,Running Backs
 John Hilton,Washington Redskins,1979,Tight Ends/Special Teams
 Ray Callahan,Washington Redskins,1979,Offensive Line
@@ -676,12 +676,12 @@ Dick Bielski,Baltimore Colts,1980,Receivers
 Ray Wietecha,Baltimore Colts,1980,Offensive Line
 John Symank,Baltimore Colts,1980,Defensive Backfield
 George Boutselis,Baltimore Colts,1980,Special Teams
-Elijah Pitts,Buffalo Bills,1980,Running Backs
-Jack Donaldson,Buffalo Bills,1980,Wide Receivers
+Elijah Pitts,Buffalo Bills,1980,Running Backs Coach
+Jack Donaldson,Buffalo Bills,1980,Wide Receivers Coach
 Willie Zapalac,Buffalo Bills,1980,Defensive Line
 Jim Wagstaff,Buffalo Bills,1980,Defensive Backs
 Steve Moore &amp; Elijah Pitts,Buffalo Bills,1980,Special Teams
-Miller McCalmon,Buffalo Bills,1980,Special Assignments
+Miller McCalmon,Buffalo Bills,1980,Special Assignments Coach
 Jim McNally,Cincinnati Bengals,1980,Offensive Line
 Dick Modzelewski,Cincinnati Bengals,1980,Defensive Line
 Kim Wood,Cincinnati Bengals,1980,Strength
@@ -716,7 +716,7 @@ Herb Paterra,Los Angeles Rams,1980,Special Teams
 Clyde Evans,Los Angeles Rams,1980,Conditioning
 Carl Taseff,Miami Dolphins,1980,Offensive Backs
 John Sandusky,Miami Dolphins,1980,Offensive Line/Running Game
-Bill Arnsparger,Miami Dolphins,1980,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1980,Assistant Head Coach/Defense
 Mike Scarry,Miami Dolphins,1980,Defensive Line/Run Defense
 Tom Keane,Miami Dolphins,1980,Defensive Backs/Punting
 Steve Crosby,Miami Dolphins,1980,Special Teams
@@ -741,7 +741,7 @@ Ken Iman,Philadelphia Eagles,1980,Offensive Line
 Jerry Wampfler,Philadelphia Eagles,1980,Offensive Line
 Chuck Clausen,Philadelphia Eagles,1980,Defensive Line
 George Hill,Philadelphia Eagles,1980,Linebackers
-George Perles,Pittsburgh Steelers,1980,Assistant Head
+George Perles,Pittsburgh Steelers,1980,Assistant Head Coach
 Rollie Dotsch,Pittsburgh Steelers,1980,Offensive Line
 Dick Hoak,Pittsburgh Steelers,1980,Offensive Backfield
 Dick Walker,Pittsburgh Steelers,1980,Defensive Backfield
@@ -759,8 +759,8 @@ Larry Peccatiello,Seattle Seahawks,1980,Defensive/Linebackers
 Jim E Mora,Seattle Seahawks,1980,Defensive Line
 Bruce Scott,Seattle Seahawks,1980,Head Trainer
 Jim Whitesel,Seattle Seahawks,1980,Assistant Trainer
-Jim Hanifan,St. Louis Cardinals (NFL),1980,Head
-Leon McLaughlin,St. Louis Cardinals (NFL),1980,Special Assistant Head
+Jim Hanifan,St. Louis Cardinals (NFL),1980,Head Coach
+Leon McLaughlin,St. Louis Cardinals (NFL),1980,Special Assistant Head Coach
 Harry Gilmer,St. Louis Cardinals (NFL),1980,Quarterbacks/Receivers
 Dick Jamieson,St. Louis Cardinals (NFL),1980,Offensive Backfield
 Tom Lovat,St. Louis Cardinals (NFL),1980,Offensive Line
@@ -769,7 +769,7 @@ Rudy Feldman,St. Louis Cardinals (NFL),1980,Defensive Line
 Bill Atkins,St. Louis Cardinals (NFL),1980,Defensive Secondary
 Chuck Banker,St. Louis Cardinals (NFL),1980,Special Teams
 Don Brown,St. Louis Cardinals (NFL),1980,Flexibility And Strength
-Bob Bowser,Washington Redskins,1980,Special Assistant To Head
+Bob Bowser,Washington Redskins,1980,Special Assistant To Head Coach
 Fred O'Connor,Washington Redskins,1980,Running Backs
 John Hilton,Washington Redskins,1980,Tight Ends/Special Teams
 Ray Callahan,Washington Redskins,1980,Offensive Line
@@ -783,12 +783,12 @@ Dick Bielski,Baltimore Colts,1981,Receivers
 Ray Wietecha,Baltimore Colts,1981,Offensive Line
 John Symank,Baltimore Colts,1981,Defensive Backfield
 George Boutselis,Baltimore Colts,1981,Special Teams
-Tom Catlin,Buffalo Bills,1981,Assistant Head -
-Jack Donaldson,Buffalo Bills,1981,Wide Receivers
+Tom Catlin,Buffalo Bills,1981,Assistant Head Coach -
+Jack Donaldson,Buffalo Bills,1981,Wide Receivers Coach
 Jim Carmody,Buffalo Bills,1981,Defensive Line
 Ralph Hawkins,Buffalo Bills,1981,Defensive Backs
 Steve Moore,Buffalo Bills,1981,Special Teams
-Miller McCalmon,Buffalo Bills,1981,Special Assignments
+Miller McCalmon,Buffalo Bills,1981,Special Assignments Coach
 Lindy Infante,Cincinnati Bengals,1981,Quarterbacks/Receivers
 Jim McNally,Cincinnati Bengals,1981,Offensive Line
 Dick Modzelewski,Cincinnati Bengals,1981,Defensive Line
@@ -824,7 +824,7 @@ Clyde Evans,Los Angeles Rams,1981,Conditioning
 Wally English,Miami Dolphins,1981,Quarterbacks/Receivers
 Carl Taseff,Miami Dolphins,1981,Offensive Backs
 John Sandusky,Miami Dolphins,1981,Offensive Line/Running Game
-Bill Arnsparger,Miami Dolphins,1981,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1981,Assistant Head Coach/Defense
 Mike Scarry,Miami Dolphins,1981,Defensive Line/Run Defense
 Tom Keane,Miami Dolphins,1981,Defensive Backs/Punting
 Steve Crosby,Miami Dolphins,1981,Special Teams
@@ -852,7 +852,7 @@ Ken Iman,Philadelphia Eagles,1981,Offensive Line
 Jerry Wampfler,Philadelphia Eagles,1981,Offensive Line
 Chuck Clausen,Philadelphia Eagles,1981,Defensive Line
 George Hill,Philadelphia Eagles,1981,Linebackers
-George Perles,Pittsburgh Steelers,1981,Assistant Head
+George Perles,Pittsburgh Steelers,1981,Assistant Head Coach
 Rollie Dotsch,Pittsburgh Steelers,1981,Offensive Line
 Dick Hoak,Pittsburgh Steelers,1981,Offensive Backfield
 Dick Walker,Pittsburgh Steelers,1981,Defensive Backfield
@@ -871,8 +871,8 @@ Jackie Simpson,Seattle Seahawks,1981,Defensive/Linebackers
 Jim E Mora,Seattle Seahawks,1981,Defensive Line
 Bruce Scott,Seattle Seahawks,1981,Head Trainer
 Jim Whitesel,Seattle Seahawks,1981,Assistant Trainer
-Jim Hanifan,St. Louis Cardinals (NFL),1981,Head
-Leon McLaughlin,St. Louis Cardinals (NFL),1981,Special Assistant Head
+Jim Hanifan,St. Louis Cardinals (NFL),1981,Head Coach
+Leon McLaughlin,St. Louis Cardinals (NFL),1981,Special Assistant Head Coach
 Harry Gilmer,St. Louis Cardinals (NFL),1981,Quarterbacks
 Dick Jamieson,St. Louis Cardinals (NFL),1981,Offensive Backfield
 Emmitt Thomas,St. Louis Cardinals (NFL),1981,Receivers
@@ -892,16 +892,16 @@ Richard Mann,Baltimore Colts,1982,Receivers
 Hal Hunter,Baltimore Colts,1982,Offensive Line
 Mike Westhoff,Baltimore Colts,1982,Assistant Offensive Line
 Bob Valesente,Baltimore Colts,1982,Secondary/Special Teams
-Tom Caitlin,Buffalo Bills,1982,Assistant Head -
-Jack Donaldson,Buffalo Bills,1982,Wide Receivers
+Tom Caitlin,Buffalo Bills,1982,Assistant Head Coach -
+Jack Donaldson,Buffalo Bills,1982,Wide Receivers Coach
 Jim Carmody,Buffalo Bills,1982,Defensive Line
 Raloh Hawkins,Buffalo Bills,1982,Defensive Backs
 Steve Moore,Buffalo Bills,1982,Special Teams
-Miller McCalmon,Buffalo Bills,1982,Special Assignments
+Miller McCalmon,Buffalo Bills,1982,Special Assignments Coach
 Jim McNally,Cincinnati Bengals,1982,Offensive Line
 Dick Modzelewski,Cincinnati Bengals,1982,Defensive Line
 Kim Wood,Cincinnati Bengals,1982,Strength
-Joe Collier,Denver Broncos,1982,Assistant Head/Defense
+Joe Collier,Denver Broncos,1982,Assistant Head Coach/Defense
 Marvin Bass,Denver Broncos,1982,Special Assistant
 Jerry Frei,Denver Broncos,1982,Offensive Line
 Myrel Moore,Denver Broncos,1982,Offensive Line
@@ -960,10 +960,10 @@ Ken Iman,Philadelphia Eagles,1982,Offensive Line
 Jerry Wampfler,Philadelphia Eagles,1982,Offensive Line
 Chuck Clausen,Philadelphia Eagles,1982,Defensive Line
 George Hill,Philadelphia Eagles,1982,Linebackers
-George Perles,Pittsburgh Steelers,1982,Assistant Head
+George Perles,Pittsburgh Steelers,1982,Assistant Head Coach
 Rollie Dotsch,Pittsburgh Steelers,1982,Offensive Line
 Dick Hoak,Pittsburgh Steelers,1982,Offensive Backfield
-Jon Kolb,Pittsburgh Steelers,1982,Conditioning
+Jon Kolb,Pittsburgh Steelers,1982,Conditioning Coach
 Ralph Berlin,Pittsburgh Steelers,1982,Trainer
 Gary Stragar,Pittsburgh Steelers,1982,Assistant Trainer
 Billie Matthews,San Francisco 49ers,1982,Running Backs
@@ -978,13 +978,13 @@ Jackie Simpson,Seattle Seahawks,1982,Defensive/Linebackers
 Frank Lauterbur,Seattle Seahawks,1982,Defensive Line
 Bruce Scott,Seattle Seahawks,1982,Head Trainer
 Jim Whitesel,Seattle Seahawks,1982,Assistant Trainer
-Jim Hanifan,St. Louis Cardinals (NFL),1982,Head
-Leon McLaughlin,St. Louis Cardinals (NFL),1982,Special Assistant Head
+Jim Hanifan,St. Louis Cardinals (NFL),1982,Head Coach
+Leon McLaughlin,St. Louis Cardinals (NFL),1982,Special Assistant Head Coach
 Harry Gilmer,St. Louis Cardinals (NFL),1982,Quarterbacks
 Dick Jamieson,St. Louis Cardinals (NFL),1982,Offensive Backfield
 Emmitt Thomas,St. Louis Cardinals (NFL),1982,Receivers
 Tom Lovat,St. Louis Cardinals (NFL),1982,Offensive Line
-Floyd Peters,St. Louis Cardinals (NFL),1982,Assistant Head/Defense
+Floyd Peters,St. Louis Cardinals (NFL),1982,Assistant Head Coach/Defense
 Rudy Feldman,St. Louis Cardinals (NFL),1982,Linebackers
 Chuck Banker,St. Louis Cardinals (NFL),1982,Special Teams
 Don Brown,St. Louis Cardinals (NFL),1982,Flexibility And Strength
@@ -992,7 +992,7 @@ Steve Crosby,Atlanta Falcons,1983,Quarterbacks/Running Backs
 Bob Harrison,Atlanta Falcons,1983,Receivers
 Bob Fry,Atlanta Falcons,1983,Offensive Line
 Garry Puetz,Atlanta Falcons,1983,Assistant Offensive Line
-Dan Sekanovich,Atlanta Falcons,1983,Assistant Head/Defensive Line
+Dan Sekanovich,Atlanta Falcons,1983,Assistant Head Coach/Defensive Line
 Ted Fritsch,Atlanta Falcons,1983,Special Teams
 George Dostal,Atlanta Falcons,1983,Strength And Conditioning
 Roger Theder,Baltimore Colts,1983,Running Backs
@@ -1018,7 +1018,7 @@ Clyde Emrich,Chicago Bears,1983,Weightlifting/Strength
 Jim McNally,Cincinnati Bengals,1983,Offensive Line
 Dick Modzelewski,Cincinnati Bengals,1983,Defensive Line
 Kim Wood,Cincinnati Bengals,1983,Strength
-Joe Collier,Denver Broncos,1983,Assistant Head/Defense
+Joe Collier,Denver Broncos,1983,Assistant Head Coach/Defense
 Marvin Bass,Denver Broncos,1983,Special Assistant
 John Hadl,Denver Broncos,1983,Quarterbacks/Wide Receivers
 Dan Radakovich,Denver Broncos,1983,Offensive Line
@@ -1066,7 +1066,7 @@ Fritz Shurmur,Los Angeles Rams,1983,Inside Linebackers
 Fred Whittingham,Los Angeles Rams,1983,Outside Linebackers
 Steve Shafer,Los Angeles Rams,1983,Defensive Backs
 Gil Haskell,Los Angeles Rams,1983,Special Teams
-Bill Arnsparger,Miami Dolphins,1983,Assistant Head/Defense
+Bill Arnsparger,Miami Dolphins,1983,Assistant Head Coach/Defense
 Carl Taseff,Miami Dolphins,1983,Offensive Backs
 John Sandusky,Miami Dolphins,1983,Offensive Line
 Mike Scarry,Miami Dolphins,1983,Defensive Line/Run Defense
@@ -1097,26 +1097,26 @@ Ken Iman,Philadelphia Eagles,1983,Offensive Line
 Jerry Wampfler,Philadelphia Eagles,1983,Offensive Line
 Chuck Clausen,Philadelphia Eagles,1983,Defensive Line
 George Hill,Philadelphia Eagles,1983,Linebackers
-Woody Widenhofer,Pittsburgh Steelers,1983,Assistant Head
+Woody Widenhofer,Pittsburgh Steelers,1983,Assistant Head Coach
 Ron Blackledge,Pittsburgh Steelers,1983,Offensive Line
 Dick Hoak,Pittsburgh Steelers,1983,Offensive Backfield
-Jon Kolb,Pittsburgh Steelers,1983,Defensive Line/Conditioning
+Jon Kolb,Pittsburgh Steelers,1983,Defensive Line/Conditioning Coach
 Ralph Berlin,Pittsburgh Steelers,1983,Trainer
 Gary Stragar,Pittsburgh Steelers,1983,Assistant Trainer
 Bobb McKittrick,San Francisco 49ers,1983,Offensive Line
 Fred von Appen,San Francisco 49ers,1983,Assistant Offensive Line/Tight Ends/Special Teams
 Norb Hecker,San Francisco 49ers,1983,Linebackers
 Tommy Hart,San Francisco 49ers,1983,Defensive Assistant
-Tom Catlin,Seattle Seahawks,1983,Assistant Head
+Tom Catlin,Seattle Seahawks,1983,Assistant Head Coach
 Steve Moore,Seattle Seahawks,1983,Receivers
 George Dyer,Seattle Seahawks,1983,Defensive Line
 Ralph Hawkins,Seattle Seahawks,1983,Defensive Backs
-Jim Hanifan,St. Louis Cardinals (NFL),1983,Head
-Leon McLaughlin,St. Louis Cardinals (NFL),1983,Special Assistant Head
+Jim Hanifan,St. Louis Cardinals (NFL),1983,Head Coach
+Leon McLaughlin,St. Louis Cardinals (NFL),1983,Special Assistant Head Coach
 Dick Jamieson,St. Louis Cardinals (NFL),1983,Offensive Backfield
 Emmitt Thomas,St. Louis Cardinals (NFL),1983,Receivers
 Tom Lovat,St. Louis Cardinals (NFL),1983,Offensive Line
-Floyd Peters,St. Louis Cardinals (NFL),1983,Assistant Head/Defense
+Floyd Peters,St. Louis Cardinals (NFL),1983,Assistant Head Coach/Defense
 Rudy Feldman,St. Louis Cardinals (NFL),1983,Linebackers
 Chuck Banker,St. Louis Cardinals (NFL),1983,Defensive Assistant/Special Teams
 Don Brown,St. Louis Cardinals (NFL),1983,Flexibility And Strength
@@ -1130,7 +1130,7 @@ Steve Crosby,Atlanta Falcons,1984,Quarterbacks/Running Backs
 Bob Harrison,Atlanta Falcons,1984,Receivers
 Bob Fry,Atlanta Falcons,1984,Offensive Line
 Garry Puetz,Atlanta Falcons,1984,Assistant Offensive Line
-Dan Sekanovich,Atlanta Falcons,1984,Assistant Head/Defensive Line
+Dan Sekanovich,Atlanta Falcons,1984,Assistant Head Coach/Defensive Line
 Jack Stanton,Atlanta Falcons,1984,Secondary
 Ted Fritsch,Atlanta Falcons,1984,Special Teams
 George Dostal,Atlanta Falcons,1984,Strength And Conditioning
@@ -1153,7 +1153,7 @@ Dave Adolph,Cleveland Browns,1984,Linebackers
 Darvin Wallis,Cleveland Browns,1984,Special Assistant
 John Petercuskie,Cleveland Browns,1984,Special Teams
 Dave Redding,Cleveland Browns,1984,Strength And Conditioning
-Joe Collier,Denver Broncos,1984,Assistant Head/Defense
+Joe Collier,Denver Broncos,1984,Assistant Head Coach/Defense
 Fran Polsfoot,Denver Broncos,1984,Tight Ends/Special Teams
 Marvin Bass,Denver Broncos,1984,Offensive Line
 Alex Gibbs,Denver Broncos,1984,Offensive Line
@@ -1225,24 +1225,24 @@ Ron Blackledge,Pittsburgh Steelers,1984,Offensive Line Tackles/Tight Ends
 Bill Meyers,Pittsburgh Steelers,1984,Offensive Line Centers/Guards
 Dennis Fitzgerald,Pittsburgh Steelers,1984,Inside Linebackers
 Jed Hughes,Pittsburgh Steelers,1984,Outside Linebackers
-Jon Kolb,Pittsburgh Steelers,1984,Defensive Line/Conditioning
-Walt Evans,Pittsburgh Steelers,1984,Assistant Conditioning
+Jon Kolb,Pittsburgh Steelers,1984,Defensive Line/Conditioning Coach
+Walt Evans,Pittsburgh Steelers,1984,Assistant Conditioning Coach
 Ralph Berlin,Pittsburgh Steelers,1984,Trainer
 Gary Stragar,Pittsburgh Steelers,1984,Assistant Trainer
 Bobb McKittrick,San Francisco 49ers,1984,Offensive Line
 Fred von Appen,San Francisco 49ers,1984,Assistant Offensive Line/Tight Ends/Special Teams
 Norb Hecker,San Francisco 49ers,1984,Linebackers
 Tommy Hart,San Francisco 49ers,1984,Defensive Assistant
-Tom Catlin,Seattle Seahawks,1984,Assistant Head
+Tom Catlin,Seattle Seahawks,1984,Assistant Head Coach
 Steve Moore,Seattle Seahawks,1984,Receivers
 George Dyer,Seattle Seahawks,1984,Defensive Line
 Ralph Hawkins,Seattle Seahawks,1984,Defensive Backs
-Jim Hanifan,St. Louis Cardinals (NFL),1984,Head
-Leon McLaughlin,St. Louis Cardinals (NFL),1984,Special Assistant Head
+Jim Hanifan,St. Louis Cardinals (NFL),1984,Head Coach
+Leon McLaughlin,St. Louis Cardinals (NFL),1984,Special Assistant Head Coach
 Dick Jamieson,St. Louis Cardinals (NFL),1984,Offensive Backfield
 Emmitt Thomas,St. Louis Cardinals (NFL),1984,Receivers
 Tom Lovat,St. Louis Cardinals (NFL),1984,Offensive Line
-Floyd Peters,St. Louis Cardinals (NFL),1984,Assistant Head/Defense
+Floyd Peters,St. Louis Cardinals (NFL),1984,Assistant Head Coach/Defense
 Rudy Feldman,St. Louis Cardinals (NFL),1984,Linebackers
 Chuck Banker,St. Louis Cardinals (NFL),1984,Defensive Assistant/Special Teams
 Don Brown,St. Louis Cardinals (NFL),1984,Flexibility And Strength
@@ -1250,7 +1250,7 @@ Sam Elliott,Atlanta Falcons,1985,Running Backs
 Bob Harrison,Atlanta Falcons,1985,Receivers
 Larry Beightol,Atlanta Falcons,1985,Offensive Line
 Garry Puetz,Atlanta Falcons,1985,Tight Ends/H-Backs
-Dan Sekanovich,Atlanta Falcons,1985,Assistant Head/Defensive Line
+Dan Sekanovich,Atlanta Falcons,1985,Assistant Head Coach/Defensive Line
 Jack Stanton,Atlanta Falcons,1985,Secondary
 Joe Madden,Atlanta Falcons,1985,Defensive Assistant
 Ted Fritsch,Atlanta Falcons,1985,Special Teams
@@ -1268,7 +1268,7 @@ Dale Haupt,Chicago Bears,1985,Defensive Line
 Jim LaRue,Chicago Bears,1985,Secondary
 Fred Caito,Chicago Bears,1985,Trainer
 Brian McCaskey,Chicago Bears,1985,Assistant Trainer
-Clyde Emrich,Chicago Bears,1985,Weightlifting/Strength
+Clyde Emrich,Chicago Bears,1985,Weightlifting/Strength Coach
 Steve Crosby,Cleveland Browns,1985,Running Backs
 Richard Mann,Cleveland Browns,1985,Receivers
 Howard Mudd,Cleveland Browns,1985,Offensive Line
@@ -1276,7 +1276,7 @@ Tom Pratt,Cleveland Browns,1985,Defensive Line
 Tom Olivadotti,Cleveland Browns,1985,Linebackers
 Darvin Wallis,Cleveland Browns,1985,Special Assistant
 Dave Redding,Cleveland Browns,1985,Strength And Conditioning
-Joe Collier,Denver Broncos,1985,Assistant Head/Defense
+Joe Collier,Denver Broncos,1985,Assistant Head Coach/Defense
 Marvin Bass,Denver Broncos,1985,Special Assistant
 Doc Urich,Denver Broncos,1985,Tight Ends/Assistant Offensive Line
 Alex Gibbs,Denver Broncos,1985,Offensive Line
@@ -1298,7 +1298,7 @@ John Devlin,Houston Oilers,1985,Inside Linebackers
 Gene Gaines,Houston Oilers,1985,Outside Linebackers/Special Teams
 Ken Houston,Houston Oilers,1985,Defensive Backs
 Bill Allerheiligen,Houston Oilers,1985,Strength And Conditioning
-Tom Lovat,Indianapolis Colts,1985,Assistant Head/Offensive Line
+Tom Lovat,Indianapolis Colts,1985,Assistant Head Coach/Offensive Line
 Chip Myers,Indianapolis Colts,1985,Receivers
 George Catavolos,Indianapolis Colts,1985,Secondary
 Tom Zupancic,Indianapolis Colts,1985,Strength And Conditioning
@@ -1357,25 +1357,25 @@ Hal Hunter,Pittsburgh Steelers,1985,Offensive Line Centers/Guards
 Dennis Fitzgerald,Pittsburgh Steelers,1985,Inside Linebackers
 Jed Hughes,Pittsburgh Steelers,1985,Outside Linebackers
 Jon Kolb,Pittsburgh Steelers,1985,Defensive Line
-Walt Evans,Pittsburgh Steelers,1985,Conditioning
+Walt Evans,Pittsburgh Steelers,1985,Conditioning Coach
 Ralph Berlin,Pittsburgh Steelers,1985,Trainer
 Gary Stragar,Pittsburgh Steelers,1985,Trainer
 Bobb McKittrick,San Francisco 49ers,1985,Offensive Line
 Fred von Appen,San Francisco 49ers,1985,Assistant Offensive Line/Tight Ends/Special Teams
 Norb Hecker,San Francisco 49ers,1985,Linebackers
 Tommy Hart,San Francisco 49ers,1985,Defensive Assistant
-Tom Catlin,Seattle Seahawks,1985,Assistant Head
+Tom Catlin,Seattle Seahawks,1985,Assistant Head Coach
 Steve Moore,Seattle Seahawks,1985,Receivers
 Kent Stephenson,Seattle Seahawks,1985,Offensive Line
 George Dyer,Seattle Seahawks,1985,Defensive Line
 Ralph Hawkins,Seattle Seahawks,1985,Defensive Backs
-Jim Hanifan,St. Louis Cardinals (NFL),1985,Head
-Leon McLaughlin,St. Louis Cardinals (NFL),1985,Special Assistant Head
+Jim Hanifan,St. Louis Cardinals (NFL),1985,Head Coach
+Leon McLaughlin,St. Louis Cardinals (NFL),1985,Special Assistant Head Coach
 Chuck Banker,St. Louis Cardinals (NFL),1985,Offensive Backfield
 Emmitt Thomas,St. Louis Cardinals (NFL),1985,Receivers
 Pete Hoener,St. Louis Cardinals (NFL),1985,Tight Ends
 Ernie McMillan,St. Louis Cardinals (NFL),1985,Offensive Line
-Floyd Peters,St. Louis Cardinals (NFL),1985,Assistant Head/Defense
+Floyd Peters,St. Louis Cardinals (NFL),1985,Assistant Head Coach/Defense
 Rudy Feldman,St. Louis Cardinals (NFL),1985,Linebackers
 Lance Van Zandt,St. Louis Cardinals (NFL),1985,Defensive Backfield
 Jerry Smith,St. Louis Cardinals (NFL),1985,Special Teams
@@ -1413,7 +1413,7 @@ Tom Pratt,Cleveland Browns,1986,Defensive Line
 Tom Olivadotti,Cleveland Browns,1986,Secondary
 Darvin Wallis,Cleveland Browns,1986,Special Assistant
 Dave Redding,Cleveland Browns,1986,Strength And Conditioning
-Joe Collier,Denver Broncos,1986,Assistant Head/Defense
+Joe Collier,Denver Broncos,1986,Assistant Head Coach/Defense
 Marvin Bass,Denver Broncos,1986,Special Assistant
 Alex Gibbs,Denver Broncos,1986,Offensive Line
 Kay Dalton,Denver Broncos,1986,Special Offensive Assistant
@@ -1432,7 +1432,7 @@ Doug Shively,Houston Oilers,1986,Defensive Line
 Floyd Reese,Houston Oilers,1986,Linebackers
 Miller McCalmon,Houston Oilers,1986,Special Teams
 Steve Watterson,Houston Oilers,1986,Strength And Rehabilitation
-Tom Lovat,Indianapolis Colts,1986,Assistant Head/Offensive Line
+Tom Lovat,Indianapolis Colts,1986,Assistant Head Coach/Offensive Line
 Chip Myers,Indianapolis Colts,1986,Receivers
 John Marshall,Indianapolis Colts,1986,Defensive Line
 George Catavolos,Indianapolis Colts,1986,Secondary
@@ -1480,7 +1480,7 @@ Lamar Leachman,New York Giants,1986,Defensive Line
 Len Fontes,New York Giants,1986,Defensive Backfield
 Mike Sweatman,New York Giants,1986,Defensive Assistant/Assistant Special Teams
 Johnny Parker,New York Giants,1986,Strength And Conditioning
-Ted Plumb,Philadelphia Eagles,1986,Assistant Head/Offense
+Ted Plumb,Philadelphia Eagles,1986,Assistant Head Coach/Offense
 Doug Scovil,Philadelphia Eagles,1986,Quarterbacks
 Ken Iman,Philadelphia Eagles,1986,Offensive Line
 Dale Haupt,Philadelphia Eagles,1986,Defensive Line
@@ -1491,7 +1491,7 @@ Hal Hunter,Pittsburgh Steelers,1986,Offensive Line Centers/Guards
 Dennis Fitzgerald,Pittsburgh Steelers,1986,Inside Linebackers
 Jed Hughes,Pittsburgh Steelers,1986,Outside Linebackers
 Jon Kolb,Pittsburgh Steelers,1986,Defensive Line
-Walt Evans,Pittsburgh Steelers,1986,Conditioning &Amp; Training
+Walt Evans,Pittsburgh Steelers,1986,Conditioning &Amp; Training Coach
 Ralph Berlin,Pittsburgh Steelers,1986,Trainer
 Fran Feld,Pittsburgh Steelers,1986,Trainer
 Neal Dahlen,San Francisco 49ers,1986,Administrator Of Football Operations
@@ -1499,12 +1499,12 @@ Bobb McKittrick,San Francisco 49ers,1986,Offensive Line
 Fred von Appen,San Francisco 49ers,1986,Assistant Offensive Line/Tight Ends/Special Teams
 Norb Hecker,San Francisco 49ers,1986,Linebackers
 Tommy Hart,San Francisco 49ers,1986,Defensive Assistant
-Tom Catlin,Seattle Seahawks,1986,Assistant Head
+Tom Catlin,Seattle Seahawks,1986,Assistant Head Coach
 Kent Stephenson,Seattle Seahawks,1986,Offensive Line
 Russ Purnell,Seattle Seahawks,1986,Special Assignments
 George Dyer,Seattle Seahawks,1986,Defensive Line
 Ralph Hawkins,Seattle Seahawks,1986,Defensive Backs
-Gene Stallings,St. Louis Cardinals (NFL),1986,Head
+Gene Stallings,St. Louis Cardinals (NFL),1986,Head Coach
 Hank Kuhlmann,St. Louis Cardinals (NFL),1986,Running Backs
 Mal Moore,St. Louis Cardinals (NFL),1986,Receivers
 Pete Hoener,St. Louis Cardinals (NFL),1986,Tight Ends
@@ -1537,7 +1537,7 @@ Howard Mudd,Cleveland Browns,1987,Offensive Line
 Tom Pratt,Cleveland Browns,1987,Defensive Line
 Darvin Wallis,Cleveland Browns,1987,Special Assistant/Defense
 Dave Redding,Cleveland Browns,1987,Strength And Conditioning
-Joe Collier,Denver Broncos,1987,Assistant Head/Defense
+Joe Collier,Denver Broncos,1987,Assistant Head Coach/Defense
 Marvin Bass,Denver Broncos,1987,Special Assistant
 Alex Gibbs,Denver Broncos,1987,Offensive Line
 Stan Jones,Denver Broncos,1987,Defensive Line
@@ -1617,7 +1617,7 @@ Lamar Leachman,New York Giants,1987,Defensive Line
 Len Fontes,New York Giants,1987,Defensive Backfield
 Mike Sweatman,New York Giants,1987,Defensive Assistant/Assistant Special Teams
 Johnny Parker,New York Giants,1987,Strength And Conditioning
-Ted Plumb,Philadelphia Eagles,1987,Assistant Head/Offense
+Ted Plumb,Philadelphia Eagles,1987,Assistant Head Coach/Offense
 Doug Scovil,Philadelphia Eagles,1987,Quarterbacks
 Bill Walsh,Philadelphia Eagles,1987,Offensive Line
 Dan Neal,Philadelphia Eagles,1987,Assistant Offensive Line/Special Teams
@@ -1630,7 +1630,7 @@ Jon Kolb,Pittsburgh Steelers,1987,Computer &Amp; Special Teams
 Dennis Fitzgerald,Pittsburgh Steelers,1987,Computer &Amp; Special Teams
 Joe Greene,Pittsburgh Steelers,1987,Defensive Line
 Jed Hughes,Pittsburgh Steelers,1987,Linebackers
-Walt Evans,Pittsburgh Steelers,1987,Conditioning &Amp; Training
+Walt Evans,Pittsburgh Steelers,1987,Conditioning &Amp; Training Coach
 Ralph Berlin,Pittsburgh Steelers,1987,Trainer
 Fran Feld,Pittsburgh Steelers,1987,Trainer
 Roger Theder,San Diego Chargers,1987,Quarterbacks
@@ -1642,12 +1642,12 @@ Bobb McKittrick,San Francisco 49ers,1987,Offensive Line
 Fred von Appen,San Francisco 49ers,1987,Defensive Line
 Tommy Hart,San Francisco 49ers,1987,Defensive Assistant
 Lynn Stiles,San Francisco 49ers,1987,Special Teams
-Tom Catlin,Seattle Seahawks,1987,Assistant Head
+Tom Catlin,Seattle Seahawks,1987,Assistant Head Coach
 Russ Purnell,Seattle Seahawks,1987,Tight Ends/Assistant Special Teams
 Kent Stephenson,Seattle Seahawks,1987,Offensive Line
 George Dyer,Seattle Seahawks,1987,Defensive Line
 Ralph Hawkins,Seattle Seahawks,1987,Defensive Backs
-Gene Stallings,St. Louis Cardinals (NFL),1987,Head
+Gene Stallings,St. Louis Cardinals (NFL),1987,Head Coach
 Hank Kuhlmann,St. Louis Cardinals (NFL),1987,Running Backs
 Mal Moore,St. Louis Cardinals (NFL),1987,Receivers
 Tom Bresnahan,St. Louis Cardinals (NFL),1987,Offensive Line
@@ -1673,7 +1673,7 @@ Howard Mudd,Cleveland Browns,1988,Offensive Line
 Tom Pratt,Cleveland Browns,1988,Defensive Line
 Darvin Wallis,Cleveland Browns,1988,Special Assistant/Defense
 Dave Redding,Cleveland Browns,1988,Strength And Conditioning
-Joe Collier,Denver Broncos,1988,Assistant Head/Defense
+Joe Collier,Denver Broncos,1988,Assistant Head Coach/Defense
 Marvin Bass,Denver Broncos,1988,Special Assistant
 Mo Forte,Denver Broncos,1988,Running Backs
 George Henshaw,Denver Broncos,1988,Offensive Line
@@ -1700,7 +1700,7 @@ Doug Shively,Houston Oilers,1988,Defensive Line
 Floyd Reese,Houston Oilers,1988,Linebackers
 Dwight Point,Houston Oilers,1988,Special Teams Intern
 Steve Watterson,Houston Oilers,1988,Strength And Rehabilitation
-Tom Lovat,Indianapolis Colts,1988,Assistant Head/Offensive Line
+Tom Lovat,Indianapolis Colts,1988,Assistant Head Coach/Offensive Line
 Chip Myers,Indianapolis Colts,1988,Receivers
 John Marshall,Indianapolis Colts,1988,Defensive Line
 George Catavolos,Indianapolis Colts,1988,Secondary
@@ -1711,7 +1711,7 @@ Carl Mauck,Kansas City Chiefs,1988,Offensive Line
 Don Lawrence,Kansas City Chiefs,1988,Defensive Line
 Ed Beckman,Kansas City Chiefs,1988,Special Teams
 CT Hewgley,Kansas City Chiefs,1988,Strength And Conditioning
-Alex Gibbs,Los Angeles Raiders,1988,Special Assistant Head
+Alex Gibbs,Los Angeles Raiders,1988,Special Assistant Head Coach
 Joe Scannella,Los Angeles Raiders,1988,Offensive Backs
 Earl Leggett,Los Angeles Raiders,1988,Defensive Line
 Sam Gruneisen,Los Angeles Raiders,1988,Linebackers
@@ -1734,8 +1734,8 @@ Jerry Brown,Minnesota Vikings,1988,Offensive Assistant/Receivers
 John Brunner,Minnesota Vikings,1988,Running Backs
 Tom Batta,Minnesota Vikings,1988,Tight Ends/Special Teams
 John Michels,Minnesota Vikings,1988,Offensive Line
-Rod Humenuik,New England Patriots,1988,Assistant Head-Offense
-John Polonchek,New England Patriots,1988,Special Assistant To Head
+Rod Humenuik,New England Patriots,1988,Assistant Head Coach-Offense
+John Polonchek,New England Patriots,1988,Special Assistant To Head Coach
 Harold Jackson,New England Patriots,1988,Receivers
 Dante Scarnecchia,New England Patriots,1988,Tight Ends/Special Teams
 Guy Morriss,New England Patriots,1988,Assistant Offensive Line
@@ -1754,12 +1754,12 @@ Lamar Leachman,New York Giants,1988,Defensive Line
 Len Fontes,New York Giants,1988,Defensive Backfield
 Mike Sweatman,New York Giants,1988,Defensive Assistant/Assistant Special Teams
 Johnny Parker,New York Giants,1988,Strength And Conditioning
-Bobby Hammond,New York Jets,1988,Running Backs
-Dan Radakovich,New York Jets,1988,Offensive Line
+Bobby Hammond,New York Jets,1988,Running Backs Coach
+Dan Radakovich,New York Jets,1988,Offensive Line Coach
 Mike Faulkiner,New York Jets,1988,Secondary
-Larry Pasquale,New York Jets,1988,Special Teams
+Larry Pasquale,New York Jets,1988,Special Teams Coach
 Ray Callahan,New York Jets,1988,Quality Control
-Ted Plumb,Philadelphia Eagles,1988,Assistant Head/Offense
+Ted Plumb,Philadelphia Eagles,1988,Assistant Head Coach/Offense
 Doug Scovil,Philadelphia Eagles,1988,Quarterbacks
 Bill Walsh,Philadelphia Eagles,1988,Offensive Line
 Dan Neal,Philadelphia Eagles,1988,Assistant Offensive Line
@@ -1779,7 +1779,7 @@ Dwain Painter,Pittsburgh Steelers,1988,Receivers
 Dennis Fitzgerald,Pittsburgh Steelers,1988,"Special Teams,Defensive Assistant"
 Joe Greene,Pittsburgh Steelers,1988,Defensive Line
 Jed Hughes,Pittsburgh Steelers,1988,Linebackers
-Walt Evans,Pittsburgh Steelers,1988,Conditioning &Amp; Training
+Walt Evans,Pittsburgh Steelers,1988,Conditioning &Amp; Training Coach
 Ralph Berlin,Pittsburgh Steelers,1988,Trainer
 Fran Feld,Pittsburgh Steelers,1988,Trainer
 Charlie Joiner,San Diego Chargers,1988,Receivers
@@ -1791,7 +1791,7 @@ Bobb McKittrick,San Francisco 49ers,1988,Offensive Line
 Fred von Appen,San Francisco 49ers,1988,Defensive Line
 Tommy Hart,San Francisco 49ers,1988,Defensive Assistant
 Lynn Stiles,San Francisco 49ers,1988,Special Teams
-Tom Catlin,Seattle Seahawks,1988,Assistant Head
+Tom Catlin,Seattle Seahawks,1988,Assistant Head Coach
 Russ Purnell,Seattle Seahawks,1988,Tight Ends/Assistant Special Teams
 Kent Stephenson,Seattle Seahawks,1988,Offensive Line
 George Dyer,Seattle Seahawks,1988,Defensive Line
@@ -1823,7 +1823,7 @@ Hal Hunter,Cleveland Browns,1989,Offensive Line
 John Teerlinck,Cleveland Browns,1989,Defensive Line
 Jed Hughes,Cleveland Browns,1989,Secondary
 Stan Jones,Cleveland Browns,1989,Strength And Conditioning
-Joe DeCamillis,Denver Broncos,1989,Assistant Head
+Joe DeCamillis,Denver Broncos,1989,Assistant Head Coach
 Marvin Bass,Denver Broncos,1989,Special Assistant
 Mo Forte,Denver Broncos,1989,Running Backs
 George Henshaw,Denver Broncos,1989,Offensive Line
@@ -1861,7 +1861,7 @@ Tom Pratt,Kansas City Chiefs,1989,Defensive Line
 Darvin Wallis,Kansas City Chiefs,1989,Special Assistant/Quality Control
 Dave Redding,Kansas City Chiefs,1989,Strength And Conditioning
 Russ Ball,Kansas City Chiefs,1989,Assistant Strength And Conditioning
-Alex Gibbs,Los Angeles Raiders,1989,Assistant Head
+Alex Gibbs,Los Angeles Raiders,1989,Assistant Head Coach
 Joe Scannella,Los Angeles Raiders,1989,Offensive Backs
 Fred Biletnikoff,Los Angeles Raiders,1989,Wide Receivers
 Terry Robiskie,Los Angeles Raiders,1989,Tight Ends
@@ -1871,7 +1871,7 @@ Sam Gruneisen,Los Angeles Raiders,1989,Linebackers
 Jack Stanton,Los Angeles Raiders,1989,Defensive Backs
 Pete Rodriguez,Los Angeles Raiders,1989,Special Teams
 John Dunn,Los Angeles Raiders,1989,Strength And Conditioning
-John Sandusky,Miami Dolphins,1989,Assistant Head/Offensive Line
+John Sandusky,Miami Dolphins,1989,Assistant Head Coach/Offensive Line
 Gary Stevens,Miami Dolphins,1989,Quarterbacks/Pass Offense
 Carl Taseff,Miami Dolphins,1989,Offensive Backs
 Larry Seiple,Miami Dolphins,1989,Receivers
@@ -1885,7 +1885,7 @@ John Brunner,Minnesota Vikings,1989,Running Backs
 Jerry Brown,Minnesota Vikings,1989,Receivers
 Tom Batta,Minnesota Vikings,1989,Tight Ends/Special Teams
 John Michels,Minnesota Vikings,1989,Offensive Line
-John Polonchek,New England Patriots,1989,Special Assistant To Head
+John Polonchek,New England Patriots,1989,Special Assistant To Head Coach
 Bobby Grier,New England Patriots,1989,Offensive Backfield
 Harold Jackson,New England Patriots,1989,Receivers
 Guy Morriss,New England Patriots,1989,Offensive Line
@@ -1898,12 +1898,12 @@ Steve Walters,New Orleans Saints,1989,Wide Receivers
 Joe Marciano,New Orleans Saints,1989,Tight Ends/Special Teams
 Paul Boudreau,New Orleans Saints,1989,Offensive Line
 Russell Paternostro,New Orleans Saints,1989,Strength And Conditioning
-Bobby Hammond,New York Jets,1989,Running Backs
-Rod Humenuik,New York Jets,1989,Offensive Line
+Bobby Hammond,New York Jets,1989,Running Backs Coach
+Rod Humenuik,New York Jets,1989,Offensive Line Coach
 Mike Faulkiner,New York Jets,1989,Secondary
-Larry Pasquale,New York Jets,1989,Special Teams
+Larry Pasquale,New York Jets,1989,Special Teams Coach
 Ray Callahan,New York Jets,1989,Quality Control
-Ted Plumb,Philadelphia Eagles,1989,Assistant Head/Offense
+Ted Plumb,Philadelphia Eagles,1989,Assistant Head Coach/Offense
 Doug Scovil,Philadelphia Eagles,1989,Quarterbacks
 Bill Walsh,Philadelphia Eagles,1989,Offensive Line
 Dan Neal,Philadelphia Eagles,1989,Assistant Offensive Line
@@ -1933,15 +1933,15 @@ Lynn Stiles,San Francisco 49ers,1989,Tight Ends
 Bobb McKittrick,San Francisco 49ers,1989,Offensive Line
 John Marshall,San Francisco 49ers,1989,Defensive Line
 Tommy Hart,San Francisco 49ers,1989,Defensive Assistant
-Tom Catlin,Seattle Seahawks,1989,Assistant Head
+Tom Catlin,Seattle Seahawks,1989,Assistant Head Coach
 Russ Purnell,Seattle Seahawks,1989,Tight Ends/Assistant Special Teams
 Kent Stephenson,Seattle Seahawks,1989,Offensive Line
 George Dyer,Seattle Seahawks,1989,Defensive Line
 Rod Perry,Seattle Seahawks,1989,Defensive Backs
-Ray Sherman,Atlanta Falcons,1990,Assistant Head/Offense
+Ray Sherman,Atlanta Falcons,1990,Assistant Head Coach/Offense
 Jimmy Robinson,Atlanta Falcons,1990,Wide Receivers
 Wayne McDuffie,Atlanta Falcons,1990,Offensive Line
-Doug Shively,Atlanta Falcons,1990,Assistant Head/Defense
+Doug Shively,Atlanta Falcons,1990,Assistant Head Coach/Defense
 Bill Kollar,Atlanta Falcons,1990,Defensive Line
 Jimmy Carr,Atlanta Falcons,1990,Secondary
 Tim Jorgensen,Atlanta Falcons,1990,Strength And Conditioning
@@ -1962,7 +1962,7 @@ Chuck Studley,Cincinnati Bengals,1990,Defensive Line
 Dick Selcer,Cincinnati Bengals,1990,Linebackers
 Marv Braden,Cincinnati Bengals,1990,Special Teams
 Kim Wood,Cincinnati Bengals,1990,Strength
-Dan Radakovich,Cleveland Browns,1990,Assistant Head/Offensive Line
+Dan Radakovich,Cleveland Browns,1990,Assistant Head Coach/Offensive Line
 Richard Mann,Cleveland Browns,1990,Receivers
 John Teerlinck,Cleveland Browns,1990,Defensive Line
 Mike Faulkiner,Cleveland Browns,1990,Secondary
@@ -2024,7 +2024,7 @@ Artie Gigantino,Los Angeles Rams,1990,Assistant Linebackers
 Steve Shafer,Los Angeles Rams,1990,Defensive Secondary
 Jairo Penaranda,Los Angeles Rams,1990,Special Teams
 Garrett Giemont,Los Angeles Rams,1990,Strength And Conditioning
-John Sandusky,Miami Dolphins,1990,Assistant Head/Offensive Line
+John Sandusky,Miami Dolphins,1990,Assistant Head Coach/Offensive Line
 Gary Stevens,Miami Dolphins,1990,Quarterbacks/Pass Offense
 Carl Taseff,Miami Dolphins,1990,Offensive Backs
 Larry Seiple,Miami Dolphins,1990,Receivers
@@ -2039,7 +2039,7 @@ Tom Batta,Minnesota Vikings,1990,Tight Ends/Special Teams
 John Michels,Minnesota Vikings,1990,Offensive Line
 Maxie Baughan,Minnesota Vikings,1990,Linebackers
 Jerry Brown,Minnesota Vikings,1990,Defensive Backs
-John Polonchek,New England Patriots,1990,Special Assistant Head
+John Polonchek,New England Patriots,1990,Special Assistant Head Coach
 Bobby Grier,New England Patriots,1990,Offensive Backs
 Steve Crosby,New England Patriots,1990,Tight Ends/Special Teams
 Rod Humenuik,New England Patriots,1990,Offensive Line
@@ -2068,7 +2068,7 @@ Bob Rogucki,Phoenix Cardinals,1990,Strength And Conditioning
 James A Boston,Pittsburgh Steelers,1990,Chief Negotiator/Travel
 Dick Hoak,Pittsburgh Steelers,1990,Offensive Backfield
 Dwain Painter,Pittsburgh Steelers,1990,Receivers
-Jon Kolb,Pittsburgh Steelers,1990,Tight Ends/Conditioning
+Jon Kolb,Pittsburgh Steelers,1990,Tight Ends/Conditioning Coach
 Ron Blackledge,Pittsburgh Steelers,1990,Offensive Line
 Joe Greene,Pittsburgh Steelers,1990,Defensive Line
 Bob Valesente,Pittsburgh Steelers,1990,Linebackers
@@ -2088,18 +2088,18 @@ Bobb McKittrick,San Francisco 49ers,1990,Offensive Line
 John Marshall,San Francisco 49ers,1990,Defensive Line
 Dwaine Board,San Francisco 49ers,1990,Assistant Defensive Line
 Tommy Hart,San Francisco 49ers,1990,Defensive Assistant
-Tom Catlin,Seattle Seahawks,1990,Assistant Head
+Tom Catlin,Seattle Seahawks,1990,Assistant Head Coach
 Russ Purnell,Seattle Seahawks,1990,Tight Ends/Assistant Special Teams
 Kent Stephenson,Seattle Seahawks,1990,Offensive Line
 George Dyer,Seattle Seahawks,1990,Defensive Line
 Rod Perry,Seattle Seahawks,1990,Defensive Backs
 Paul Moyer,Seattle Seahawks,1990,Staff Assistant
 Frank Raines,Seattle Seahawks,1990,Strength And Conditioning
-June Jones,Atlanta Falcons,1991,Assistant Head/Offense
+June Jones,Atlanta Falcons,1991,Assistant Head Coach/Offense
 Ollie Wilson,Atlanta Falcons,1991,Running Backs
 Jimmy Robinson,Atlanta Falcons,1991,Wide Receivers
 Bobby April,Atlanta Falcons,1991,Tight Ends/Special Teams
-Doug Shively,Atlanta Falcons,1991,Assistant Head/Defense
+Doug Shively,Atlanta Falcons,1991,Assistant Head Coach/Defense
 Bill Kollar,Atlanta Falcons,1991,Defensive Line
 Jimmy Carr,Atlanta Falcons,1991,Secondary
 Tim Jorgensen,Atlanta Falcons,1991,Strength And Conditioning
@@ -2187,7 +2187,7 @@ Marv Goux,Los Angeles Rams,1991,Defensive Line
 John Teerlinck,Los Angeles Rams,1991,Defensive Line
 Nolan Cromwell,Los Angeles Rams,1991,Defensive/Special Teams Assistant
 Garrett Giemont,Los Angeles Rams,1991,Strength And Conditioning
-John Sandusky,Miami Dolphins,1991,Assistant Head/Offensive Line
+John Sandusky,Miami Dolphins,1991,Assistant Head Coach/Offensive Line
 Gary Stevens,Miami Dolphins,1991,Quarterbacks/Pass Offense
 Carl Taseff,Miami Dolphins,1991,Offensive Backs
 Larry Seiple,Miami Dolphins,1991,Wide Receivers
@@ -2235,7 +2235,7 @@ Pete Rodriguez,Phoenix Cardinals,1991,Special Teams
 Bob Rogucki,Phoenix Cardinals,1991,Strength And Conditioning
 Dick Hoak,Pittsburgh Steelers,1991,Offensive Backfield
 Dwain Painter,Pittsburgh Steelers,1991,Receivers
-Jon Kolb,Pittsburgh Steelers,1991,Tight Ends/Conditioning
+Jon Kolb,Pittsburgh Steelers,1991,Tight Ends/Conditioning Coach
 Ron Blackledge,Pittsburgh Steelers,1991,Offensive Line
 Jack Henry,Pittsburgh Steelers,1991,Offensive Line
 Joe Greene,Pittsburgh Steelers,1991,Defensive Line
@@ -2256,7 +2256,7 @@ Bobb McKittrick,San Francisco 49ers,1991,Offensive Line
 John Marshall,San Francisco 49ers,1991,Defensive Line
 Dwaine Board,San Francisco 49ers,1991,Defensive Assistant
 Tommy Hart,San Francisco 49ers,1991,Defensive Assistant
-Tom Catlin,Seattle Seahawks,1991,Assistant Head
+Tom Catlin,Seattle Seahawks,1991,Assistant Head Coach
 Russ Purnell,Seattle Seahawks,1991,Tight Ends/Assistant Special Teams
 Kent Stephenson,Seattle Seahawks,1991,Offensive Line
 George Dyer,Seattle Seahawks,1991,Defensive Line
@@ -2273,7 +2273,7 @@ Jeff FitzGerald,Tampa Bay Buccaneers,1991,Defensive Assistant
 Richard Wood,Tampa Bay Buccaneers,1991,Defensive Assistant
 Alan Lowry,Tampa Bay Buccaneers,1991,Special Teams/Tight Ends
 Kent Johnston,Tampa Bay Buccaneers,1991,Strength And Conditioning
-Richie Petitbon,Washington Redskins,1991,Assistant Head/Defense
+Richie Petitbon,Washington Redskins,1991,Assistant Head Coach/Defense
 Don Breaux,Washington Redskins,1991,Running Backs
 Charley Taylor,Washington Redskins,1991,Research And Development/Wide Receivers
 Rennie Simmons,Washington Redskins,1991,Offensive Line
@@ -2282,15 +2282,15 @@ Bobby DePaul,Washington Redskins,1991,Admininistrative Assistant/Defensive Line
 Wayne Sevier,Washington Redskins,1991,Special Teams
 Dan Riley,Washington Redskins,1991,Strength
 Steve Wetzel,Washington Redskins,1991,Assistant Strength
-June Jones,Atlanta Falcons,1992,Assistant Head/Offense
+June Jones,Atlanta Falcons,1992,Assistant Head Coach/Offense
 Ollie Wilson,Atlanta Falcons,1992,Running Backs
 Jimmy Robinson,Atlanta Falcons,1992,Wide Receivers
 Bobby April,Atlanta Falcons,1992,Tight Ends/Special Teams
-Doug Shively,Atlanta Falcons,1992,Assistant Head/Defense
+Doug Shively,Atlanta Falcons,1992,Assistant Head Coach/Defense
 Bill Kollar,Atlanta Falcons,1992,Defensive Line
 Jimmy Carr,Atlanta Falcons,1992,Secondary
 Tim Jorgensen,Atlanta Falcons,1992,Strength And Conditioning
-Elijah Pitts,Buffalo Bills,1992,Assistant Head/Running Backs
+Elijah Pitts,Buffalo Bills,1992,Assistant Head Coach/Running Backs
 Charlie Joiner,Buffalo Bills,1992,Receivers
 Don Lawrence,Buffalo Bills,1992,Offensive Quality Control/Tight Ends
 Dan Sekanovich,Buffalo Bills,1992,Defensive Line
@@ -2301,7 +2301,7 @@ Johnny Roland,Chicago Bears,1992,Running Backs
 Vic Rapp,Chicago Bears,1992,Wide Receivers
 Steve Kazor,Chicago Bears,1992,Tight Ends
 John Levra,Chicago Bears,1992,Defensive Line
-Dave Shula,Cincinnati Bengals,1992,Head
+Dave Shula,Cincinnati Bengals,1992,Head Coach
 Jim Anderson,Cincinnati Bengals,1992,Running Backs
 Jim McNally,Cincinnati Bengals,1992,Offensive Line
 Bob Karmelowicz,Cincinnati Bengals,1992,Defensive Line
@@ -2379,7 +2379,7 @@ Jim Erkenbeck,Los Angeles Rams,1992,Offensive Line
 Dick Selcer,Los Angeles Rams,1992,Linebackers
 Rod Perry,Los Angeles Rams,1992,Defensive Backs
 Chris Clausen,Los Angeles Rams,1992,Strength And Conditioning
-John Sandusky,Miami Dolphins,1992,Assistant Head/Offensive Line
+John Sandusky,Miami Dolphins,1992,Assistant Head Coach/Offensive Line
 Gary Stevens,Miami Dolphins,1992,Offense/Quarterbacks
 Carl Taseff,Miami Dolphins,1992,Offensive Backs
 Larry Seiple,Miami Dolphins,1992,Wide Receivers
@@ -2408,7 +2408,7 @@ Norm Gerber,New England Patriots,1992,Inside Linebackers
 Myrel Moore,New England Patriots,1992,Outside Linebackers
 Charlie West,New England Patriots,1992,Defensive Backs
 Ian Pyka,New England Patriots,1992,Strength And Conditioning
-Jim E Mora,New Orleans Saints,1992,Head
+Jim E Mora,New Orleans Saints,1992,Head Coach
 Steve Walters,New Orleans Saints,1992,Wide Receivers
 Joe Marciano,New Orleans Saints,1992,Tight Ends/Special Teams
 Paul Boudreau,New Orleans Saints,1992,Offensive Line
@@ -2463,11 +2463,11 @@ Jeff FitzGerald,Tampa Bay Buccaneers,1992,Defensive Assistant
 George Stewart,Tampa Bay Buccaneers,1992,Special Teams/Tight Ends
 Ray Oliver,Tampa Bay Buccaneers,1992,Strength And Conditioning
 Dennis Green,Tampa Bay Buccaneers,1992,Strength And Conditioning Assistant
-June Jones,Atlanta Falcons,1993,Assistant Head/Offense
+June Jones,Atlanta Falcons,1993,Assistant Head Coach/Offense
 Ollie Wilson,Atlanta Falcons,1993,Running Backs
 Jimmy Robinson,Atlanta Falcons,1993,Wide Receivers
 Bobby April,Atlanta Falcons,1993,Tight Ends/Special Teams
-Doug Shively,Atlanta Falcons,1993,Assistant Head/Defense
+Doug Shively,Atlanta Falcons,1993,Assistant Head Coach/Defense
 Bill Kollar,Atlanta Falcons,1993,Defensive Line
 Jimmy Carr,Atlanta Falcons,1993,Secondary
 Tim Jorgensen,Atlanta Falcons,1993,Strength And Conditioning
@@ -2476,7 +2476,7 @@ Ivan Fears,Chicago Bears,1993,Wide Receivers
 Tony Wise,Chicago Bears,1993,Offensive Line
 Clarence Brooks,Chicago Bears,1993,Defensive Line
 Carlos Mainord,Chicago Bears,1993,Defensive Assistant
-Dave Shula,Cincinnati Bengals,1993,Head
+Dave Shula,Cincinnati Bengals,1993,Head Coach
 Jim Anderson,Cincinnati Bengals,1993,Running Backs
 Jim McNally,Cincinnati Bengals,1993,Offensive Line
 Bob Karmelowicz,Cincinnati Bengals,1993,Defensive Line
@@ -2492,7 +2492,7 @@ Kevin Spencer,Cleveland Browns,1993,Offensive Assistant
 John Mitchell,Cleveland Browns,1993,Defensive Line
 Scott O'Brien,Cleveland Browns,1993,Special Teams
 Jerry Simmons,Cleveland Browns,1993,Strength And Conditioning
-Harold Richardson,Denver Broncos,1993,Assistant Head/Offense
+Harold Richardson,Denver Broncos,1993,Assistant Head Coach/Offense
 Bishop Harris,Denver Broncos,1993,Running Backs
 Mo Forte,Denver Broncos,1993,Wide Receivers
 John Levra,Denver Broncos,1993,Offensive Line
@@ -2501,7 +2501,7 @@ Barney Chavous,Denver Broncos,1993,Assistant Defensive Line/Strength Assistant
 John Paul Young,Denver Broncos,1993,Linebackers
 Alvin Reynolds,Denver Broncos,1993,Assistant Defensive Backs/Quality Control
 Vernon Banks,Denver Broncos,1993,Strength And Conditioning
-Dave Levy,Detroit Lions,1993,Assistant Head
+Dave Levy,Detroit Lions,1993,Assistant Head Coach
 Billie Matthews,Detroit Lions,1993,Running Backs
 Charlie Sanders,Detroit Lions,1993,Receivers
 Jerry Wampfler,Detroit Lions,1993,Offensive Line
@@ -2558,7 +2558,7 @@ Rod Perry,Los Angeles Rams,1993,Defensive Backs
 Greg Gaines,Los Angeles Rams,1993,Defensive Assistant
 Chris Clausen,Los Angeles Rams,1993,Strength And Conditioning
 Carl Taseff,Miami Dolphins,1993,Staff Assistant
-John Sandusky,Miami Dolphins,1993,Assistant Head/Offensive Line
+John Sandusky,Miami Dolphins,1993,Assistant Head Coach/Offensive Line
 Gary Stevens,Miami Dolphins,1993,Offense/Quarterbacks
 Tony Nathan,Miami Dolphins,1993,Offensive Backs
 Larry Seiple,Miami Dolphins,1993,Wide Receivers
@@ -2581,7 +2581,7 @@ Bob Trott,New England Patriots,1993,Defensive Backs
 Dante Scarnecchia,New England Patriots,1993,Special Assistant
 Mike Sweatman,New England Patriots,1993,Special Teams
 Johnny Parker,New England Patriots,1993,Strength And Conditioning
-Jim E Mora,New Orleans Saints,1993,Head
+Jim E Mora,New Orleans Saints,1993,Head Coach
 Steve Walters,New Orleans Saints,1993,Wide Receivers
 Joe Marciano,New Orleans Saints,1993,Tight Ends/Special Teams
 Paul Boudreau,New Orleans Saints,1993,Offensive Line
@@ -2651,7 +2651,7 @@ George Martinez,Arizona Cardinals,1994,Quality Control
 Al Roberts,Arizona Cardinals,1994,Special Teams
 Bob Rogucki,Arizona Cardinals,1994,Strength And Conditioning
 Ollie Wilson,Atlanta Falcons,1994,Running Backs
-Milt Jackson,Atlanta Falcons,1994,Assistant Head/Wide Receivers
+Milt Jackson,Atlanta Falcons,1994,Assistant Head Coach/Wide Receivers
 Bob Palcic,Atlanta Falcons,1994,Offensive Line
 Bill Kollar,Atlanta Falcons,1994,Defensive Line
 Keith Armstrong,Atlanta Falcons,1994,Outside Linebackers
@@ -2659,20 +2659,20 @@ Greg Brown,Atlanta Falcons,1994,Secondary
 Tim Marcum,Atlanta Falcons,1994,Defensive Assistant
 Tim Jorgensen,Atlanta Falcons,1994,Strength And Conditioning
 Tom Telesco,Buffalo Bills,1994,Summer Intern
-Elijah Pitts,Buffalo Bills,1994,Assistant Head/Running Backs
-Charlie Joiner,Buffalo Bills,1994,Receivers
+Elijah Pitts,Buffalo Bills,1994,Assistant Head Coach/Running Backs Coach
+Charlie Joiner,Buffalo Bills,1994,Receivers Coach
 Don Lawrence,Buffalo Bills,1994,Offensive Quality Control/Tight Ends
 Don Sekanovich,Buffalo Bills,1994,Defensive Line
 Dick Roach,Buffalo Bills,1994,Defensive Backs
-Walt Corey,Buffalo Bills,1994,Linebackers
-Chuck Lester,Buffalo Bills,1994,Assistant Linebackers
+Walt Corey,Buffalo Bills,1994,Linebackers Coach
+Chuck Lester,Buffalo Bills,1994,Assistant Linebackers Coach
 Bruce DeHaven,Buffalo Bills,1994,Special Teams
 Joe Pendry,Chicago Bears,1994,Running Backs
 Ivan Fears,Chicago Bears,1994,Wide Receivers
 Tony Wise,Chicago Bears,1994,Offensive Line
 Clarence Brooks,Chicago Bears,1994,Defensive Line
 Carlos Mainord,Chicago Bears,1994,Defensive Assistant
-Dave Shula,Cincinnati Bengals,1994,Head
+Dave Shula,Cincinnati Bengals,1994,Head Coach
 Jim Anderson,Cincinnati Bengals,1994,Running Backs
 Paul Alexander,Cincinnati Bengals,1994,Tight Ends
 Jim McNally,Cincinnati Bengals,1994,Offensive Line
@@ -2688,7 +2688,7 @@ Jacob Burney,Cleveland Browns,1994,Defensive Line
 Rick Venturi,Cleveland Browns,1994,Defensive Backfield
 Scott O'Brien,Cleveland Browns,1994,Special Teams
 Jerry Simmons,Cleveland Browns,1994,Strength And Conditioning
-Harold Richardson,Denver Broncos,1994,Assistant Head/Offense
+Harold Richardson,Denver Broncos,1994,Assistant Head Coach/Offense
 Bishop Harris,Denver Broncos,1994,Running Backs
 Mo Forte,Denver Broncos,1994,Wide Receivers
 John Levra,Denver Broncos,1994,Offensive Line
@@ -2698,7 +2698,7 @@ John Paul Young,Denver Broncos,1994,Linebackers
 Leon Fuller,Denver Broncos,1994,Defensive Backs/Secondary
 Alvin Reynolds,Denver Broncos,1994,Assistant Defensive Backs/Quality Control
 Vernon Banks,Denver Broncos,1994,Strength And Conditioning
-Dave Levy,Detroit Lions,1994,Assistant Head/Offense
+Dave Levy,Detroit Lions,1994,Assistant Head Coach/Offense
 Billie Matthews,Detroit Lions,1994,Running Backs
 Charlie Sanders,Detroit Lions,1994,Receivers
 Dave Jaumotte,Detroit Lions,1994,Tight Ends/H-Backs
@@ -2715,7 +2715,7 @@ Larry Brooks,Green Bay Packers,1994,Defensive Line
 Bob Valesente,Green Bay Packers,1994,Linebackers
 Nolan Cromwell,Green Bay Packers,1994,Special Teams
 Kent Johnston,Green Bay Packers,1994,Strength And Conditioning
-Kevin Gilbride,Houston Oilers,1994,Assistant Head/Offense
+Kevin Gilbride,Houston Oilers,1994,Assistant Head Coach/Offense
 Frank Novak,Houston Oilers,1994,Running Backs/Special Teams
 Charlie Baggett,Houston Oilers,1994,Receivers
 Bob Young,Houston Oilers,1994,Offensive Line
@@ -2761,7 +2761,7 @@ Gary Stevens,Miami Dolphins,1994,Offense/Quarterbacks
 Tony Nathan,Miami Dolphins,1994,Offensive Backs
 Larry Seiple,Miami Dolphins,1994,Wide Receivers
 Rich McGeorge,Miami Dolphins,1994,Assistant Offensive Line/Tight Ends
-John Sandusky,Miami Dolphins,1994,Assistant Head/Offensive Line
+John Sandusky,Miami Dolphins,1994,Assistant Head Coach/Offensive Line
 Tom Olivadotti,Miami Dolphins,1994,Defense
 Joe Greene,Miami Dolphins,1994,Defensive Line
 Mel Phillips,Miami Dolphins,1994,Defensive Backs
@@ -2830,7 +2830,7 @@ Neal Dahlen,San Francisco 49ers,1994,Coaching Administrator And Financial Liaiso
 Carl Jackson,San Francisco 49ers,1994,Running Backs
 Larry Kirksey,San Francisco 49ers,1994,Receivers
 Bobb McKittrick,San Francisco 49ers,1994,Offensive Line
-Brian Pariani,San Francisco 49ers,1994,Offensivees Assistant
+Brian Pariani,San Francisco 49ers,1994,Offensive Coaches Assistant
 Dwaine Board,San Francisco 49ers,1994,Defensive Line
 John Marshall,San Francisco 49ers,1994,Linebackers
 Tom Holmoe,San Francisco 49ers,1994,Defensive Backs
@@ -2862,7 +2862,7 @@ Dan Neal,Arizona Cardinals,1995,Offensive Line
 Jim Stanley,Arizona Cardinals,1995,Defensive Line
 Al Roberts,Arizona Cardinals,1995,Special Teams
 Bob Rogucki,Arizona Cardinals,1995,Strength And Conditioning
-Elijah Pitts,Buffalo Bills,1995,Assistant Head/Running Backs
+Elijah Pitts,Buffalo Bills,1995,Assistant Head Coach/Running Backs
 Charlie Joiner,Buffalo Bills,1995,Receivers
 Don Lawrence,Buffalo Bills,1995,Offensive Quality Control/Tight Ends
 Dan Sekanovich,Buffalo Bills,1995,Defensive Line
@@ -2877,12 +2877,12 @@ Billy Davis,Carolina Panthers,1995,Outside Linebackers
 George Catavolos,Carolina Panthers,1995,Defensive Backs
 Brad Seely,Carolina Panthers,1995,Special Teams
 Chip Morton,Carolina Panthers,1995,Strength And Conditioning
-Tony Wise,Chicago Bears,1995,Assistant Head/Offensive Line
+Tony Wise,Chicago Bears,1995,Assistant Head Coach/Offensive Line
 Willie Peete,Chicago Bears,1995,Running Backs
 Ivan Fears,Chicago Bears,1995,Wide Receivers
 Clarence Brooks,Chicago Bears,1995,Defensive Line
 Carlos Mainord,Chicago Bears,1995,Defensive Assistant
-Dave Shula,Cincinnati Bengals,1995,Head
+Dave Shula,Cincinnati Bengals,1995,Head Coach
 Jim Anderson,Cincinnati Bengals,1995,Running Backs
 Paul Alexander,Cincinnati Bengals,1995,Offensive Line
 John Garrett,Cincinnati Bengals,1995,Offensive Assistant/Wide Receivers
@@ -2898,14 +2898,14 @@ John Settle,Cleveland Browns,1995,Offensive Assistant
 Jacob Burney,Cleveland Browns,1995,Defensive Line
 Scott O'Brien,Cleveland Browns,1995,Special Teams
 Jerry Simmons,Cleveland Browns,1995,Strength And Conditioning
-Alex Gibbs,Denver Broncos,1995,Assistant Head/Offensive Line
+Alex Gibbs,Denver Broncos,1995,Assistant Head Coach/Offensive Line
 Bobby Turner,Denver Broncos,1995,Running Backs
 Brian Pariani,Denver Broncos,1995,Tight Ends
 Barney Chavous,Denver Broncos,1995,Assistant Offensive Line/Strength Assistant
 Alvin Reynolds,Denver Broncos,1995,Assistant Defensive Backs
 Rich Tuten,Denver Broncos,1995,Strength And Conditioning
 Greg Saporta,Denver Broncos,1995,Assistant Strength And Conditioning
-John Teerlinck,Detroit Lions,1995,Assistant Head/Defense
+John Teerlinck,Detroit Lions,1995,Assistant Head Coach/Defense
 Mo Forte,Detroit Lions,1995,Running Backs
 Charlie Sanders,Detroit Lions,1995,Receivers
 Steve Kazor,Detroit Lions,1995,Tight Ends/Offensive Assistant
@@ -3023,7 +3023,7 @@ Dwaine Board,San Francisco 49ers,1995,Defensive Line
 John Marshall,San Francisco 49ers,1995,Linebackers
 Tom Holmoe,San Francisco 49ers,1995,Defensive Backs
 Alan Lowry,San Francisco 49ers,1995,Special Teams
-Gregg Smith,Seattle Seahawks,1995,Assistant Head/Tight Ends
+Gregg Smith,Seattle Seahawks,1995,Assistant Head Coach/Tight Ends
 Rich Olson,Seattle Seahawks,1995,Quarterbacks
 Howard Mudd,Seattle Seahawks,1995,Offensive Line
 Ned James,Seattle Seahawks,1995,Offensive Staff Assistant
@@ -3033,7 +3033,7 @@ Dave Brown,Seattle Seahawks,1995,Defensive
 Arnie Matsumoto,Seattle Seahawks,1995,Defensive Staff Assistant
 Dave Arnold,Seattle Seahawks,1995,Special Teams
 Dana LeDuc,Seattle Seahawks,1995,Strength And Conditioning
-Johnny Roland,St. Louis Rams,1995,Assistant Head/Running Backs
+Johnny Roland,St. Louis Rams,1995,Assistant Head Coach/Running Backs
 Steve Greatwood,St. Louis Rams,1995,Offensive Line/Tight Ends
 Dan Radakovich,St. Louis Rams,1995,Offensive Line
 John Ramsdell,St. Louis Rams,1995,Offensive Assistant/Quality Control
@@ -3063,16 +3063,16 @@ Joe Greene,Arizona Cardinals,1996,Defensive Line
 Glenn Pires,Arizona Cardinals,1996,Linebackers
 Al Everest,Arizona Cardinals,1996,Special Teams
 Bob Rogucki,Arizona Cardinals,1996,Strength And Conditioning
-Milt Jackson,Atlanta Falcons,1996,Assistant Head/Wide Receivers
+Milt Jackson,Atlanta Falcons,1996,Assistant Head Coach/Wide Receivers
 Mouse Davis,Atlanta Falcons,1996,Quarterbacks
 Ollie Wilson,Atlanta Falcons,1996,Running Backs
 Bob Palcic,Atlanta Falcons,1996,Offensive Line
-Rod Rust,Atlanta Falcons,1996,Assistant Head/Defense
+Rod Rust,Atlanta Falcons,1996,Assistant Head Coach/Defense
 Bill Kollar,Atlanta Falcons,1996,Defensive Line
 Keith Armstrong,Atlanta Falcons,1996,Secondary
 Will Lewis,Atlanta Falcons,1996,Defensive Assistant
 Tim Jorgensen,Atlanta Falcons,1996,Strength And Conditioning
-Kirk Ferentz,Baltimore Ravens,1996,Assistant Head/Offense
+Kirk Ferentz,Baltimore Ravens,1996,Assistant Head Coach/Offense
 Don Strock,Baltimore Ravens,1996,Quarterbacks
 Al Lavan,Baltimore Ravens,1996,Running Backs
 Pat Hill,Baltimore Ravens,1996,Tight Ends
@@ -3082,11 +3082,11 @@ Alvin Reynolds,Baltimore Ravens,1996,Defensive Backs
 Scott O'Brien,Baltimore Ravens,1996,Special Teams
 John Settle,Baltimore Ravens,1996,Quality Control/Special Teams
 Jerry Simmons,Baltimore Ravens,1996,Strength And Conditioning
-Elijah Pitts,Buffalo Bills,1996,Assistant Head/Running Backs
+Elijah Pitts,Buffalo Bills,1996,Assistant Head Coach/Running Backs
 Charlie Joiner,Buffalo Bills,1996,Receivers
 Don Lawrence,Buffalo Bills,1996,Offensive Quality Control/Tight Ends
 Don Sekanovich,Buffalo Bills,1996,Defensive Line
-Chuck Lester,Buffalo Bills,1996,Assistant Linebackers
+Chuck Lester,Buffalo Bills,1996,Assistant Linebackers Coach
 Dick Roach,Buffalo Bills,1996,Defensive Backs
 Bruce DeHaven,Buffalo Bills,1996,Special Teams
 Jim McNally,Carolina Panthers,1996,Offensive Line
@@ -3097,13 +3097,13 @@ Billy Davis,Carolina Panthers,1996,Outside Linebackers
 George Catavolos,Carolina Panthers,1996,Defensive Backs
 Brad Seely,Carolina Panthers,1996,Special Teams
 Chip Morton,Carolina Panthers,1996,Strength And Conditioning
-Tony Wise,Chicago Bears,1996,Assistant Head/Offensive Line
+Tony Wise,Chicago Bears,1996,Assistant Head Coach/Offensive Line
 Willie Peete,Chicago Bears,1996,Running Backs
 Ivan Fears,Chicago Bears,1996,Wide Receivers
 Ted Plumb,Chicago Bears,1996,Tight Ends
 Clarence Brooks,Chicago Bears,1996,Defensive Line
 Carlos Mainord,Chicago Bears,1996,Defensive Backs
-Dave Shula,Cincinnati Bengals,1996,Head
+Dave Shula,Cincinnati Bengals,1996,Head Coach
 Ken Anderson,Cincinnati Bengals,1996,Quarterbacks
 Jim Anderson,Cincinnati Bengals,1996,Running Backs
 John Garrett,Cincinnati Bengals,1996,Wide Receivers
@@ -3113,14 +3113,14 @@ Ron Meeks,Cincinnati Bengals,1996,Defensive Backs
 Bobby DePaul,Cincinnati Bengals,1996,Staff Assistant
 Joe Wessel,Cincinnati Bengals,1996,Special Teams
 Kim Wood,Cincinnati Bengals,1996,Strength And Conditioning
-Alex Gibbs,Denver Broncos,1996,Assistant Head/Offensive Line
+Alex Gibbs,Denver Broncos,1996,Assistant Head Coach/Offensive Line
 Bobby Turner,Denver Broncos,1996,Running Backs
 Brian Pariani,Denver Broncos,1996,Tight Ends
 Barney Chavous,Denver Broncos,1996,Assistant Offensive Line/Strength Assistant
 Rick Smith,Denver Broncos,1996,Defensive Assistant
 Rich Tuten,Denver Broncos,1996,Strength And Conditioning
 Greg Saporta,Denver Broncos,1996,Assistant Strength And Conditioning
-John Teerlinck,Detroit Lions,1996,Assistant Head/Defense
+John Teerlinck,Detroit Lions,1996,Assistant Head Coach/Defense
 Mo Forte,Detroit Lions,1996,Running Backs
 Charlie Sanders,Detroit Lions,1996,Receivers
 Steve Kazor,Detroit Lions,1996,Tight Ends/Offensive Assistant
@@ -3183,7 +3183,7 @@ Fred Hoaglin,New England Patriots,1996,Offensive Line
 Dante Scarnecchia,New England Patriots,1996,Defensive Assistant/Linebackers
 Mike Sweatman,New England Patriots,1996,Special Teams
 Johnny Parker,New England Patriots,1996,Strength And Conditioning
-Jim E Mora,New Orleans Saints,1996,Head
+Jim E Mora,New Orleans Saints,1996,Head Coach
 Steve Walters,New Orleans Saints,1996,Wide Receivers
 John Matsko,New Orleans Saints,1996,Offensive Line
 Wayne Nunnely,New Orleans Saints,1996,Defensive Line
@@ -3197,11 +3197,11 @@ James Daniel,New York Giants,1996,Tight Ends
 Earl Leggett,New York Giants,1996,Defensive Line
 Joe DeCamillis,New York Giants,1996,Special Teams
 Al Miller,New York Giants,1996,Strength And Conditioning
-Richard Mann,New York Jets,1996,Wide Receivers
+Richard Mann,New York Jets,1996,Wide Receivers Coach
 Dick Wood,New York Jets,1996,Running Backs
 Pat Hodgson,New York Jets,1996,Tight Ends
-Ray Hamilton,New York Jets,1996,Defensive Line
-Tom Gamble,New York Jets,1996,Quality Control/Defensive Assistant
+Ray Hamilton,New York Jets,1996,Defensive Line Coach
+Tom Gamble,New York Jets,1996,Quality Control/Defensive Assistant Coach
 Gerald Carr,Philadelphia Eagles,1996,Wide Receivers
 Ted Williams,Philadelphia Eagles,1996,Tight Ends
 Chuck Knox Jr,Philadelphia Eagles,1996,Defensive Assistant
@@ -3238,7 +3238,7 @@ John Marshall,San Francisco 49ers,1996,Linebackers
 Johnnie Lynn,San Francisco 49ers,1996,Defensive Backs
 Bo Pelini,San Francisco 49ers,1996,Defensive Assistant
 George Stewart,San Francisco 49ers,1996,Special Teams
-Gregg Smith,Seattle Seahawks,1996,Assistant Head/Tight Ends
+Gregg Smith,Seattle Seahawks,1996,Assistant Head Coach/Tight Ends
 Rich Olson,Seattle Seahawks,1996,Quarterbacks
 Howard Mudd,Seattle Seahawks,1996,Offensive Line
 Ned James,Seattle Seahawks,1996,Offensive Staff Assistant
@@ -3248,7 +3248,7 @@ Dave Brown,Seattle Seahawks,1996,Defensive
 Keith Gilbertson,Seattle Seahawks,1996,Quality Assistant
 Dave Arnold,Seattle Seahawks,1996,Special Teams
 Dana LeDuc,Seattle Seahawks,1996,Strength And Conditioning
-Johnny Roland,St. Louis Rams,1996,Assistant Head/Running Backs
+Johnny Roland,St. Louis Rams,1996,Assistant Head Coach/Running Backs
 John Ramsdell,St. Louis Rams,1996,Tight Ends
 Steve Greatwood,St. Louis Rams,1996,Offensive Line
 George Warhop,St. Louis Rams,1996,Offensive Line
@@ -3257,7 +3257,7 @@ Dick Selcer,St. Louis Rams,1996,Linebackers
 Steve Brown,St. Louis Rams,1996,Cornerbacks
 Nick Aliotti,St. Louis Rams,1996,Special Teams
 Chris Clausen,St. Louis Rams,1996,Strength And Conditioning
-Herman Edwards,Tampa Bay Buccaneers,1996,Assistant Head/Defensive Backs
+Herman Edwards,Tampa Bay Buccaneers,1996,Assistant Head Coach/Defensive Backs
 Tony Nathan,Tampa Bay Buccaneers,1996,Running Backs
 Charlie Williams,Tampa Bay Buccaneers,1996,Wide Receivers
 Ricky Porter,Tampa Bay Buccaneers,1996,Offensive Assistant
@@ -3278,8 +3278,8 @@ Joe Greene,Arizona Cardinals,1997,Defensive Line
 Glenn Pires,Arizona Cardinals,1997,Linebackers
 Al Everest,Arizona Cardinals,1997,Special Teams
 Bob Rogucki,Arizona Cardinals,1997,Strength And Conditioning
-Rich Brooks,Atlanta Falcons,1997,Assistant Head
-Harold Richardson,Atlanta Falcons,1997,Assistant Head/Football Operations
+Rich Brooks,Atlanta Falcons,1997,Assistant Head Coach
+Harold Richardson,Atlanta Falcons,1997,Assistant Head Coach/Football Operations
 Rennie Simmons,Atlanta Falcons,1997,Wide Receivers
 James Daniel,Atlanta Falcons,1997,Tight Ends
 Bill Kollar,Atlanta Falcons,1997,Defensive Line
@@ -3288,7 +3288,7 @@ Brian Xanders,Atlanta Falcons,1997,Defensive Quality Control
 Joe DeCamillis,Atlanta Falcons,1997,Special Teams
 Al Miller,Atlanta Falcons,1997,Strength And Conditioning
 Tim Jorgensen,Atlanta Falcons,1997,Assistant Strength And Conditioning
-Kirk Ferentz,Baltimore Ravens,1997,Assistant Head/Offense
+Kirk Ferentz,Baltimore Ravens,1997,Assistant Head Coach/Offense
 Don Strock,Baltimore Ravens,1997,Quarterbacks
 Al Lavan,Baltimore Ravens,1997,Running Backs
 Richard Mann,Baltimore Ravens,1997,Wide Receivers
@@ -3307,7 +3307,7 @@ Billy Davis,Carolina Panthers,1997,Outside Linebackers
 George Catavolos,Carolina Panthers,1997,Defensive Backs
 Brad Seely,Carolina Panthers,1997,Special Teams
 Chip Morton,Carolina Panthers,1997,Strength And Conditioning
-Tony Wise,Chicago Bears,1997,Assistant Head/Offensive Line
+Tony Wise,Chicago Bears,1997,Assistant Head Coach/Offensive Line
 Willie Peete,Chicago Bears,1997,Running Backs
 Ivan Fears,Chicago Bears,1997,Wide Receivers
 Ted Plumb,Chicago Bears,1997,Tight Ends
@@ -3322,7 +3322,7 @@ Tim Krumrie,Cincinnati Bengals,1997,Defensive Line
 Louie Cioffi,Cincinnati Bengals,1997,Defensive Staff Assistant
 Al Roberts,Cincinnati Bengals,1997,Special Teams
 Kim Wood,Cincinnati Bengals,1997,Strength And Conditioning
-Alex Gibbs,Denver Broncos,1997,Assistant Head/Offensive Line
+Alex Gibbs,Denver Broncos,1997,Assistant Head Coach/Offensive Line
 Bobby Turner,Denver Broncos,1997,Running Backs
 Brian Pariani,Denver Broncos,1997,Tight Ends
 Barney Chavous,Denver Broncos,1997,Assistant Offensive Line/Strength Assistant
@@ -3448,7 +3448,7 @@ Patrick Morris,San Francisco 49ers,1997,Tight Ends
 Bobb McKittrick,San Francisco 49ers,1997,Offensive Line
 Dwaine Board,San Francisco 49ers,1997,Defensive Line
 Jaime Hill,San Francisco 49ers,1997,Defensive Quality Control
-Gregg Smith,Seattle Seahawks,1997,Assistant Head/Offensive Line
+Gregg Smith,Seattle Seahawks,1997,Assistant Head Coach/Offensive Line
 Rich Olson,Seattle Seahawks,1997,Quarterbacks
 Keith Gilbertson,Seattle Seahawks,1997,Tight Ends
 Howard Mudd,Seattle Seahawks,1997,Offensive Line
@@ -3459,7 +3459,7 @@ Ned James,Seattle Seahawks,1997,Defensive Staff Assistant
 Dave Arnold,Seattle Seahawks,1997,Special Teams
 Dana LeDuc,Seattle Seahawks,1997,Strength And Conditioning
 Darren Krein,Seattle Seahawks,1997,Assistant Strength And Conditioning
-Herman Edwards,Tampa Bay Buccaneers,1997,Assistant Head/Defensive Backs
+Herman Edwards,Tampa Bay Buccaneers,1997,Assistant Head Coach/Defensive Backs
 Tony Nathan,Tampa Bay Buccaneers,1997,Running Backs
 Charlie Williams,Tampa Bay Buccaneers,1997,Wide Receivers
 Ricky Thomas,Tampa Bay Buccaneers,1997,Offensive Assistant
@@ -3488,7 +3488,7 @@ Joe Greene,Arizona Cardinals,1998,Defensive Line
 Glenn Pires,Arizona Cardinals,1998,Linebackers
 Al Everest,Arizona Cardinals,1998,Special Teams
 Bob Rogucki,Arizona Cardinals,1998,Strength And Conditioning
-Rich Brooks,Atlanta Falcons,1998,Assistant Head
+Rich Brooks,Atlanta Falcons,1998,Assistant Head Coach
 Rennie Simmons,Atlanta Falcons,1998,Wide Receivers
 James Daniel,Atlanta Falcons,1998,Tight Ends
 Ed West,Atlanta Falcons,1998,Offensive Quality Control
@@ -3498,7 +3498,7 @@ Brian Xanders,Atlanta Falcons,1998,Defensive Quality Control
 Joe DeCamillis,Atlanta Falcons,1998,Special Teams
 Al Miller,Atlanta Falcons,1998,Strength And Conditioning
 Tim Jorgensen,Atlanta Falcons,1998,Assistant Strength And Conditioning
-Kirk Ferentz,Baltimore Ravens,1998,Assistant Head/Offense
+Kirk Ferentz,Baltimore Ravens,1998,Assistant Head Coach/Offense
 Don Strock,Baltimore Ravens,1998,Quarterbacks
 Al Lavan,Baltimore Ravens,1998,Running Backs
 Richard Mann,Baltimore Ravens,1998,Wide Receivers
@@ -3509,7 +3509,7 @@ Alvin Reynolds,Baltimore Ravens,1998,Defensive Backs
 Scott O'Brien,Baltimore Ravens,1998,Special Teams
 Darrin Simmons,Baltimore Ravens,1998,Quality Control/Special Teams
 Jerry Simmons,Baltimore Ravens,1998,Strength And Conditioning
-Max Bowman,Buffalo Bills,1998,Assistant Head/Tight Ends
+Max Bowman,Buffalo Bills,1998,Assistant Head Coach/Tight Ends
 Bishop Harris,Buffalo Bills,1998,Running Backs
 Charlie Joiner,Buffalo Bills,1998,Receivers
 Carl Mauck,Buffalo Bills,1998,Offensive Line
@@ -3526,7 +3526,7 @@ Steve Shafer,Carolina Panthers,1998,Defensive Backs
 Brett Maxie,Carolina Panthers,1998,Defensive Quality Control/Assistant Defensive Backs
 Brad Seely,Carolina Panthers,1998,Special Teams
 Chip Morton,Carolina Panthers,1998,Strength And Conditioning
-Tony Wise,Chicago Bears,1998,Assistant Head/Offensive Line
+Tony Wise,Chicago Bears,1998,Assistant Head Coach/Offensive Line
 Joe Brodsky,Chicago Bears,1998,Running Backs
 Ivan Fears,Chicago Bears,1998,Wide Receivers
 Clarence Brooks,Chicago Bears,1998,Defensive Line
@@ -3540,7 +3540,7 @@ Tim Krumrie,Cincinnati Bengals,1998,Defensive Line
 Louie Cioffi,Cincinnati Bengals,1998,Defensive Staff Assistant
 Al Roberts,Cincinnati Bengals,1998,Special Teams
 Kim Wood,Cincinnati Bengals,1998,Strength And Conditioning
-Alex Gibbs,Denver Broncos,1998,Assistant Head/Offensive Line
+Alex Gibbs,Denver Broncos,1998,Assistant Head Coach/Offensive Line
 Bobby Turner,Denver Broncos,1998,Running Backs
 Brian Pariani,Denver Broncos,1998,Tight Ends
 Barney Chavous,Denver Broncos,1998,Assistant Offensive Line/Strength Assistant
@@ -3570,8 +3570,8 @@ Bob Valesente,Green Bay Packers,1998,Defensive Backs/Secondary
 Johnny Holland,Green Bay Packers,1998,Special Teams
 Kent Johnston,Green Bay Packers,1998,Strength And Conditioning
 Barry Rubin,Green Bay Packers,1998,Assistant Strength And Conditioning
-Jim E Mora,Indianapolis Colts,1998,Head
-George Catavolos,Indianapolis Colts,1998,Assistant Head/Defensive Backs
+Jim E Mora,Indianapolis Colts,1998,Head Coach
+George Catavolos,Indianapolis Colts,1998,Assistant Head Coach/Defensive Backs
 Gene Huey,Indianapolis Colts,1998,Running Backs
 Jay Norvell,Indianapolis Colts,1998,Receivers
 Tony Marciano,Indianapolis Colts,1998,Tight Ends
@@ -3614,7 +3614,7 @@ Ray Hamilton,New England Patriots,1998,Defensive Line
 Bo Pelini,New England Patriots,1998,Linebackers
 DeWayne Walker,New England Patriots,1998,Defensive Assistant/Defensive Backs
 Dante Scarnecchia,New England Patriots,1998,Special Teams
-Mark Jackson,New England Patriots,1998,Special Teamsing Assistant
+Mark Jackson,New England Patriots,1998,Special Teams Coaching Assistant
 Johnny Parker,New England Patriots,1998,Strength And Conditioning
 Lary Kuharich,New Orleans Saints,1998,Running Backs
 Harold Jackson,New Orleans Saints,1998,Wide Receivers
@@ -3681,10 +3681,10 @@ Bill Meyers,Seattle Seahawks,1998,Assistant Offensive Line
 Eric Yarber,Seattle Seahawks,1998,Offensive Quality Control
 Tommy Brasher,Seattle Seahawks,1998,Defensive Line
 Dave Brown,Seattle Seahawks,1998,Defensive
-Pete Rodriguez,Seattle Seahawks,1998,Assistant Head/Special Teams
+Pete Rodriguez,Seattle Seahawks,1998,Assistant Head Coach/Special Teams
 Dana LeDuc,Seattle Seahawks,1998,Strength And Conditioning
 Darren Krein,Seattle Seahawks,1998,Assistant Strength And Conditioning
-Herman Edwards,Tampa Bay Buccaneers,1998,Assistant Head/Defensive Backs
+Herman Edwards,Tampa Bay Buccaneers,1998,Assistant Head Coach/Defensive Backs
 Tony Nathan,Tampa Bay Buccaneers,1998,Running Backs
 Charlie Williams,Tampa Bay Buccaneers,1998,Wide Receivers
 Ricky Thomas,Tampa Bay Buccaneers,1998,Offensive Assistant
@@ -3715,7 +3715,7 @@ Joe Greene,Arizona Cardinals,1999,Defensive Line
 Glenn Pires,Arizona Cardinals,1999,Linebackers
 Al Everest,Arizona Cardinals,1999,Special Teams
 Bob Rogucki,Arizona Cardinals,1999,Strength And Conditioning
-Rich Brooks,Atlanta Falcons,1999,Assistant Head
+Rich Brooks,Atlanta Falcons,1999,Assistant Head Coach
 Jack Burns,Atlanta Falcons,1999,Passing Game/Play Calling
 Steve DeBerg,Atlanta Falcons,1999,Quarterbacks
 Rennie Simmons,Atlanta Falcons,1999,Wide Receivers
@@ -3727,7 +3727,7 @@ Brian Xanders,Atlanta Falcons,1999,Defensive Quality Control
 Joe DeCamillis,Atlanta Falcons,1999,Special Teams
 Al Miller,Atlanta Falcons,1999,Strength And Conditioning
 Rocky Colburn,Atlanta Falcons,1999,Assistant Strength And Conditioning
-Steve Shafer,Baltimore Ravens,1999,Assistant Head/Defensive Backs
+Steve Shafer,Baltimore Ravens,1999,Assistant Head Coach/Defensive Backs
 Matt Simon,Baltimore Ravens,1999,Running Backs
 Milt Jackson,Baltimore Ravens,1999,Wide Receivers
 Wade Harman,Baltimore Ravens,1999,Tight Ends/Assistant Offensive Line
@@ -3735,7 +3735,7 @@ Donnie Henderson,Baltimore Ravens,1999,Assistant Defensive Backs
 Russ Purnell,Baltimore Ravens,1999,Special Teams
 Jeff Friday,Baltimore Ravens,1999,Strength And Conditioning
 Chip Morton,Baltimore Ravens,1999,Assistant Strength And Conditioning
-Max Bowman,Buffalo Bills,1999,Assistant Head/Tight Ends
+Max Bowman,Buffalo Bills,1999,Assistant Head Coach/Tight Ends
 Bishop Harris,Buffalo Bills,1999,Running Backs
 Charlie Joiner,Buffalo Bills,1999,Receivers
 Carl Mauck,Buffalo Bills,1999,Offensive Line
@@ -3777,7 +3777,7 @@ Billy Davis,Cleveland Browns,1999,Defensive Quality Control
 Mark Michaels,Cleveland Browns,1999,Special Teams Quality Control
 Tim Jorgensen,Cleveland Browns,1999,Strength
 Aril Smith,Cleveland Browns,1999,Assistant Strength
-Alex Gibbs,Denver Broncos,1999,Assistant Head/Offensive Line
+Alex Gibbs,Denver Broncos,1999,Assistant Head Coach/Offensive Line
 Bobby Turner,Denver Broncos,1999,Running Backs
 Brian Pariani,Denver Broncos,1999,Tight Ends
 Barney Chavous,Denver Broncos,1999,Assistant Offensive Line/Strength Assistant
@@ -3809,8 +3809,8 @@ Chuck Knox Jr,Green Bay Packers,1999,Defensive Assistant/Quality Control
 Steve Ortmayer,Green Bay Packers,1999,Special Teams
 Barry Rubin,Green Bay Packers,1999,Strength And Conditioning
 Mark Lovat,Green Bay Packers,1999,Strength And Conditioning Assistant
-Jim E Mora,Indianapolis Colts,1999,Head
-George Catavolos,Indianapolis Colts,1999,Assistant Head/Defensive Backs
+Jim E Mora,Indianapolis Colts,1999,Head Coach
+George Catavolos,Indianapolis Colts,1999,Assistant Head Coach/Defensive Backs
 Gene Huey,Indianapolis Colts,1999,Running Backs
 Jay Norvell,Indianapolis Colts,1999,Receivers
 Tony Marciano,Indianapolis Colts,1999,Tight Ends
@@ -3835,7 +3835,7 @@ Darvin Wallis,Kansas City Chiefs,1999,Defensive Assistant/Quality Control
 Mike Stock,Kansas City Chiefs,1999,Special Teams
 Jeff Hurd,Kansas City Chiefs,1999,Strength And Conditioning
 Jeff Fish,Kansas City Chiefs,1999,Assistant Strength And Conditioning
-Richard Solomon,Minnesota Vikings,1999,Assistant Head/Defensive Backs
+Richard Solomon,Minnesota Vikings,1999,Assistant Head Coach/Defensive Backs
 Carl Hargrave,Minnesota Vikings,1999,Running Backs
 Hubbard Alexander,Minnesota Vikings,1999,Wide Receivers
 Dean Dalton,Minnesota Vikings,1999,Quality Control
@@ -3851,7 +3851,7 @@ Ray Hamilton,New England Patriots,1999,Defensive Line
 Bo Pelini,New England Patriots,1999,Linebackers
 DeWayne Walker,New England Patriots,1999,Defensive Assistant/Defensive Backs
 Brad Seely,New England Patriots,1999,Special Teams
-Mark Jackson,New England Patriots,1999,Special Teamsing Assistant
+Mark Jackson,New England Patriots,1999,Special Teams Coaching Assistant
 Johnny Parker,New England Patriots,1999,Strength And Conditioning
 Lary Kuharich,New Orleans Saints,1999,Running Backs
 Harold Jackson,New Orleans Saints,1999,Wide Receivers
@@ -3878,7 +3878,7 @@ Woodrow Lowe,Oakland Raiders,1999,Defensive Assistant
 Don Martin,Oakland Raiders,1999,Defensive Quality Control
 Frank Gansz Jr,Oakland Raiders,1999,Special Teams
 Garrett Giemont,Oakland Raiders,1999,Strength And Conditioning
-Sean McDermott,Philadelphia Eagles,1999,Assistant Head
+Sean McDermott,Philadelphia Eagles,1999,Assistant Head Coach
 Ted Williams,Philadelphia Eagles,1999,Running Backs
 David Culley,Philadelphia Eagles,1999,Wide Receivers
 Tom Melvin,Philadelphia Eagles,1999,Offensive Assistant/Quality Control
@@ -3908,7 +3908,7 @@ Bruce Read,San Diego Chargers,1999,Special Teams
 Johnny Thomas,San Diego Chargers,1999,Special Teams Assistant
 John Hastings,San Diego Chargers,1999,Strength And Conditioning
 Mike Schleelein,San Diego Chargers,1999,Assistant Strength And Conditioning
-Tom Lovat,Seattle Seahawks,1999,Assistant Head/Offensive Line
+Tom Lovat,Seattle Seahawks,1999,Assistant Head Coach/Offensive Line
 Stump Mitchell,Seattle Seahawks,1999,Running Backs
 Nolan Cromwell,Seattle Seahawks,1999,Wide Receivers
 Jerry Colquitt,Seattle Seahawks,1999,Offensive Quality Control
@@ -3919,7 +3919,7 @@ Bob Zeman,Seattle Seahawks,1999,Defensive Assistant
 Clayton Lopez,Seattle Seahawks,1999,Defensive Quality Control
 Kent Johnston,Seattle Seahawks,1999,Strength And Conditioning
 Rod Springer,Seattle Seahawks,1999,Assistant Strength And Conditioning
-Herman Edwards,Tampa Bay Buccaneers,1999,Assistant Head/Defensive Backs
+Herman Edwards,Tampa Bay Buccaneers,1999,Assistant Head Coach/Defensive Backs
 Tony Nathan,Tampa Bay Buccaneers,1999,Running Backs
 Charlie Williams,Tampa Bay Buccaneers,1999,Wide Receivers
 Ricky Thomas,Tampa Bay Buccaneers,1999,Tight Ends
@@ -3964,11 +3964,11 @@ Thom Kaumeyer,Atlanta Falcons,2000,Defensive Quality Control
 Joe DeCamillis,Atlanta Falcons,2000,Special Teams
 Al Miller,Atlanta Falcons,2000,Strength And Conditioning
 Rocky Colburn,Atlanta Falcons,2000,Assistant Strength And Conditioning
-Steve Shafer,Baltimore Ravens,2000,Assistant Head/Defensive Backs
+Steve Shafer,Baltimore Ravens,2000,Assistant Head Coach/Defensive Backs
 Matt Simon,Baltimore Ravens,2000,Running Backs
 Milt Jackson,Baltimore Ravens,2000,Wide Receivers
 Wade Harman,Baltimore Ravens,2000,Tight Ends/Assistant Offensive Line
-Donnie Henderson,Baltimore Ravens,2000,Assistant Defensive Backs
+Donnie Henderson,Baltimore Ravens,2000,Assistant Defensive Backs Coach
 Russ Purnell,Baltimore Ravens,2000,Special Teams
 Jeff Friday,Baltimore Ravens,2000,Strength And Conditioning
 Chip Morton,Baltimore Ravens,2000,Assistant Strength And Conditioning
@@ -3980,7 +3980,7 @@ Chris Dickson,Buffalo Bills,2000,Offensive Quality Control
 John Levra,Buffalo Bills,2000,Defensive Line
 Chuck Lester,Buffalo Bills,2000,Linebackers
 Bill Bradley,Buffalo Bills,2000,Defensive Backs
-Richard Williamson,Carolina Panthers,2000,Assistant Head-Offense/Wide Receivers
+Richard Williamson,Carolina Panthers,2000,Assistant Head Coach-Offense/Wide Receivers
 Tony Wise,Carolina Panthers,2000,Offensive Line
 Jacob Burney,Carolina Panthers,2000,Defensive Line
 Sam Mills,Carolina Panthers,2000,Linebackers
@@ -3997,7 +3997,7 @@ Mike Pitts,Cleveland Browns,2000,Defensive Assistant
 Mark Michaels,Cleveland Browns,2000,Special Teams
 Tim Jorgensen,Cleveland Browns,2000,Strength
 Joe Kim,Cleveland Browns,2000,Assistant Strength
-Alex Gibbs,Denver Broncos,2000,Assistant Head/Offensive Line
+Alex Gibbs,Denver Broncos,2000,Assistant Head Coach/Offensive Line
 Bobby Turner,Denver Broncos,2000,Running Backs
 Karl Dorrell,Denver Broncos,2000,Wide Receivers
 Brian Pariani,Denver Broncos,2000,Tight Ends
@@ -4029,8 +4029,8 @@ Billy Davis,Green Bay Packers,2000,Defensive Assistant/Quality Control
 Frank Novak,Green Bay Packers,2000,Special Teams
 Barry Rubin,Green Bay Packers,2000,Strength And Conditioning
 Mark Lovat,Green Bay Packers,2000,Strength And Conditioning Assistant
-Jim E Mora,Indianapolis Colts,2000,Head
-George Catavolos,Indianapolis Colts,2000,Assistant Head/Defensive Backs
+Jim E Mora,Indianapolis Colts,2000,Head Coach
+George Catavolos,Indianapolis Colts,2000,Assistant Head Coach/Defensive Backs
 Gene Huey,Indianapolis Colts,2000,Running Backs
 Jay Norvell,Indianapolis Colts,2000,Receivers
 Tony Marciano,Indianapolis Colts,2000,Tight Ends
@@ -4071,7 +4071,7 @@ Mike Westhoff,Miami Dolphins,2000,Special Teams
 Doug Blevins,Miami Dolphins,2000,Kicking
 John Gamble,Miami Dolphins,2000,Strength And Conditioning
 Brad Roll,Miami Dolphins,2000,Assistant Strength And Conditioning
-Richard Solomon,Minnesota Vikings,2000,Assistant Head/Defensive Backs
+Richard Solomon,Minnesota Vikings,2000,Assistant Head Coach/Defensive Backs
 Carl Hargrave,Minnesota Vikings,2000,Running Backs
 Charlie Baggett,Minnesota Vikings,2000,Wide Receivers
 John Tice,Minnesota Vikings,2000,Tight Ends
@@ -4083,7 +4083,7 @@ Chuck Knox Jr,Minnesota Vikings,2000,Quality Control Defense
 Gary Zauner,Minnesota Vikings,2000,Special Teams
 Steve Wetzel,Minnesota Vikings,2000,Strength And Conditioning
 Daryl Lawrence,Minnesota Vikings,2000,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2000,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2000,Assistant Head Coach/Offensive Line
 Dick Rehbein,New England Patriots,2000,Quarterbacks
 Ivan Fears,New England Patriots,2000,Wide Receivers
 Ned Burke,New England Patriots,2000,Coaching Assistant
@@ -4091,7 +4091,7 @@ Randy Melvin,New England Patriots,2000,Defensive Line
 Pepper Johnson,New England Patriots,2000,Assistant Linebackers
 DeWayne Walker,New England Patriots,2000,Defensive Assistant
 Brad Seely,New England Patriots,2000,Special Teams
-Mark Jackson,New England Patriots,2000,Special Teamsing Assistant
+Mark Jackson,New England Patriots,2000,Special Teams Coaching Assistant
 Mike Woicik,New England Patriots,2000,Strength And Conditioning
 Markus Paul,New England Patriots,2000,Assistant Strength And Conditioning
 Frank Cignetti Jr,New Orleans Saints,2000,Quarterbacks
@@ -4131,7 +4131,7 @@ Woodrow Lowe,Oakland Raiders,2000,Defensive Assistant
 Don Martin,Oakland Raiders,2000,Defensive Quality Control
 Bob Casullo,Oakland Raiders,2000,Special Teams
 Garrett Giemont,Oakland Raiders,2000,Strength And Conditioning
-Sean McDermott,Philadelphia Eagles,2000,Assistant Head
+Sean McDermott,Philadelphia Eagles,2000,Assistant Head Coach
 Ted Williams,Philadelphia Eagles,2000,Running Backs
 David Culley,Philadelphia Eagles,2000,Wide Receivers
 Tom Melvin,Philadelphia Eagles,2000,Offensive Assistant/Quality Control
@@ -4163,7 +4163,7 @@ Dwaine Board,San Francisco 49ers,2000,Defensive Line
 Brett Maxie,San Francisco 49ers,2000,Assistant Secondary
 Chris Beake,San Francisco 49ers,2000,Defensive Assistant
 Bruce DeHaven,San Francisco 49ers,2000,Special Teams
-Tom Lovat,Seattle Seahawks,2000,Assistant Head/Offensive Line
+Tom Lovat,Seattle Seahawks,2000,Assistant Head Coach/Offensive Line
 Stump Mitchell,Seattle Seahawks,2000,Running Backs
 Nolan Cromwell,Seattle Seahawks,2000,Wide Receivers
 Jerry Colquitt,Seattle Seahawks,2000,Offensive Quality Control
@@ -4173,7 +4173,7 @@ Clayton Lopez,Seattle Seahawks,2000,Defensive Quality Control
 Johnny Holland,Seattle Seahawks,2000,Assistant Special Teams/Assistant Strength And Conditioning
 Kent Johnston,Seattle Seahawks,2000,Strength And Conditioning
 Rod Springer,Seattle Seahawks,2000,Assistant Strength And Conditioning
-John Matsko,St. Louis Rams,2000,"Assistant Head,Offensive Line"
+John Matsko,St. Louis Rams,2000,"Assistant Head Coach,Offensive Line"
 John Ramsdell,St. Louis Rams,2000,Quarterbacks
 Wilbert Montgomery,St. Louis Rams,2000,Tight Ends
 Carl Hairston,St. Louis Rams,2000,Defensive Line
@@ -4184,7 +4184,7 @@ Howard Tippett,St. Louis Rams,2000,Defensive Assistant
 Larry Pasquale,St. Louis Rams,2000,Special Teams
 Chris Clausen,St. Louis Rams,2000,Strength And Conditioning
 Dana LeDuc,St. Louis Rams,2000,Strength And Conditioning
-Herman Edwards,Tampa Bay Buccaneers,2000,Assistant Head/Defensive Backs
+Herman Edwards,Tampa Bay Buccaneers,2000,Assistant Head Coach/Defensive Backs
 Tony Nathan,Tampa Bay Buccaneers,2000,Running Backs
 Charlie Williams,Tampa Bay Buccaneers,2000,Wide Receivers
 Ricky Thomas,Tampa Bay Buccaneers,2000,Tight Ends
@@ -4230,7 +4230,7 @@ Thom Kaumeyer,Atlanta Falcons,2001,Defensive Quality Control
 Joe DeCamillis,Atlanta Falcons,2001,Special Teams
 Al Miller,Atlanta Falcons,2001,Strength And Conditioning
 Rocky Colburn,Atlanta Falcons,2001,Assistant Strength And Conditioning
-Steve Shafer,Baltimore Ravens,2001,Assistant Head/Secondary
+Steve Shafer,Baltimore Ravens,2001,Assistant Head Coach/Secondary
 Matt Simon,Baltimore Ravens,2001,Running Backs
 Wade Harman,Baltimore Ravens,2001,Tight Ends/Assistant Offensive Line
 Donnie Henderson,Baltimore Ravens,2001,Secondary
@@ -4257,7 +4257,7 @@ Alvin Reynolds,Carolina Panthers,2001,Defensive Assistant
 Scott O'Brien,Carolina Panthers,2001,Special Teams
 Darrin Simmons,Carolina Panthers,2001,Special Teams Assistant/Assistant Strength And Conditioning
 Jerry Simmons,Carolina Panthers,2001,Strength And Conditioning
-Alex Gibbs,Denver Broncos,2001,Assistant Head/Offensive Line
+Alex Gibbs,Denver Broncos,2001,Assistant Head Coach/Offensive Line
 Bobby Turner,Denver Broncos,2001,Running Backs
 Karl Dorrell,Denver Broncos,2001,Wide Receivers
 Brian Pariani,Denver Broncos,2001,Tight Ends
@@ -4293,8 +4293,8 @@ Stan Drayton,Green Bay Packers,2001,Quality Control Assistant/Special Teams-Offe
 Barry Rubin,Green Bay Packers,2001,Strength And Conditioning
 Mark Lovat,Green Bay Packers,2001,Strength And Conditioning Assistant
 Vince Workman,Green Bay Packers,2001,Weight Room Assistant
-Jim E Mora,Indianapolis Colts,2001,Head
-George Catavolos,Indianapolis Colts,2001,Assistant Head/Defensive Backs
+Jim E Mora,Indianapolis Colts,2001,Head Coach
+George Catavolos,Indianapolis Colts,2001,Assistant Head Coach/Defensive Backs
 Gene Huey,Indianapolis Colts,2001,Running Backs
 Jay Norvell,Indianapolis Colts,2001,Receivers
 Tony Marciano,Indianapolis Colts,2001,Tight Ends
@@ -4303,7 +4303,7 @@ Mike Murphy,Indianapolis Colts,2001,Linebackers
 Kevin Spencer,Indianapolis Colts,2001,Special Teams
 Jon Torine,Indianapolis Colts,2001,Strength And Conditioning
 Richard Howell,Indianapolis Colts,2001,Assistant Strength And Conditioning
-John Pease,Jacksonville Jaguars,2001,Assistant Head/Defensive Line
+John Pease,Jacksonville Jaguars,2001,Assistant Head Coach/Defensive Line
 Jerald Ingram,Jacksonville Jaguars,2001,Running Backs
 John McNulty,Jacksonville Jaguars,2001,Wide Receivers
 Fred Hoaglin,Jacksonville Jaguars,2001,Tight Ends
@@ -4348,7 +4348,7 @@ Chuck Knox Jr,Minnesota Vikings,2001,Outside Linebackers
 Trent Walters,Minnesota Vikings,2001,Defensive Assistant
 Steve Wetzel,Minnesota Vikings,2001,Strength And Conditioning
 Daryl Lawrence,Minnesota Vikings,2001,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2001,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2001,Assistant Head Coach/Offensive Line
 Dick Rehbein,New England Patriots,2001,Quarterbacks
 Ivan Fears,New England Patriots,2001,Wide Receivers
 Ned Burke,New England Patriots,2001,Coaching Assistant
@@ -4374,7 +4374,7 @@ Danny Marcin,New York Giants,2001,Defensive Line
 Johnnie Lynn,New York Giants,2001,Secondary
 John Dunn,New York Giants,2001,Strength And Conditioning
 Craig Stoddard,New York Giants,2001,Assistant Strength And Conditioning
-Herman Edwards,New York Jets,2001,Head
+Herman Edwards,New York Jets,2001,Head Coach
 Bishop Harris,New York Jets,2001,Running Backs
 Mose Rison,New York Jets,2001,Wide Receivers
 Phil Pettey,New York Jets,2001,Tight Ends
@@ -4430,7 +4430,7 @@ Brett Maxie,San Francisco 49ers,2001,Assistant Secondary
 Chris Beake,San Francisco 49ers,2001,Defensive Assistant
 Bruce DeHaven,San Francisco 49ers,2001,Special Teams
 Manny Rivera,San Francisco 49ers,2001,Intern Athletic Trainer
-Tom Lovat,Seattle Seahawks,2001,Assistant Head/Offensive Line
+Tom Lovat,Seattle Seahawks,2001,Assistant Head Coach/Offensive Line
 Stump Mitchell,Seattle Seahawks,2001,Running Backs
 Nolan Cromwell,Seattle Seahawks,2001,Wide Receivers
 Jerry Colquitt,Seattle Seahawks,2001,Offensive Quality Control
@@ -4440,7 +4440,7 @@ Clayton Lopez,Seattle Seahawks,2001,Defensive Quality Control
 Mark Michaels,Seattle Seahawks,2001,Assistant Special Teams
 Kent Johnston,Seattle Seahawks,2001,Strength And Conditioning
 Rod Springer,Seattle Seahawks,2001,Assistant Strength And Conditioning
-John Matsko,St. Louis Rams,2001,"Assistant Head,Offensive Line"
+John Matsko,St. Louis Rams,2001,"Assistant Head Coach,Offensive Line"
 John Ramsdell,St. Louis Rams,2001,Quarterbacks
 Wilbert Montgomery,St. Louis Rams,2001,Tight Ends
 Henry Ellard,St. Louis Rams,2001,Offensive Assistant
@@ -4502,7 +4502,7 @@ Bennie Thompson,Baltimore Ravens,2002,Special Teams Assistant
 Jeff Friday,Baltimore Ravens,2002,Strength And Conditioning
 Mark Asanovich,Baltimore Ravens,2002,Assistant Strength And Conditioning
 Paul Ricci,Baltimore Ravens,2002,Assistant Strength And Conditioning
-Scott O'Brien,Carolina Panthers,2002,Assistant Head/Special Teams
+Scott O'Brien,Carolina Panthers,2002,Assistant Head Coach/Special Teams
 Paul T Boudreau,Carolina Panthers,2002,Offensive Line
 Sam Mills,Carolina Panthers,2002,Linebackers
 Rod Perry,Carolina Panthers,2002,Secondary
@@ -4523,8 +4523,8 @@ Steve Hoffman,Dallas Cowboys,2002,Kickers/Quality Control
 Joe Juraszek,Dallas Cowboys,2002,Strength And Conditioning
 Tony Ollison,Dallas Cowboys,2002,Assistant Strength And Conditioning
 Bennie Wylie,Dallas Cowboys,2002,Assistant Strength And Conditioning
-Alex Gibbs,Denver Broncos,2002,Assistant Head/Offensive Line
-George Dyer,Denver Broncos,2002,Assistant Head
+Alex Gibbs,Denver Broncos,2002,Assistant Head Coach/Offensive Line
+George Dyer,Denver Broncos,2002,Assistant Head Coach
 Bobby Turner,Denver Broncos,2002,Running Backs
 Karl Dorrell,Denver Broncos,2002,Wide Receivers
 Brian Pariani,Denver Broncos,2002,Tight Ends
@@ -4623,7 +4623,7 @@ Pete Bercich,Minnesota Vikings,2002,Defensive Assistant/Quality Control
 Jay Hayes,Minnesota Vikings,2002,Special Teams
 Steve Wetzel,Minnesota Vikings,2002,Strength And Conditioning
 Daryl Lawrence,Minnesota Vikings,2002,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2002,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2002,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2002,Running Backs
 Nick Caserio,New England Patriots,2002,Coaching Assistant
 Pepper Johnson,New England Patriots,2002,Inside Linebackers
@@ -4650,7 +4650,7 @@ DeWayne Walker,New York Giants,2002,Defensive Backs
 Bruce Read,New York Giants,2002,Special Teams
 John Dunn,New York Giants,2002,Strength And Conditioning
 Craig Stoddard,New York Giants,2002,Assistant Strength And Conditioning
-Herman Edwards,New York Jets,2002,Head
+Herman Edwards,New York Jets,2002,Head Coach
 Bishop Harris,New York Jets,2002,Running Backs
 Mose Rison,New York Jets,2002,Wide Receivers
 Phil Pettey,New York Jets,2002,Tight Ends
@@ -4679,7 +4679,7 @@ Rick Burkholder,Philadelphia Eagles,2002,Head Athletic Trainer
 Mike Wolf,Philadelphia Eagles,2002,Strength And Conditioning
 Tom Kanavy,Philadelphia Eagles,2002,Assistant Strength And Conditioning
 Eric Sugarman,Philadelphia Eagles,2002,Assistant Trainer
-Bill Arnsparger,San Diego Chargers,2002,Associate Head/Defense
+Bill Arnsparger,San Diego Chargers,2002,Associate Head Coach/Defense
 James Lofton,San Diego Chargers,2002,Wide Receivers
 Tim Brewster,San Diego Chargers,2002,Tight Ends
 Hudson Houck,San Diego Chargers,2002,Offensive Line
@@ -4756,7 +4756,7 @@ Phil Zacharias,Baltimore Ravens,2003,Defensive Assistant/Outside Linebackers
 Bennie Thompson,Baltimore Ravens,2003,Special Teams Assistant
 Jeff Friday,Baltimore Ravens,2003,Strength And Conditioning
 Paul Ricci,Baltimore Ravens,2003,Assistant Strength And Conditioning
-Scott O'Brien,Carolina Panthers,2003,Assistant Head/Special Teams
+Scott O'Brien,Carolina Panthers,2003,Assistant Head Coach/Special Teams
 Dave Magazu,Carolina Panthers,2003,Tight Ends
 Mike Maser,Carolina Panthers,2003,Offensive Line
 Sal Sunseri,Carolina Panthers,2003,Defensive Line
@@ -4770,13 +4770,13 @@ Pat Flaherty,Chicago Bears,2003,Tight Ends
 Bob Wylie,Chicago Bears,2003,Offensive Line
 Pete Carmichael Jr,Chicago Bears,2003,Offensive Assistant
 Charlie Coiner,Chicago Bears,2003,Offensive Quality Control
-Larry Brooks,Chicago Bears,2003,Defensive Line
+Larry Brooks,Chicago Bears,2003,Defensive Line Coach
 Richard Dent,Chicago Bears,2003,Assistant Defensive Line
 Vance Bedford,Chicago Bears,2003,Defensive Backs
 Chuck Bullough,Chicago Bears,2003,Assistant Defensive Backs/Secondary/Assistant Special Teams/Defensive Quality Control
 Mike Sweatman,Chicago Bears,2003,Special Teams
-Russ Riederer,Chicago Bears,2003,Strength
-Alex Gibbs,Denver Broncos,2003,Assistant Head/Offensive Line
+Russ Riederer,Chicago Bears,2003,Strength Coach
+Alex Gibbs,Denver Broncos,2003,Assistant Head Coach/Offensive Line
 Pat McPherson,Denver Broncos,2003,Quarterbacks
 Bobby Turner,Denver Broncos,2003,Running Backs
 Steve Watson,Denver Broncos,2003,Wide Receivers
@@ -4817,7 +4817,7 @@ Jon Hoke,Houston Texans,2003,Defensive Backs/Secondary
 Eric Sutulovich,Houston Texans,2003,Assistant Special Teams
 Dan Riley,Houston Texans,2003,Strength And Conditioning
 Ray Wright,Houston Texans,2003,Assistant Strength And Conditioning
-Steve Shafer,Jacksonville Jaguars,2003,Assistant Head
+Steve Shafer,Jacksonville Jaguars,2003,Assistant Head Coach
 Larry Kirksey,Jacksonville Jaguars,2003,Wide Receivers
 Alfredo Roberts,Jacksonville Jaguars,2003,Tight Ends
 Paul T Boudreau,Jacksonville Jaguars,2003,Offensive Line
@@ -4852,7 +4852,7 @@ Pete Bercich,Minnesota Vikings,2003,Defensive Assistant/Assistant Defensive Line
 Jim Panagos,Minnesota Vikings,2003,Defensive Quality Control
 Steve Wetzel,Minnesota Vikings,2003,Strength And Conditioning
 Daryl Lawrence,Minnesota Vikings,2003,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2003,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2003,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2003,Running Backs
 Sean Gustus,New England Patriots,2003,Coaching Assistant
 Pepper Johnson,New England Patriots,2003,Inside Linebackers
@@ -4873,7 +4873,7 @@ Ty Knott,New Orleans Saints,2003,Defensive Assistant/Quality Control
 Al Everest,New Orleans Saints,2003,Special Teams
 Rock Gullickson,New Orleans Saints,2003,Strength And Conditioning
 Jerry Palmieri,New Orleans Saints,2003,Assistant Strength And Conditioning
-Herman Edwards,New York Jets,2003,Head
+Herman Edwards,New York Jets,2003,Head Coach
 Bishop Harris,New York Jets,2003,Running Backs
 Tim Berbenich,New York Jets,2003,Offensive Assistant
 Bill Bradley,New York Jets,2003,Defensive Backs
@@ -4910,7 +4910,7 @@ Jerry Holmes,San Diego Chargers,2003,Defensive Backs
 Dave Redding,San Diego Chargers,2003,Strength And Conditioning
 Matt Schiotz,San Diego Chargers,2003,Assistant Strength And Conditioning
 Bill Walsh,San Francisco 49ers,2003,Consultant
-Gregg Smith,San Francisco 49ers,2003,Assistant Head/Tight Ends
+Gregg Smith,San Francisco 49ers,2003,Assistant Head Coach/Tight Ends
 Tim Lappano,San Francisco 49ers,2003,Running Backs
 Eric Yarber,San Francisco 49ers,2003,Wide Receivers
 Patrick Morris,San Francisco 49ers,2003,Offensive Line
@@ -4935,7 +4935,7 @@ Everett Withers,Tennessee Titans,2003,Defensive Backs
 Alan Lowry,Tennessee Titans,2003,Special Teams
 Steve Watterson,Tennessee Titans,2003,Strength And Conditioning
 Sammy Cribb,Tennessee Titans,2003,Assistant Strength And Conditioning
-Alex Gibbs,Atlanta Falcons,2004,Assistant Head/Offensive Line
+Alex Gibbs,Atlanta Falcons,2004,Assistant Head Coach/Offensive Line
 Mike Johnson,Atlanta Falcons,2004,Quarterbacks
 Ollie Wilson,Atlanta Falcons,2004,Running Backs
 George Stewart,Atlanta Falcons,2004,Wide Receivers
@@ -4956,7 +4956,7 @@ Phil Zacharias,Baltimore Ravens,2004,Defensive Assistant
 Bennie Thompson,Baltimore Ravens,2004,Special Teams Assistant
 Jeff Friday,Baltimore Ravens,2004,Strength And Conditioning
 Paul Ricci,Baltimore Ravens,2004,Assistant Strength And Conditioning
-Scott O'Brien,Carolina Panthers,2004,Assistant Head/Special Teams
+Scott O'Brien,Carolina Panthers,2004,Assistant Head Coach/Special Teams
 Dave Magazu,Carolina Panthers,2004,Tight Ends
 Mike Maser,Carolina Panthers,2004,Offensive Line
 Sal Sunseri,Carolina Panthers,2004,Defensive Line
@@ -4988,7 +4988,7 @@ Ronnie Bradford,Denver Broncos,2004,Special Teams
 Rich Tuten,Denver Broncos,2004,Strength And Conditioning
 Greg Saporta,Denver Broncos,2004,Assistant Strength And Conditioning
 Cedric Smith,Denver Broncos,2004,Assistant Strength And Conditioning
-Kevin Lartigue,Detroit Lions,2004,Assistant Head
+Kevin Lartigue,Detroit Lions,2004,Assistant Head Coach
 Tom Rathman,Detroit Lions,2004,Running Backs
 Kevin Higgins,Detroit Lions,2004,Wide Receivers
 Andy Sugarman,Detroit Lions,2004,Tight Ends
@@ -5021,7 +5021,7 @@ Tony Oden,Houston Texans,2004,Assistant Defensive Backs/Secondary
 Eric Sutulovich,Houston Texans,2004,Assistant Special Teams
 Dan Riley,Houston Texans,2004,Strength And Conditioning
 Ray Wright,Houston Texans,2004,Assistant Strength And Conditioning
-Steve Shafer,Jacksonville Jaguars,2004,Assistant Head
+Steve Shafer,Jacksonville Jaguars,2004,Assistant Head Coach
 Alfredo Roberts,Jacksonville Jaguars,2004,Tight Ends
 Paul T Boudreau,Jacksonville Jaguars,2004,Offensive Line
 Andy Heck,Jacksonville Jaguars,2004,Assistant Offensive Line/Offensive Assistant
@@ -5038,7 +5038,7 @@ Joel Collier,Miami Dolphins,2004,Running Backs
 Bernie Parmalee,Miami Dolphins,2004,Tight Ends
 Tony Wise,Miami Dolphins,2004,Offensive Line
 Judd Garrett,Miami Dolphins,2004,Offensive Quality Control/Receivers
-Jeff Dellenbach,Miami Dolphins,2004,Fellowship-Offense/Special Teams
+Jeff Dellenbach,Miami Dolphins,2004,Fellowship Coach-Offense/Special Teams
 Clarence Brooks,Miami Dolphins,2004,Defensive Line
 Glenn Pires,Miami Dolphins,2004,Assistant Defensive Line
 Mel Phillips,Miami Dolphins,2004,Secondary
@@ -5057,7 +5057,7 @@ Pete Bercich,Minnesota Vikings,2004,Defensive Assistant/Assistant Linebackers
 Jim Panagos,Minnesota Vikings,2004,Defensive Quality Control
 Kurtis Shultz,Minnesota Vikings,2004,Strength And Conditioning
 Mark Ellis,Minnesota Vikings,2004,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2004,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2004,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2004,Running Backs
 Pepper Johnson,New England Patriots,2004,Defensive Line
 Cory Undlin,New England Patriots,2004,Coaching Assistant
@@ -5076,12 +5076,12 @@ Greg Brown,New Orleans Saints,2004,Secondary/Cornerbacks
 Ty Knott,New Orleans Saints,2004,Defensive Assistant/Quality Control
 Rock Gullickson,New Orleans Saints,2004,Strength And Conditioning
 Mark Smith,New Orleans Saints,2004,Assistant Strength And Conditioning
-Herman Edwards,New York Jets,2004,Head
+Herman Edwards,New York Jets,2004,Head Coach
 Bishop Harris,New York Jets,2004,Running Backs
 John Zernhelt,New York Jets,2004,Tight Ends
 Dave Szott,New York Jets,2004,Assistant Offensive Line
 Tim Berbenich,New York Jets,2004,Offensive Assistant
-Denny Marcin,New York Jets,2004,Defensive Line
+Denny Marcin,New York Jets,2004,Defensive Line Coach
 Corwin Brown,New York Jets,2004,Defensive Backs
 John Lott,New York Jets,2004,Strength And Conditioning
 Sal Alosi,New York Jets,2004,Strength Assistant
@@ -5095,7 +5095,7 @@ Chris Griswold,Oakland Raiders,2004,Quality Control/Defense
 Willie Brown,Oakland Raiders,2004,Squad Development
 Martin Bayless,Oakland Raiders,2004,Specials Teams Assistant
 Jeff Fish,Oakland Raiders,2004,Strength And Conditioning
-James Urban,Philadelphia Eagles,2004,Assistant Head
+James Urban,Philadelphia Eagles,2004,Assistant Head Coach
 Ted Williams,Philadelphia Eagles,2004,Running Backs
 David Culley,Philadelphia Eagles,2004,Wide Receivers
 Tom Melvin,Philadelphia Eagles,2004,Tight Ends
@@ -5108,14 +5108,14 @@ Rick Burkholder,Philadelphia Eagles,2004,Head Athletic Trainer
 Mike Wolf,Philadelphia Eagles,2004,Strength And Conditioning
 Tom Kanavy,Philadelphia Eagles,2004,Assistant Strength And Conditioning
 Eric Sugarman,Philadelphia Eagles,2004,Assistant Trainer
-Tim Brewster,San Diego Chargers,2004,Assistant Head/Tight Ends
+Tim Brewster,San Diego Chargers,2004,Assistant Head Coach/Tight Ends
 James Lofton,San Diego Chargers,2004,Wide Receivers
 Hudson Houck,San Diego Chargers,2004,Offensive Line
 Pete Carmichael Jr,San Diego Chargers,2004,Offensive Assistant/Quality Control
 Wayne Nunnely,San Diego Chargers,2004,Defensive Line
 Dave Redding,San Diego Chargers,2004,Strength And Conditioning
 Matt Schiotz,San Diego Chargers,2004,Assistant Strength And Conditioning
-Paul Kelly,Tampa Bay Buccaneers,2004,Assistant Head-Football Operations
+Paul Kelly,Tampa Bay Buccaneers,2004,Assistant Head Coach-Football Operations
 Art Valero,Tampa Bay Buccaneers,2004,Running Backs
 Richard Mann,Tampa Bay Buccaneers,2004,Wide Receivers
 Ron Middleton,Tampa Bay Buccaneers,2004,Tight Ends/Assistant Special Teams
@@ -5129,7 +5129,7 @@ Jim Washburn,Tennessee Titans,2004,Defensive Line
 Everett Withers,Tennessee Titans,2004,Defensive Backs
 Alan Lowry,Tennessee Titans,2004,Special Teams
 Steve Watterson,Tennessee Titans,2004,Strength And Conditioning
-Gregg Williams,Washington Redskins,2004,Assistant Head/Defense
+Gregg Williams,Washington Redskins,2004,Assistant Head Coach/Defense
 Earnest Byner,Washington Redskins,2004,Running Backs
 Stan Hixon,Washington Redskins,2004,Wide Receivers
 Rennie Simpsons,Washington Redskins,2004,Tight Ends
@@ -5199,7 +5199,7 @@ Torrian Gray,Chicago Bears,2005,Assistant Defensive Backs
 Lloyd Lee,Chicago Bears,2005,Defensive Quality Control
 Charlie Coiner,Chicago Bears,2005,Assistant Special Teams
 Jim Arthur,Chicago Bears,2005,Strength And Conditioning Assistant
-Kevin Lartigue,Detroit Lions,2005,Assistant Head
+Kevin Lartigue,Detroit Lions,2005,Assistant Head Coach
 Greg Olson,Detroit Lions,2005,Quarterbacks
 Tom Rathman,Detroit Lions,2005,Running Backs
 Fred Graves,Detroit Lions,2005,Wide Receivers
@@ -5247,8 +5247,8 @@ Alvin Reynolds,Jacksonville Jaguars,2005,Defensive Backs
 Mark Michaels,Jacksonville Jaguars,2005,Assistant Special Teams
 Mark Asanovich,Jacksonville Jaguars,2005,Strength And Conditioning
 Les Ebert,Jacksonville Jaguars,2005,Assistant Strength And Conditioning
-Charlie Baggett,Miami Dolphins,2005,Assistant Head/Offense/Wide Receivers
-Will Muschamp,Miami Dolphins,2005,Assistant Head/Defense
+Charlie Baggett,Miami Dolphins,2005,Assistant Head Coach/Offense/Wide Receivers
+Will Muschamp,Miami Dolphins,2005,Assistant Head Coach/Defense
 Bobby Williams,Miami Dolphins,2005,Running Backs
 Derek Dooley,Miami Dolphins,2005,Tight Ends
 Hudson Houck,Miami Dolphins,2005,Offensive Line
@@ -5274,7 +5274,7 @@ Pete Bercich,Minnesota Vikings,2005,Linebackers
 Kevin Ross,Minnesota Vikings,2005,Assistant Secondary
 Kurtis Shultz,Minnesota Vikings,2005,Strength And Conditioning
 Mark Ellis,Minnesota Vikings,2005,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2005,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2005,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2005,Running Backs
 Pepper Johnson,New England Patriots,2005,Defensive Line
 Joel Collier,New England Patriots,2005,Assistant Secondary
@@ -5293,11 +5293,11 @@ Greg Brown,New Orleans Saints,2005,Defensive Assistant/Cornerbacks
 Ty Knott,New Orleans Saints,2005,Defensive Assistant/Quality Control
 Rock Gullickson,New Orleans Saints,2005,Strength And Conditioning
 Adam Bailey,New Orleans Saints,2005,Assistant Strength And Conditioning
-Herman Edwards,New York Jets,2005,Head
+Herman Edwards,New York Jets,2005,Head Coach
 John Zernhelt,New York Jets,2005,Tight Ends
 Dave Szott,New York Jets,2005,Assistant Offensive Line
 Tim Berbenich,New York Jets,2005,Offensive Assistant/Quality Control
-Denny Marcin,New York Jets,2005,Defensive Line
+Denny Marcin,New York Jets,2005,Defensive Line Coach
 Corwin Brown,New York Jets,2005,Defensive Backs
 Jay Mandolesi,New York Jets,2005,Defensive Assistant
 Sam Gash,New York Jets,2005,Assistant Special Teams/Assistant Running Backs
@@ -5314,7 +5314,7 @@ Chris Griswold,Oakland Raiders,2005,Quality Control/Defense
 Willie Brown,Oakland Raiders,2005,Squad Development
 Martin Bayless,Oakland Raiders,2005,Specials Teams Assistant
 Jeff Fish,Oakland Raiders,2005,Strength And Conditioning
-James Urban,Philadelphia Eagles,2005,Assistant Head
+James Urban,Philadelphia Eagles,2005,Assistant Head Coach
 Ted Williams,Philadelphia Eagles,2005,Running Backs
 David Culley,Philadelphia Eagles,2005,Wide Receivers
 Tom Melvin,Philadelphia Eagles,2005,Tight Ends
@@ -5329,7 +5329,7 @@ Tom Kanavy,Philadelphia Eagles,2005,Assistant Strength And Conditioning
 Bob Rogucki,Philadelphia Eagles,2005,Assistant Strength And Conditioning
 Eric Sugarman,Philadelphia Eagles,2005,Assistant Trainer
 Chuck Noll,Pittsburgh Steelers,2005,Administration Advisor
-Russ Grimm,Pittsburgh Steelers,2005,Assistant Head/Offensive Line
+Russ Grimm,Pittsburgh Steelers,2005,Assistant Head Coach/Offensive Line
 Mark Whipple,Pittsburgh Steelers,2005,Quarterbacks
 Dick Hoak,Pittsburgh Steelers,2005,Running Backs
 James Daniel,Pittsburgh Steelers,2005,Tight Ends
@@ -5338,7 +5338,7 @@ John Mitchell,Pittsburgh Steelers,2005,Defensive Line
 Darren Perry,Pittsburgh Steelers,2005,Defensive Backs
 Lou Spanos,Pittsburgh Steelers,2005,Defensive Assistant
 Kevin Spencer,Pittsburgh Steelers,2005,Special Teams
-Chet Fuhrman,Pittsburgh Steelers,2005,Conditioning
+Chet Fuhrman,Pittsburgh Steelers,2005,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2005,Conditioning Assistant
 John Norwig,Pittsburgh Steelers,2005,Head Athletic Trainer
 Ryan Grove,Pittsburgh Steelers,2005,Assistant Athletic Trainer
@@ -5351,7 +5351,7 @@ Wayne Nunnely,San Diego Chargers,2005,Defensive Line
 Albert Lewis,San Diego Chargers,2005,Assistant Secondary
 Dave Redding,San Diego Chargers,2005,Strength And Conditioning
 Matt Schiotz,San Diego Chargers,2005,Assistant Strength And Conditioning
-Robert Talley,San Francisco 49ers,2005,Special Assistant Head
+Robert Talley,San Francisco 49ers,2005,Special Assistant Head Coach
 Bishop Harris,San Francisco 49ers,2005,Running Backs
 Pete Hoener,San Francisco 49ers,2005,Tight Ends
 George Warhop,San Francisco 49ers,2005,Offensive Line
@@ -5360,22 +5360,22 @@ AJ Christoff,San Francisco 49ers,2005,Defensive Backs/Secondary
 Jeff Rodgers,San Francisco 49ers,2005,Assistant Special Teams
 Johnny Parker,San Francisco 49ers,2005,Strength And Conditioning
 Duane Carlisle,San Francisco 49ers,2005,Assistant Strength And Conditioning
-Paul Kelly,Tampa Bay Buccaneers,2005,Assistant Head-Football Operations
+Paul Kelly,Tampa Bay Buccaneers,2005,Assistant Head Coach-Football Operations
 Art Valero,Tampa Bay Buccaneers,2005,Running Backs
 Richard Mann,Tampa Bay Buccaneers,2005,Wide Receivers
 Ron Middleton,Tampa Bay Buccaneers,2005,Tight Ends/Assistant Special Teams
 Chris Wieshan,Tampa Bay Buccaneers,2005,Offensive Assistant
 Richard Bisaccia,Tampa Bay Buccaneers,2005,Special Teams
 Mike Morris,Tampa Bay Buccaneers,2005,Assistant Strength And Conditioning
-Steve Watterson,Tennessee Titans,2005,Assistant Head/Strength And Conditioning
+Steve Watterson,Tennessee Titans,2005,Assistant Head Coach/Strength And Conditioning
 Craig Johnson,Tennessee Titans,2005,Quarterbacks
 Ned James,Tennessee Titans,2005,Offensive Assistant/Quality Control
 Jim Washburn,Tennessee Titans,2005,Defensive Line
 Everett Withers,Tennessee Titans,2005,Defensive Backs
 Alan Lowry,Tennessee Titans,2005,Special Teams
 Marty Galbraith,Tennessee Titans,2005,Assistant Special Teams
-Gregg Williams,Washington Redskins,2005,Assistant Head-Defense
-Mike Rutenberg,Washington Redskins,2005,Assistant Head
+Gregg Williams,Washington Redskins,2005,Assistant Head Coach-Defense
+Mike Rutenberg,Washington Redskins,2005,Assistant Head Coach
 Earnest Byner,Washington Redskins,2005,Running Backs
 Stan Hixon,Washington Redskins,2005,Wide Receivers
 Rennie Simmons,Washington Redskins,2005,Tight Ends
@@ -5386,7 +5386,7 @@ Kirk Olivadotti,Washington Redskins,2005,Assistant Special Teams/Defensive Quali
 John Hastings,Washington Redskins,2005,Head Strength And Conditioning
 John Dunn,Washington Redskins,2005,Strength And Conditioning
 Bobby Crumpler,Washington Redskins,2005,Strength And Conditioning
-Jim Mora Jr,Atlanta Falcons,2006,Head
+Jim Mora Jr,Atlanta Falcons,2006,Head Coach
 Robert Prince,Atlanta Falcons,2006,Assistant Quarterbacks
 Ollie Wilson,Atlanta Falcons,2006,Running Backs
 George Stewart,Atlanta Falcons,2006,Wide Receivers
@@ -5401,7 +5401,7 @@ Joe DeCamillis,Atlanta Falcons,2006,Special Teams
 Steve Hoffman,Atlanta Falcons,2006,Assistant Special Teams
 Sal Alosi,Atlanta Falcons,2006,Head Strength And Conditioning
 Billy Johnson,Atlanta Falcons,2006,Assistant Strength And Conditioning
-Bobby April,Buffalo Bills,2006,Assistant Head/Special Teams
+Bobby April,Buffalo Bills,2006,Assistant Head Coach/Special Teams
 Tyke Tolbert,Buffalo Bills,2006,Wide Receivers
 Charlie Coiner,Buffalo Bills,2006,Tight Ends
 Jim McNally,Buffalo Bills,2006,Offensive Line
@@ -5480,7 +5480,7 @@ Brian Murphy,Minnesota Vikings,2006,Assistant Special Teams
 Tom Kanavy,Minnesota Vikings,2006,Strength And Conditioning
 Martin Streight,Minnesota Vikings,2006,Assistant Strength And Conditioning
 Juney Barnett,Minnesota Vikings,2006,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2006,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2006,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2006,Running Backs
 Mike Judge,New England Patriots,2006,Coaching Assistant
 Pepper Johnson,New England Patriots,2006,Defensive Line
@@ -5504,7 +5504,7 @@ Noel Mazzone,New York Jets,2006,Wide Receivers
 Richie Anderson,New York Jets,2006,Assistant Wide Receivers/Tight Ends
 Tony Wise,New York Jets,2006,Offensive Line
 Mike Devlin,New York Jets,2006,Assistant Offensive Line/Tight Ends
-Denny Marcin,New York Jets,2006,Defensive Line
+Denny Marcin,New York Jets,2006,Defensive Line Coach
 Bryan Cox,New York Jets,2006,Assistant Defensive Line
 Jim Herrmann,New York Jets,2006,Linebackers
 Corwin Brown,New York Jets,2006,Defensive Backs
@@ -5513,7 +5513,7 @@ San Gash,New York Jets,2006,Assistant Special Teams/Assistant Running Backs
 Markus Paul,New York Jets,2006,Head Strength And Conditioning
 Rick Lyle,New York Jets,2006,Assistant Strength And Conditioning
 Brett Bech,New York Jets,2006,Assistant Strength And Conditioning
-James Urban,Philadelphia Eagles,2006,Assistant Head
+James Urban,Philadelphia Eagles,2006,Assistant Head Coach
 Ted Williams,Philadelphia Eagles,2006,Running Backs
 David Culley,Philadelphia Eagles,2006,Wide Receivers
 Tom Melvin,Philadelphia Eagles,2006,Tight Ends
@@ -5522,7 +5522,7 @@ Pete Jenkins,Philadelphia Eagles,2006,Defensive Line
 Trent Walters,Philadelphia Eagles,2006,Secondary
 Mike Reed,Philadelphia Eagles,2006,Defensive Assistant/Quality Control
 Rory Segrest,Philadelphia Eagles,2006,Special Teams Quality Control
-Randy Brown,Philadelphia Eagles,2006,Kicking
+Randy Brown,Philadelphia Eagles,2006,Kicking Coach
 Rick Burkholder,Philadelphia Eagles,2006,Head Athletic Trainer
 Mike Wolf,Philadelphia Eagles,2006,Strength And Conditioning
 Bob Rogucki,Philadelphia Eagles,2006,Assistant Strength And Conditioning
@@ -5531,7 +5531,7 @@ Sam Kasan,Pittsburgh Steelers,2006,Intern
 Karl Roser,Pittsburgh Steelers,2006,Intern
 Jon Pugliano,Pittsburgh Steelers,2006,Intern
 Brandon Hunt,Pittsburgh Steelers,2006,Intern
-Russ Grimm,Pittsburgh Steelers,2006,Assistant Head/Offensive Line
+Russ Grimm,Pittsburgh Steelers,2006,Assistant Head Coach/Offensive Line
 Mark Whipple,Pittsburgh Steelers,2006,Quarterbacks
 Dick Hoak,Pittsburgh Steelers,2006,Running Backs
 James Daniel,Pittsburgh Steelers,2006,Tight Ends
@@ -5540,13 +5540,13 @@ John Mitchell,Pittsburgh Steelers,2006,Defensive Line
 Darren Perry,Pittsburgh Steelers,2006,Defensive Backs
 Lou Spanos,Pittsburgh Steelers,2006,Defensive Assistant
 Kevin Spencer,Pittsburgh Steelers,2006,Special Teams
-Chet Fuhrman,Pittsburgh Steelers,2006,Conditioning
+Chet Fuhrman,Pittsburgh Steelers,2006,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2006,Conditioning Assistant
 Raymond Jackson,Pittsburgh Steelers,2006,Player Development
 John Norwig,Pittsburgh Steelers,2006,Head Athletic Trainer
 Ryan Grove,Pittsburgh Steelers,2006,Assistant Athletic Trainer
 Ariko Iso,Pittsburgh Steelers,2006,Assistant Athletic Trainer
-Robert Talley,San Francisco 49ers,2006,Special Assistant Head
+Robert Talley,San Francisco 49ers,2006,Special Assistant Head Coach
 Bishop Harris,San Francisco 49ers,2006,Running Backs
 Pete Hoener,San Francisco 49ers,2006,Tight Ends
 George Warhop,San Francisco 49ers,2006,Offensive Line
@@ -5570,8 +5570,8 @@ Joe Baker,St. Louis Rams,2006,Defensive Quality Control
 Bob Ligashesky,St. Louis Rams,2006,Special Teams
 Dana LeDuc,St. Louis Rams,2006,Head Strength And Conditioning
 Brad Roll,St. Louis Rams,2006,Assistant Strength And Conditioning
-Art Valero,Tampa Bay Buccaneers,2006,Assistant Head/Running Backs
-Paul Kelly,Tampa Bay Buccaneers,2006,Assistant Head-Football Operations
+Art Valero,Tampa Bay Buccaneers,2006,Assistant Head Coach/Running Backs
+Paul Kelly,Tampa Bay Buccaneers,2006,Assistant Head Coach-Football Operations
 Richard Mann,Tampa Bay Buccaneers,2006,Wide Receivers
 Ron Middleton,Tampa Bay Buccaneers,2006,Tight Ends/Assistant Special Teams
 Tim Berbenich,Tampa Bay Buccaneers,2006,Offensive Quality Control
@@ -5581,8 +5581,8 @@ Jimmy Lake,Tampa Bay Buccaneers,2006,Assistant Defensive Backs/Secondary
 Dwayne Stukes,Tampa Bay Buccaneers,2006,Coaching Assistant
 Mike Morris,Tampa Bay Buccaneers,2006,Head Strength And Conditioning
 Kurtis Shultz,Tampa Bay Buccaneers,2006,Assistant Strength And Conditioning
-Al Saunders,Washington Redskins,2006,Associate Head – Offense
-Gregg Williams,Washington Redskins,2006,Assistant Head – Defense
+Al Saunders,Washington Redskins,2006,Associate Head Coach – Offense
+Gregg Williams,Washington Redskins,2006,Assistant Head Coach – Defense
 Earnest Byner,Washington Redskins,2006,Running Backs
 Stan Hixon,Washington Redskins,2006,Wide Receivers
 Rennie Simpsons,Washington Redskins,2006,Tight Ends
@@ -5592,7 +5592,7 @@ Kirk Olivadotti,Washington Redskins,2006,Defensive Line/Special Teams
 John Hastings,Washington Redskins,2006,Strength And Conditioning
 Bobby Crumpler,Washington Redskins,2006,Assistant Strength And Conditioning
 Tony Spinosa,Washington Redskins,2006,Assistant Strength And Conditioning
-Russ Grimm,Arizona Cardinals,2007,Assistant Head/Offensive Line
+Russ Grimm,Arizona Cardinals,2007,Assistant Head Coach/Offensive Line
 Jeff Rutledge,Arizona Cardinals,2007,Quarterbacks
 Dedric Ward,Arizona Cardinals,2007,Offensive Quality Control
 Ron Aiken,Arizona Cardinals,2007,Defensive Line
@@ -5635,8 +5635,8 @@ Lloyd Lee,Chicago Bears,2007,Defensive Assistant
 Dave Toub,Chicago Bears,2007,Special Teams
 Kevin O'Dea,Chicago Bears,2007,Assistant Special Teams
 Jim Arthur,Chicago Bears,2007,Strength And Conditioning Assistant
-Rip Scherer,Cleveland Browns,2007,Assistant Head/Quarterbacks
-Chris Caminiti,Cleveland Browns,2007,Assistant Head
+Rip Scherer,Cleveland Browns,2007,Assistant Head Coach/Quarterbacks
+Chris Caminiti,Cleveland Browns,2007,Assistant Head Coach
 Wes Chandler,Cleveland Browns,2007,Wide Receivers
 Alfredo Roberts,Cleveland Browns,2007,Tight Ends
 Steve Marshall,Cleveland Browns,2007,Offensive Line
@@ -5712,7 +5712,7 @@ Tom Kanavy,Minnesota Vikings,2007,Strength And Conditioning
 Martin Streight,Minnesota Vikings,2007,Assistant Strength And Conditioning
 Juney Barnett,Minnesota Vikings,2007,Assistant Strength And Conditioning
 Chris DiSanto,Minnesota Vikings,2007,Strength And Conditioning Intern
-Dante Scarnecchia,New England Patriots,2007,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2007,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2007,Running Backs
 Nick Caserio,New England Patriots,2007,Wide Receivers
 Pepper Johnson,New England Patriots,2007,Defensive Line
@@ -5754,27 +5754,27 @@ Pete Jenkins,Philadelphia Eagles,2007,Defensive Line
 Trent Walters,Philadelphia Eagles,2007,Secondary
 Bill Shuey,Philadelphia Eagles,2007,Defensive Assistant/Quality Control
 Mike Caldwell,Philadelphia Eagles,2007,Training Camp Intern
-Randy Brown,Philadelphia Eagles,2007,Kicking
+Randy Brown,Philadelphia Eagles,2007,Kicking Coach
 Rick Burkholder,Philadelphia Eagles,2007,Head Athletic Trainer
 Mike Wolf,Philadelphia Eagles,2007,Head Strength And Conditioning
 Bob Rogucki,Philadelphia Eagles,2007,Assistant Strength And Conditioning
 Chuck Noll,Pittsburgh Steelers,2007,Administration Advisor
 Eric Estes,Pittsburgh Steelers,2007,Intern
 Luke Palko,Pittsburgh Steelers,2007,Intern
-John Mitchell,Pittsburgh Steelers,2007,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2007,Assistant Head Coach/Defensive Line
 Kirby Wilson,Pittsburgh Steelers,2007,Running Backs
 James Daniel,Pittsburgh Steelers,2007,Tight Ends
 Larry Zierlein,Pittsburgh Steelers,2007,Offensive Line
 Lou Spanos,Pittsburgh Steelers,2007,Defensive Assistant
 Bob Ligashesky,Pittsburgh Steelers,2007,Special Teams
 Amos Jones,Pittsburgh Steelers,2007,Assistant Special Teams
-Garrett Giemont,Pittsburgh Steelers,2007,Conditioning
+Garrett Giemont,Pittsburgh Steelers,2007,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2007,Conditioning Assistant
 Raymond Jackson,Pittsburgh Steelers,2007,Player Development
 John Norwig,Pittsburgh Steelers,2007,Head Athletic Trainer
 Ryan Grove,Pittsburgh Steelers,2007,Assistant Athletic Trainer
 Ariko Iso,Pittsburgh Steelers,2007,Assistant Athletic Trainer
-Robert Talley,San Francisco 49ers,2007,Special Assistant Head
+Robert Talley,San Francisco 49ers,2007,Special Assistant Head Coach
 Frank Cignetti Jr,San Francisco 49ers,2007,Quarterbacks
 Bishop Harris,San Francisco 49ers,2007,Running Backs
 Pete Hoener,San Francisco 49ers,2007,Tight Ends
@@ -5799,7 +5799,7 @@ Ron Milus,St. Louis Rams,2007,Assistant Linebackers/Assistant Secondary
 Mike Cox,St. Louis Rams,2007,Defenisve Quality Control/Defensive Line
 Dana LeDuc,St. Louis Rams,2007,Head Strength And Conditioning
 Brad Roll,St. Louis Rams,2007,Assistant Strength And Conditioning
-Art Valero,Tampa Bay Buccaneers,2007,Assistant Head/Running Backs
+Art Valero,Tampa Bay Buccaneers,2007,Assistant Head Coach/Running Backs
 Richard Mann,Tampa Bay Buccaneers,2007,Wide Receivers
 Bob Casullo,Tampa Bay Buccaneers,2007,Tight Ends
 Tim Berbenich,Tampa Bay Buccaneers,2007,Offensive Quality Control
@@ -5807,8 +5807,8 @@ Casey Bradley,Tampa Bay Buccaneers,2007,Linebackers
 Jimmy Lake,Tampa Bay Buccaneers,2007,Assistant Defensive Backs
 Mike Morris,Tampa Bay Buccaneers,2007,Head Strength And Conditioning
 Kurt Schultz,Tampa Bay Buccaneers,2007,Assistant Strength And Conditioning
-Paul Kelly,Tampa Bay Buccaneers,2007,Assistant Head-Football Operations
-Andrew Weidinger,Atlanta Falcons,2008,Assistant Head
+Paul Kelly,Tampa Bay Buccaneers,2007,Assistant Head Coach-Football Operations
+Andrew Weidinger,Atlanta Falcons,2008,Assistant Head Coach
 Gerald Brown,Atlanta Falcons,2008,Running Backs
 Chris Scelfo,Atlanta Falcons,2008,Tight Ends
 Paul T Boudreau,Atlanta Falcons,2008,Offensive Line
@@ -5826,7 +5826,7 @@ Mike Gillhamer,Carolina Panthers,2008,Secondary Safeties
 Sam Mills III,Carolina Panthers,2008,Defensive Quality Control
 Matt House,Carolina Panthers,2008,Special Teams Assistant/Assistant Strength And Conditioning
 Jerry Simmons,Carolina Panthers,2008,Strength And Conditioning
-Rip Scherer,Cleveland Browns,2008,Assistant Head/Quarterbacks
+Rip Scherer,Cleveland Browns,2008,Assistant Head Coach/Quarterbacks
 Wes Chandler,Cleveland Browns,2008,Wide Receivers
 Alfredo Roberts,Cleveland Browns,2008,Tight Ends
 Steve Marshall,Cleveland Browns,2008,Offensive Line
@@ -5839,10 +5839,10 @@ Cory Undlin,Cleveland Browns,2008,Defensive Backs
 Richard McNutt,Cleveland Browns,2008,Assistant Defensive Backs
 Bob Trott,Cleveland Browns,2008,Defensive Assistant
 Umberto Leone,Cleveland Browns,2008,Defensive Quality Control
-Chris Caminiti,Cleveland Browns,2008,Assistant Special Teams/Head Liaison
+Chris Caminiti,Cleveland Browns,2008,Assistant Special Teams/Head Coach Liaison
 Tom Myslinski,Cleveland Browns,2008,Head Strength And Conditioning
 Alan DeGennaro,Cleveland Browns,2008,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2008,Assistant Head/Linebackers
+Winston Moss,Green Bay Packers,2008,Assistant Head Coach/Linebackers
 Jimmy Robinson,Green Bay Packers,2008,Wide Receivers
 James Campen,Green Bay Packers,2008,Offensive Line
 Jerry Fontenot,Green Bay Packers,2008,Assistant Offensive Line
@@ -5880,8 +5880,8 @@ Bill Teerlinck,Indianapolis Colts,2008,Defensive Assistant
 Russ Purnell,Indianapolis Colts,2008,Special Teams
 Jon Torine,Indianapolis Colts,2008,Strength And Conditioning
 Richard Howell,Indianapolis Colts,2008,Assistant Strength And Conditioning
-Herman Edwards,Kansas City Chiefs,2008,Head -
-Dick Curl,Kansas City Chiefs,2008,Assistant Head/Quarterbacks
+Herman Edwards,Kansas City Chiefs,2008,Head Coach -
+Dick Curl,Kansas City Chiefs,2008,Assistant Head Coach/Quarterbacks
 Eric Price,Kansas City Chiefs,2008,Wide Receivers
 Jon Embree,Kansas City Chiefs,2008,Tight Ends
 Bob Bicknell,Kansas City Chiefs,2008,Offensive Line
@@ -5909,7 +5909,7 @@ Brian Murphy,Minnesota Vikings,2008,Assistant Special Teams
 Tom Kanavy,Minnesota Vikings,2008,Strength And Conditioning
 Juney Barnett,Minnesota Vikings,2008,Assistant Strength And Conditioning
 Martin Streight,Minnesota Vikings,2008,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2008,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2008,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2008,Running Backs
 Shane Waldron,New England Patriots,2008,Coaching Assistant
 Pepper Johnson,New England Patriots,2008,Defensive Line
@@ -5955,14 +5955,14 @@ Barry Rubin,Philadelphia Eagles,2008,Assistant Strength And Conditioning
 Chuck Noll,Pittsburgh Steelers,2008,Administration Advisor
 Jason Seidling,Pittsburgh Steelers,2008,Intern
 Luke Palko,Pittsburgh Steelers,2008,Intern
-John Mitchell,Pittsburgh Steelers,2008,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2008,Assistant Head Coach/Defensive Line
 Kirby Wilson,Pittsburgh Steelers,2008,Running Backs
 James Daniel,Pittsburgh Steelers,2008,Tight Ends
 Larry Zierlein,Pittsburgh Steelers,2008,Offensive Line
 Lou Spanos,Pittsburgh Steelers,2008,Defensive Assistant
 Bob Ligashesky,Pittsburgh Steelers,2008,Special Teams
 Amos Jones,Pittsburgh Steelers,2008,Assistant Special Teams
-Garrett Giemont,Pittsburgh Steelers,2008,Conditioning
+Garrett Giemont,Pittsburgh Steelers,2008,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2008,Conditioning Assistant
 Raymond Jackson,Pittsburgh Steelers,2008,Player Development
 John Norwig,Pittsburgh Steelers,2008,Head Athletic Trainer
@@ -5977,7 +5977,7 @@ Dave Fipp,San Francisco 49ers,2008,Assistant Special Teams
 Duane Carlisle,San Francisco 49ers,2008,Strength And Conditioning
 Mark Uyeyama,San Francisco 49ers,2008,Assistant Strength And Conditioning
 Jeff Ferguson,San Francisco 49ers,2008,Head Athletic Trainer
-Paul Kelly,Tampa Bay Buccaneers,2008,Assistant Head-Football Operations
+Paul Kelly,Tampa Bay Buccaneers,2008,Assistant Head Coach-Football Operations
 Tim Berbenich,Tampa Bay Buccaneers,2008,Assistant Running Backs
 Richard Mann,Tampa Bay Buccaneers,2008,Wide Receivers
 Bob Casullo,Tampa Bay Buccaneers,2008,Tight Ends
@@ -5987,7 +5987,7 @@ Johnny Cox,Tampa Bay Buccaneers,2008,Defensive Quality Control
 Dwayne Stukes,Tampa Bay Buccaneers,2008,Special Teams Quality Control
 Mike Morris,Tampa Bay Buccaneers,2008,Head Strength And Conditioning
 Kurt Schultz,Tampa Bay Buccaneers,2008,Assistant Strength And Conditioning
-Andrew Weidinger,Atlanta Falcons,2009,Assistant Head
+Andrew Weidinger,Atlanta Falcons,2009,Assistant Head Coach
 Gerald Brown,Atlanta Falcons,2009,Running Backs
 Chris Scelfo,Atlanta Falcons,2009,Tight Ends
 Paul T Boudreau,Atlanta Falcons,2009,Offensive Line
@@ -6009,7 +6009,7 @@ Jason Brooks,Baltimore Ravens,2009,Offensive Assistant
 Clarence Brooks,Baltimore Ravens,2009,Defensive Line
 Mark Carrier,Baltimore Ravens,2009,Defensive Backs
 Roy Anderson,Baltimore Ravens,2009,Defensive Assistant
-Matt Weiss,Baltimore Ravens,2009,Heading Assistant
+Matt Weiss,Baltimore Ravens,2009,Head Coaching Assistant
 Marwan Maalouf,Baltimore Ravens,2009,Assistant Special Teams
 Bob Rogucki,Baltimore Ravens,2009,Strength And Conditioning
 John Dunn,Baltimore Ravens,2009,Assistant Strength And Conditioning
@@ -6030,7 +6030,7 @@ Jon Hoke,Chicago Bears,2009,Defensive Backs
 Gill Byrd,Chicago Bears,2009,Assistant Defensive Backs Safeties
 Chris Tabor,Chicago Bears,2009,Assistant Special Teams
 Jim Arthur,Chicago Bears,2009,Strength And Conditioning
-Mark Thewes,Denver Broncos,2009,Assistant Head
+Mark Thewes,Denver Broncos,2009,Assistant Head Coach
 Bobby Turner,Denver Broncos,2009,Running Backs
 Clancy Barone,Denver Broncos,2009,Tight Ends
 Ben McDaniels,Denver Broncos,2009,Coaching Assistant
@@ -6040,7 +6040,7 @@ Jay Rodgers,Denver Broncos,2009,Coaching Assistant
 Keith Burns,Denver Broncos,2009,Special Teams
 Rich Tuten,Denver Broncos,2009,Strength And Conditioning
 Greg Saporta,Denver Broncos,2009,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2009,Assistant Head/Inside Linebackers
+Winston Moss,Green Bay Packers,2009,Assistant Head Coach/Inside Linebackers
 Jimmy Robinson,Green Bay Packers,2009,Wide Receivers
 James Campen,Green Bay Packers,2009,Offensive Line
 Jerry Fontenot,Green Bay Packers,2009,Assistant Offensive Line
@@ -6104,7 +6104,7 @@ David Corrao,Miami Dolphins,2009,Defensive Quality Control
 Darren Rizzi,Miami Dolphins,2009,Assistant Special Teams
 Evan Marcus,Miami Dolphins,2009,Head Strength And Conditioning
 David Puloka,Miami Dolphins,2009,Assistant Strength And Conditioning
-Dennis Polian,Minnesota Vikings,2009,Assistant Head
+Dennis Polian,Minnesota Vikings,2009,Assistant Head Coach
 Kevin Rogers,Minnesota Vikings,2009,Quarterbacks
 George Stewart,Minnesota Vikings,2009,Wide Receivers
 Ryan Ficken,Minnesota Vikings,2009,Assistant Wide Receivers
@@ -6121,7 +6121,7 @@ Tom Kanavy,Minnesota Vikings,2009,Strength And Conditioning
 Juney Barnett,Minnesota Vikings,2009,Assistant Strength And Conditioning
 Martin Streight,Minnesota Vikings,2009,Assistant Strength And Conditioning
 Floyd Reese,New England Patriots,2009,Senior Football Advisor
-Dante Scarnecchia,New England Patriots,2009,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2009,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2009,Running Backs
 Shane Waldron,New England Patriots,2009,Tight Ends
 Brian Ferentz,New England Patriots,2009,Coaching Assistant
@@ -6142,7 +6142,7 @@ Jerry Palmieri,New York Giants,2009,Strength And Conditioning
 Markus Paul,New York Giants,2009,Assistant Strength And Conditioning
 Henry Ellard,New York Jets,2009,Wide Receivers
 Mike Devlin,New York Jets,2009,Assistant Offensive Line/Tight Ends
-Kerry Locklin,New York Jets,2009,Defensive Line
+Kerry Locklin,New York Jets,2009,Defensive Line Coach
 Doug Plank,New York Jets,2009,Assistant Defensive Backs
 Jeff Weeks,New York Jets,2009,Defensive Assistant
 Brian Smith,New York Jets,2009,Defensive Quality Control
@@ -6164,14 +6164,14 @@ Mike Wolf,Philadelphia Eagles,2009,Head Strength And Conditioning
 Barry Rubin,Philadelphia Eagles,2009,Assistant Strength And Conditioning
 Chuck Noll,Pittsburgh Steelers,2009,Administration Advisor
 Jason Seidling,Pittsburgh Steelers,2009,Intern
-John Mitchell,Pittsburgh Steelers,2009,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2009,Assistant Head Coach/Defensive Line
 Kirby Wilson,Pittsburgh Steelers,2009,Running Backs
 James Daniel,Pittsburgh Steelers,2009,Tight Ends
 Larry Zierlein,Pittsburgh Steelers,2009,Offensive Line
 Lou Spanos,Pittsburgh Steelers,2009,Defensive Assistant
 Bob Ligashesky,Pittsburgh Steelers,2009,Special Teams
 Amos Jones,Pittsburgh Steelers,2009,Assistant Special Teams
-Garrett Giemont,Pittsburgh Steelers,2009,Conditioning
+Garrett Giemont,Pittsburgh Steelers,2009,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2009,Conditioning Assistant
 Raymond Jackson,Pittsburgh Steelers,2009,Player Development
 John Norwig,Pittsburgh Steelers,2009,Head Athletic Trainer
@@ -6188,8 +6188,8 @@ Steven Wilks,San Diego Chargers,2009,Secondary
 Cris Dishman,San Diego Chargers,2009,Assistant Secondary
 Jeff Hurd,San Diego Chargers,2009,Strength And Conditioning
 Vernon Stephens,San Diego Chargers,2009,Assistant Strength And Conditioning
-Bill Nayes,San Francisco 49ers,2009,Special Assistant Head
-Johnnie Lynn,San Francisco 49ers,2009,Special Assistant Head/Defensive Backs/Secondary
+Bill Nayes,San Francisco 49ers,2009,Special Assistant Head Coach
+Johnnie Lynn,San Francisco 49ers,2009,Special Assistant Head Coach/Defensive Backs/Secondary
 Mike Johnson,San Francisco 49ers,2009,Quarterbacks
 Tom Rathman,San Francisco 49ers,2009,Running Backs
 Pete Hoener,San Francisco 49ers,2009,Tight Ends
@@ -6200,7 +6200,7 @@ Dave Fipp,San Francisco 49ers,2009,Assistant Special Teams
 Duane Carlisle,San Francisco 49ers,2009,Strength And Conditioning
 Mark Uyeyama,San Francisco 49ers,2009,Assistant Strength And Conditioning
 Jeff Ferguson,San Francisco 49ers,2009,Head Athletic Trainer
-Dick Curl,St. Louis Rams,2009,Assistant Head/Quarterbacks
+Dick Curl,St. Louis Rams,2009,Assistant Head Coach/Quarterbacks
 Charlie Baggett,St. Louis Rams,2009,Wide Receivers
 Frank Leonard,St. Louis Rams,2009,Tight Ends
 Art Valero,St. Louis Rams,2009,Assistant Offensive Line
@@ -6213,8 +6213,8 @@ Matt House,St. Louis Rams,2009,Quality Control/Defense
 Derius Swinton II,St. Louis Rams,2009,Quality Control/Special Teams
 Rock Gullickson,St. Louis Rams,2009,Strength
 Chuck Faucette,St. Louis Rams,2009,Assistant Strength
-Richard Mann,Tampa Bay Buccaneers,2009,Assistant Head/Wide Receivers
-Jay Kaiser,Tampa Bay Buccaneers,2009,Assistant Head
+Richard Mann,Tampa Bay Buccaneers,2009,Assistant Head Coach/Wide Receivers
+Jay Kaiser,Tampa Bay Buccaneers,2009,Assistant Head Coach
 Steve Logan,Tampa Bay Buccaneers,2009,Running Backs
 Tim Berbenich,Tampa Bay Buccaneers,2009,Assistant Wide Receivers
 Alfredo Roberts,Tampa Bay Buccaneers,2009,Tight Ends
@@ -6226,7 +6226,7 @@ Dwayne Stukes,Tampa Bay Buccaneers,2009,Assistant Defensive Backs/Secondary
 Ejiro Evero,Tampa Bay Buccaneers,2009,Defensive Quality Control
 Kurtis Schultz,Tampa Bay Buccaneers,2009,Head Strength And Conditioning
 Chris Meenan,Tampa Bay Buccaneers,2009,Assistant Strength And Conditioning
-Andrew Weidinger,Atlanta Falcons,2010,Assistant Head
+Andrew Weidinger,Atlanta Falcons,2010,Assistant Head Coach
 Gerald Brown,Atlanta Falcons,2010,Running Backs
 Chris Scelfo,Atlanta Falcons,2010,Tight Ends
 Paul T Boudreau,Atlanta Falcons,2010,Offensive Line
@@ -6247,11 +6247,11 @@ Jason Brooks,Baltimore Ravens,2010,Assistant Offense
 Craig Ver Steeg,Baltimore Ravens,2010,Offensive Assistant
 Clarence Brooks,Baltimore Ravens,2010,Defensive Line
 Roy Anderson,Baltimore Ravens,2010,Defensive Assistant/Secondary
-Matt Weiss,Baltimore Ravens,2010,Heads Assistant
+Matt Weiss,Baltimore Ravens,2010,Head Coachs Assistant
 Marwan Maalouf,Baltimore Ravens,2010,Assistant Special Teams
 Bob Rogucki,Baltimore Ravens,2010,Strength And Conditioning
 John Dunn,Baltimore Ravens,2010,Assistant Strength And Conditioning
-Dave Wannstedt,Buffalo Bills,2010,Assistant Head/Inside Linebackers
+Dave Wannstedt,Buffalo Bills,2010,Assistant Head Coach/Inside Linebackers
 George Cortez,Buffalo Bills,2010,Quarterbacks
 Stan Hixon,Buffalo Bills,2010,Wide Receivers
 Bob Bicknell,Buffalo Bills,2010,Tight Ends
@@ -6264,7 +6264,7 @@ Adrian White,Buffalo Bills,2010,Defensive Quality Control
 Stan Kwan,Buffalo Bills,2010,Assistant Special Teams
 Eric Ciano,Buffalo Bills,2010,Head Strength And Conditioning
 John Gamble,Buffalo Bills,2010,Head Strength And Conditioning
-Paul Alexander,Cincinnati Bengals,2010,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2010,Assistant Head Coach/Offensive Line
 Jim Anderson,Cincinnati Bengals,2010,Running Backs
 Jonathan Hayes,Cincinnati Bengals,2010,Tight Ends
 Kyle Caskey,Cincinnati Bengals,2010,Offensive Quality Control
@@ -6320,7 +6320,7 @@ Daron Roberts,Detroit Lions,2010,Assistant Secondary
 Don Clemons,Detroit Lions,2010,Defensive Assistant
 Bradford Banta,Detroit Lions,2010,Assistant Special Teams
 Ted Rath,Detroit Lions,2010,Strength And Conditioning Assistant
-Winston Moss,Green Bay Packers,2010,Assistant Head/Inside Linebackers
+Winston Moss,Green Bay Packers,2010,Assistant Head Coach/Inside Linebackers
 Jimmy Robinson,Green Bay Packers,2010,Wide Receivers
 James Campen,Green Bay Packers,2010,Offensive Line
 Jerry Fontenot,Green Bay Packers,2010,Assistant Offensive Line
@@ -6389,7 +6389,7 @@ Joe Danna,Miami Dolphins,2010,Assistant Secondary
 David Corrao,Miami Dolphins,2010,Defensive Quality Control/Assistant Linebackers
 Evan Marcus,Miami Dolphins,2010,Head Strength And Conditioning
 David Puloka,Miami Dolphins,2010,Assistant Strength And Conditioning
-Dennis Polian,Minnesota Vikings,2010,Assistant Head
+Dennis Polian,Minnesota Vikings,2010,Assistant Head Coach
 Kevin Rogers,Minnesota Vikings,2010,Quarterbacks
 George Stewart,Minnesota Vikings,2010,Wide Receivers
 Ryan Ficken,Minnesota Vikings,2010,Assistant Wide Receivers
@@ -6408,9 +6408,9 @@ Juney Barnett,Minnesota Vikings,2010,Assistant Strength And Conditioning
 Martin Streight,Minnesota Vikings,2010,Assistant Strength And Conditioning
 Chaz Mahle,Minnesota Vikings,2010,Assistant Strength And Conditioning
 Floyd Reese,New England Patriots,2010,Senior Football Advisor
-Dante Scarnecchia,New England Patriots,2010,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2010,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2010,Running Backs
-Brian Ferentz,New England Patriots,2010,Offensive Assistant
+Brian Ferentz,New England Patriots,2010,Offensive Assistant Coach
 Pepper Johnson,New England Patriots,2010,Defensive Line
 Josh Boyer,New England Patriots,2010,Defensive Backs
 Corwin Brown,New England Patriots,2010,Defensive Backs
@@ -6432,7 +6432,7 @@ Markus Paul,New York Giants,2010,Assistant Strength And Conditioning
 Henry Ellard,New York Jets,2010,Wide Receivers
 Mike Devlin,New York Jets,2010,Assistant Offensive Line/Tight Ends
 Lance Taylor,New York Jets,2010,Coaching Intern
-Mark Carrier,New York Jets,2010,Defensive Line
+Mark Carrier,New York Jets,2010,Defensive Line Coach
 Jeff Weeks,New York Jets,2010,Outside Linebackers
 Samson Brown,New York Jets,2010,Coaching Assistant
 Brian Smith,New York Jets,2010,Intern-Defensive
@@ -6442,7 +6442,7 @@ Ben Kotwica,New York Jets,2010,Assistant Special Teams
 Sal Alosi,New York Jets,2010,Strength And Conditioning
 Kyle Thorne,New York Jets,2010,Assistant Strength And Conditioning
 Bryan Dermody,New York Jets,2010,Assistant Strength And Conditioning
-Corey Matthaei,Philadelphia Eagles,2010,Assistant Head
+Corey Matthaei,Philadelphia Eagles,2010,Assistant Head Coach
 James Urban,Philadelphia Eagles,2010,Quarterbacks
 Ted Williams,Philadelphia Eagles,2010,Running Backs
 David Culley,Philadelphia Eagles,2010,Wide Receivers
@@ -6458,8 +6458,8 @@ Rick Burkholder,Philadelphia Eagles,2010,Head Athletic Trainer
 Barry Rubin,Philadelphia Eagles,2010,Head Strength And Conditioning
 Ken Croner,Philadelphia Eagles,2010,Assistant Strength And Conditioning
 Mike Wolf,Philadelphia Eagles,2010,Strength And Conditioning
-Bill Nayes,San Francisco 49ers,2010,Special Assistant Head
-Johnnie Lynn,San Francisco 49ers,2010,Special Assistant Head/Defensive Backs/Secondary
+Bill Nayes,San Francisco 49ers,2010,Special Assistant Head Coach
+Johnnie Lynn,San Francisco 49ers,2010,Special Assistant Head Coach/Defensive Backs/Secondary
 Tom Rathman,San Francisco 49ers,2010,Running Backs
 Pete Hoener,San Francisco 49ers,2010,Tight Ends
 Ray Brown,San Francisco 49ers,2010,Assistant Offensive Line
@@ -6481,7 +6481,7 @@ Jeff Ulbrich,Seattle Seahawks,2010,Assistant Special Teams
 Chris Carlisle,Seattle Seahawks,2010,Head Strength And Conditioning
 Mondray Gee,Seattle Seahawks,2010,Assistant Strength And Conditioning
 Jamie Yancher,Seattle Seahawks,2010,Assistant Strength And Conditioning
-Jay Kaiser,Tampa Bay Buccaneers,2010,Assistant Head
+Jay Kaiser,Tampa Bay Buccaneers,2010,Assistant Head Coach
 Steve Logan,Tampa Bay Buccaneers,2010,Running Backs
 Eric Yarber,Tampa Bay Buccaneers,2010,Wide Receivers
 Tim Berbenich,Tampa Bay Buccaneers,2010,Assistant Wide Receivers
@@ -6499,7 +6499,7 @@ Chris Scelfo,Atlanta Falcons,2011,Tight Ends
 Paul T Boudreau,Atlanta Falcons,2011,Offensive Line
 Paul Dunn,Atlanta Falcons,2011,Assistant Offensive Line
 Glenn Thomas,Atlanta Falcons,2011,Offensive Assistant
-Andrew Weidinger,Atlanta Falcons,2011,Assistant Head/Offense
+Andrew Weidinger,Atlanta Falcons,2011,Assistant Head Coach/Offense
 Ray Hamilton,Atlanta Falcons,2011,Defensive Line
 Glenn Pires,Atlanta Falcons,2011,Linebackers
 Alvin Reynolds,Atlanta Falcons,2011,Defensive Backs
@@ -6514,7 +6514,7 @@ Craig Ver Steeg,Baltimore Ravens,2011,Offensive Assistant/Quarterbacks
 Jason Brooks,Baltimore Ravens,2011,Offensive Quality Control
 Clarence Brooks,Baltimore Ravens,2011,Defensive Line
 Roy Anderson,Baltimore Ravens,2011,Defensive Assistant/Secondary
-Matt Weiss,Baltimore Ravens,2011,Heads Assistant
+Matt Weiss,Baltimore Ravens,2011,Head Coachs Assistant
 Marwan Maalouf,Baltimore Ravens,2011,Assistant Special Teams
 Randy Brown,Baltimore Ravens,2011,Kicking Consultant
 Bob Rogucki,Baltimore Ravens,2011,Strength And Conditioning
@@ -6553,7 +6553,7 @@ Gill Byrd,Chicago Bears,2011,Assistant Defensive Backs Safeties
 Mikal Smith,Chicago Bears,2011,Defensive Quality Control
 Kevin O'Dea,Chicago Bears,2011,Assistant Special Teams
 Jim Arthur,Chicago Bears,2011,Strength And Conditioning
-Paul Alexander,Cincinnati Bengals,2011,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2011,Assistant Head Coach/Offensive Line
 Jim Anderson,Cincinnati Bengals,2011,Running Backs
 James Urban,Cincinnati Bengals,2011,Wide Receivers
 Jonathan Hayes,Cincinnati Bengals,2011,Tight Ends
@@ -6564,7 +6564,7 @@ David Lippincott,Cincinnati Bengals,2011,Defensive Quality Control
 Darrin Simmons,Cincinnati Bengals,2011,Special Teams
 Chip Morton,Cincinnati Bengals,2011,Strength And Conditioning
 Jeff Friday,Cincinnati Bengals,2011,Assistant Strength And Conditioning
-Jimmy Robinson,Dallas Cowboys,2011,Assistant Head/Wide Receivers
+Jimmy Robinson,Dallas Cowboys,2011,Assistant Head Coach/Wide Receivers
 Wade Wilson,Dallas Cowboys,2011,Quarterbacks
 Skip Peete,Dallas Cowboys,2011,Running Backs
 Wes Phillips,Dallas Cowboys,2011,Assistant Offensive Line
@@ -6586,7 +6586,7 @@ Keith Burns,Denver Broncos,2011,Special Teams
 Rich Tuten,Denver Broncos,2011,Strength And Conditioning
 Greg Saporta,Denver Broncos,2011,Strength And Conditioning Assistant
 Justin Lovett,Denver Broncos,2011,Strength And Conditioning Assistant
-Bill Kollar,Houston Texans,2011,Assistant Head/Defensive Line
+Bill Kollar,Houston Texans,2011,Assistant Head Coach/Defensive Line
 Larry Kirksey,Houston Texans,2011,Wide Receivers
 Brian Pariani,Houston Texans,2011,Tight Ends
 John Benton,Houston Texans,2011,Offensive Line
@@ -6620,7 +6620,7 @@ Joe Danna,Miami Dolphins,2011,Assistant Secondary
 Dave Fipp,Miami Dolphins,2011,Assistant Special Teams
 Darren Krein,Miami Dolphins,2011,Head Strength And Conditioning
 David Puloka,Miami Dolphins,2011,Assistant Strength And Conditioning
-Cameron Turner,Minnesota Vikings,2011,Assistant Head
+Cameron Turner,Minnesota Vikings,2011,Assistant Head Coach
 Craig Johnson,Minnesota Vikings,2011,Quarterbacks
 James Saxon,Minnesota Vikings,2011,Running Backs
 George Stewart,Minnesota Vikings,2011,Wide Receivers
@@ -6637,7 +6637,7 @@ Juney Barnett,Minnesota Vikings,2011,Assistant Strength And Conditioning
 Martin Streight,Minnesota Vikings,2011,Assistant Strength And Conditioning
 Chaz Mahle,Minnesota Vikings,2011,Assistant Strength And Conditioning
 Floyd Reese,New England Patriots,2011,Senior Football Advisor
-Dante Scarnecchia,New England Patriots,2011,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2011,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2011,Running Backs
 Brian Ferentz,New England Patriots,2011,Tight Ends
 Josh McDaniels,New England Patriots,2011,Offensive Assistant
@@ -6698,7 +6698,7 @@ Bob Ligashesky,Oakland Raiders,2011,Special Teams Assistant
 Brad Roll,Oakland Raiders,2011,Strength And Conditioning
 Chris DiSanto,Oakland Raiders,2011,Strength And Conditioning Assistant
 Chris Pearson,Oakland Raiders,2011,Strength And Conditioning Assistant
-Corey Matthaei,Philadelphia Eagles,2011,Assistant Head
+Corey Matthaei,Philadelphia Eagles,2011,Assistant Head Coach
 Ted Williams,Philadelphia Eagles,2011,Running Backs
 Tom Melvin,Philadelphia Eagles,2011,Tight Ends
 Howard Mudd,Philadelphia Eagles,2011,Offensive Line
@@ -6715,7 +6715,7 @@ Barry Rubin,Philadelphia Eagles,2011,Head Strength And Conditioning
 Roger Marandino,Philadelphia Eagles,2011,Assistant Strength And Conditioning
 Chuck Noll,Pittsburgh Steelers,2011,Administration Advisor
 Ryan Scarpino,Pittsburgh Steelers,2011,Intern
-John Mitchell,Pittsburgh Steelers,2011,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2011,Assistant Head Coach/Defensive Line
 Kirby Wilson,Pittsburgh Steelers,2011,Running Backs
 Scottie Montgomery,Pittsburgh Steelers,2011,Wide Receivers
 James Daniel,Pittsburgh Steelers,2011,Tight Ends
@@ -6723,13 +6723,13 @@ Sean Kugler,Pittsburgh Steelers,2011,Offensive Line
 Carnell Lake,Pittsburgh Steelers,2011,Defensive Backs
 Jerry Olsavsky,Pittsburgh Steelers,2011,Defensive Assistant
 Amos Jones,Pittsburgh Steelers,2011,Assistant Special Teams
-Garrett Giemont,Pittsburgh Steelers,2011,Conditioning
+Garrett Giemont,Pittsburgh Steelers,2011,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2011,Conditioning Assistant
 Raymond Jackson,Pittsburgh Steelers,2011,Player Development
 John Norwig,Pittsburgh Steelers,2011,Head Athletic Trainer
 Ryan Grove,Pittsburgh Steelers,2011,Assistant Athletic Trainer
 Sonia Gysland,Pittsburgh Steelers,2011,Assistant Athletic Trainer
-Steven Wilks,San Diego Chargers,2011,Assistant Head/Secondary
+Steven Wilks,San Diego Chargers,2011,Assistant Head Coach/Secondary
 John Ramsdell,San Diego Chargers,2011,Quarterbacks
 Ollie Wilson,San Diego Chargers,2011,Running Backs
 Charlie Joiner,San Diego Chargers,2011,Wide Receivers
@@ -6751,7 +6751,7 @@ Jim Leavitt,San Francisco 49ers,2011,Linebackers
 Greg Jackson,San Francisco 49ers,2011,Assistant Secondary
 Mark Uyeyama,San Francisco 49ers,2011,Head Strength And Conditioning
 Kevin Tolbert,San Francisco 49ers,2011,Assistant Strength And Conditioning
-Jay Kaiser,Tampa Bay Buccaneers,2011,Assistant Head
+Jay Kaiser,Tampa Bay Buccaneers,2011,Assistant Head Coach
 Steve Logan,Tampa Bay Buccaneers,2011,Running Backs
 Eric Yarber,Tampa Bay Buccaneers,2011,Wide Receivers
 Tim Berbenich,Tampa Bay Buccaneers,2011,Assistant Wide Receivers
@@ -6767,7 +6767,7 @@ Byron Storer,Tampa Bay Buccaneers,2011,Assistant Special Teams
 Brian Rasmussen,Tampa Bay Buccaneers,2011,Coaches’ Assistant
 Kurt Shultz,Tampa Bay Buccaneers,2011,Head Strength And Conditioning
 Chris Keenan,Tampa Bay Buccaneers,2011,Assistant Strength And Conditioning
-Bobby Turner,Washington Redskins,2011,Assistant Head/Running Backs
+Bobby Turner,Washington Redskins,2011,Assistant Head Coach/Running Backs
 Keenan McCardell,Washington Redskins,2011,Wide Receivers
 Chris Morgan,Washington Redskins,2011,Offensive Line Assistant
 Mike McDaniel,Washington Redskins,2011,Offensive Assistant
@@ -6795,7 +6795,7 @@ Chris Scelfo,Atlanta Falcons,2012,Tight Ends
 Pat Hill,Atlanta Falcons,2012,Offensive Line
 Paul Dunn,Atlanta Falcons,2012,Assistant Offensive Line
 Andrew Weidinger,Atlanta Falcons,2012,Offensive Assistant
-Devin Bonik,Atlanta Falcons,2012,Assistant Head/Offense
+Devin Bonik,Atlanta Falcons,2012,Assistant Head Coach/Offense
 Ray Hamilton,Atlanta Falcons,2012,Defensive Line
 Glenn Pires,Atlanta Falcons,2012,Linebackers
 Joe Danna,Atlanta Falcons,2012,Defensive Backs
@@ -6854,7 +6854,7 @@ Mikal Smith,Chicago Bears,2012,Defensive Assistant/Nickelbacks
 Kevin O'Dea,Chicago Bears,2012,Assistant Special Teams
 Jim Arthur,Chicago Bears,2012,Strength And Conditioning Assistant
 Phil Brauch,Chicago Bears,2012,Conditioning Assistant
-Paul Alexander,Cincinnati Bengals,2012,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2012,Assistant Head Coach/Offensive Line
 Jim Anderson,Cincinnati Bengals,2012,Running Backs
 James Urban,Cincinnati Bengals,2012,Wide Receivers
 Jonathan Hayes,Cincinnati Bengals,2012,Tight Ends
@@ -6880,7 +6880,7 @@ Chuck Bullough,Cleveland Browns,2012,Defensive Assistant
 Shawn Mennenga,Cleveland Browns,2012,Special Teams Assistant
 Kent Johnston,Cleveland Browns,2012,Strength And Conditioning
 Rick Lyle,Cleveland Browns,2012,Assistant Strength And Conditioning
-Jimmy Robinson,Dallas Cowboys,2012,Assistant Head/Wide Receivers
+Jimmy Robinson,Dallas Cowboys,2012,Assistant Head Coach/Wide Receivers
 Wade Wilson,Dallas Cowboys,2012,Quarterbacks
 Skip Peete,Dallas Cowboys,2012,Running Backs
 John Garrett,Dallas Cowboys,2012,Tight Ends
@@ -6907,7 +6907,7 @@ Luke Richesson,Denver Broncos,2012,Strength And Conditioning
 Mike Eubanks,Denver Broncos,2012,Assistant Strength And Conditioning
 Jason George,Denver Broncos,2012,Assistant Strength And Conditioning
 Anthony Lomando,Denver Broncos,2012,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2012,Assistant Head/Inside Linebackers
+Winston Moss,Green Bay Packers,2012,Assistant Head Coach/Inside Linebackers
 Jerry Fontenot,Green Bay Packers,2012,Tight Ends
 James Campen,Green Bay Packers,2012,Offensive Line
 Joel Hilgenberg,Green Bay Packers,2012,Assistant Offensive Line
@@ -6958,7 +6958,7 @@ Tom McMahon,Kansas City Chiefs,2012,Special Teams
 Derius Swinton II,Kansas City Chiefs,2012,Special Teams Quality Control
 Mike Clark,Kansas City Chiefs,2012,Strength And Conditioning
 Brent Salazar,Kansas City Chiefs,2012,Assistant Strength And Conditioning
-Cameron Turner,Minnesota Vikings,2012,Assistant Head
+Cameron Turner,Minnesota Vikings,2012,Assistant Head Coach
 Craig Johnson,Minnesota Vikings,2012,Quarterbacks
 James Saxon,Minnesota Vikings,2012,Running Backs
 George Stewart,Minnesota Vikings,2012,Wide Receivers
@@ -6973,9 +6973,9 @@ Tom Kanavy,Minnesota Vikings,2012,Strength And Conditioning
 Martin Streight,Minnesota Vikings,2012,Assistant Strength And Conditioning
 Aaron McLaurin,Minnesota Vikings,2012,Assistant Strength And Conditioning
 Floyd Reese,New England Patriots,2012,Senior Football Advisor
-Dante Scarnecchia,New England Patriots,2012,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2012,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2012,Running Backs
-Brian Daboll,New England Patriots,2012,Offensiveing Assistant
+Brian Daboll,New England Patriots,2012,Offensive Coaching Assistant
 Pepper Johnson,New England Patriots,2012,Linebackers
 Josh Boyer,New England Patriots,2012,Cornerbacks
 Steve Belichick,New England Patriots,2012,Coaching Assistant
@@ -6983,7 +6983,7 @@ Scott O'Brien,New England Patriots,2012,Special Teams
 Joe Judge,New England Patriots,2012,Special Teams Assistant
 Harold Nash,New England Patriots,2012,Strength And Conditioning
 Moses Cabrera,New England Patriots,2012,Assistant Strength And Conditioning
-Sean Payton,New Orleans Saints,2012,Head
+Sean Payton,New Orleans Saints,2012,Head Coach
 Bret Ingalls,New Orleans Saints,2012,Running Backs
 Henry Ellard,New Orleans Saints,2012,Wide Receivers
 Terry Malone,New Orleans Saints,2012,Tight Ends
@@ -7040,7 +7040,7 @@ Keith Burns,Oakland Raiders,2012,Assistant Special Teams
 Al Miller,Oakland Raiders,2012,Strength And Conditioning
 John Grieco,Oakland Raiders,2012,Assistant Strength And Conditioning
 Tom Donahoe,Philadelphia Eagles,2012,Senior Football Advisor
-Corey Matthaei,Philadelphia Eagles,2012,Assistant Head
+Corey Matthaei,Philadelphia Eagles,2012,Assistant Head Coach
 Ted Williams,Philadelphia Eagles,2012,Running Backs
 Tom Melvin,Philadelphia Eagles,2012,Tight Ends
 Howard Mudd,Philadelphia Eagles,2012,Offensive Line
@@ -7059,7 +7059,7 @@ Keith Gray,Philadelphia Eagles,2012,Assistant Strength And Conditioning
 Travis Crittenden,Philadelphia Eagles,2012,Assistant Strength And Conditioning
 Chuck Noll,Pittsburgh Steelers,2012,Administration Advisor
 Raymond Jackson,Pittsburgh Steelers,2012,Player Development/Player Development
-John Mitchell,Pittsburgh Steelers,2012,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2012,Assistant Head Coach/Defensive Line
 Kirby Wilson,Pittsburgh Steelers,2012,Running Backs
 Scottie Montgomery,Pittsburgh Steelers,2012,Wide Receivers
 James Daniel,Pittsburgh Steelers,2012,Tight Ends
@@ -7068,7 +7068,7 @@ Shaun Sarrett,Pittsburgh Steelers,2012,Offensive Assistant
 Carnell Lake,Pittsburgh Steelers,2012,Defensive Backs
 Jerry Olsavsky,Pittsburgh Steelers,2012,Defensive Assistant
 Amos Jones,Pittsburgh Steelers,2012,Assistant Special Teams
-Garrett Giemont,Pittsburgh Steelers,2012,Conditioning
+Garrett Giemont,Pittsburgh Steelers,2012,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2012,Conditioning Assistant
 John Norwig,Pittsburgh Steelers,2012,Head Athletic Trainer
 Ryan Grove,Pittsburgh Steelers,2012,Assistant Athletic Trainer
@@ -7082,7 +7082,7 @@ Don Johnson,San Diego Chargers,2012,Defensive Line
 Greg Williams,San Diego Chargers,2012,Assistant Linebackers
 Cris Dishman,San Diego Chargers,2012,Assistant Secondary
 Shane Steichen,San Diego Chargers,2012,Defensive Assistant
-Rich Bisaccia,San Diego Chargers,2012,Assistant Head/Special Teams
+Rich Bisaccia,San Diego Chargers,2012,Assistant Head Coach/Special Teams
 Carlos Polk,San Diego Chargers,2012,Special Teams Assistant
 Byron Storer,San Diego Chargers,2012,Special Teams Assistant
 Jeff Hurd,San Diego Chargers,2012,Strength And Conditioning
@@ -7145,8 +7145,8 @@ Steve Brown,Tennessee Titans,2012,Assistant Secondary
 Jonathan Gannon,Tennessee Titans,2012,Defensive Assistant/Quality Control
 Alan Lowry,Tennessee Titans,2012,Special Teams
 Chet Parlavecchio,Tennessee Titans,2012,Special Teams Assistant
-Steve Watterson,Tennessee Titans,2012,Assistant Head/Strength And Conditioning
-Bobby Turner,Washington Redskins,2012,Assistant Head/Running Backs
+Steve Watterson,Tennessee Titans,2012,Assistant Head Coach/Strength And Conditioning
+Bobby Turner,Washington Redskins,2012,Assistant Head Coach/Running Backs
 Ike Hilliard,Washington Redskins,2012,Wide Receivers
 Chris Morgan,Washington Redskins,2012,Assistant Offensive Line
 Mike McDaniel,Washington Redskins,2012,Offensive Assistant
@@ -7234,7 +7234,7 @@ Dwayne Stukes,Chicago Bears,2013,Assistant Special Teams
 Mike Clark,Chicago Bears,2013,Strength And Conditioning
 Jim Arthur,Chicago Bears,2013,Strength And Conditioning Assistant
 Phil Brauch,Chicago Bears,2013,Conditioning Assistant
-Paul Alexander,Cincinnati Bengals,2013,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2013,Assistant Head Coach/Offensive Line
 James Urban,Cincinnati Bengals,2013,Wide Receivers
 Jonathan Hayes,Cincinnati Bengals,2013,Tight Ends
 Brayden Coombs,Cincinnati Bengals,2013,Offensive Assistant
@@ -7252,7 +7252,7 @@ Scott Turner,Cleveland Browns,2013,Wide Receivers
 Jon Embree,Cleveland Browns,2013,Tight Ends
 George Warhop,Cleveland Browns,2013,Offensive Line
 Mike Sullivan,Cleveland Browns,2013,Offensive Line
-Steve Gera,Cleveland Browns,2013,Offensive Assistant/Special Assistant Head
+Steve Gera,Cleveland Browns,2013,Offensive Assistant/Special Assistant Head Coach
 Shane Steichen,Cleveland Browns,2013,Offensive Quality Control
 Joe Cullen,Cleveland Browns,2013,Defensive Line
 Brian Baker,Cleveland Browns,2013,Outside Linebackers
@@ -7269,7 +7269,7 @@ Derek Dooley,Dallas Cowboys,2013,Wide Receivers
 Wes Phillips,Dallas Cowboys,2013,Tight Ends
 Frank Pollack,Dallas Cowboys,2013,Assistant Offensive Line
 Keith O'Quinn,Dallas Cowboys,2013,Offensive Quality Control/Wide Receivers
-Jimmy Robinson,Dallas Cowboys,2013,Senioring Consultant
+Jimmy Robinson,Dallas Cowboys,2013,Senior Coaching Consultant
 Jerome Henderson,Dallas Cowboys,2013,Secondary
 Joe Baker,Dallas Cowboys,2013,Assistant Secondary
 Leon Lett,Dallas Cowboys,2013,Defensive Assistant/Defensive Line
@@ -7290,7 +7290,7 @@ Luke Richesson,Denver Broncos,2013,Strength And Conditioning
 Mike Eubanks,Denver Broncos,2013,Assistant Strength And Conditioning
 Jason George,Denver Broncos,2013,Assistant Strength And Conditioning
 Anthony Lomando,Denver Broncos,2013,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2013,Assistant Head/Inside Linebackers
+Winston Moss,Green Bay Packers,2013,Assistant Head Coach/Inside Linebackers
 Jerry Fontenot,Green Bay Packers,2013,Tight Ends
 James Campen,Green Bay Packers,2013,Offensive Line
 Joel Hilgenberg,Green Bay Packers,2013,Assistant Offensive Line
@@ -7346,8 +7346,8 @@ Tom Myslinski,Jacksonville Jaguars,2013,Strength And Conditioning
 Alex Hampton,Jacksonville Jaguars,2013,Strength Assistant
 Jess Langvardt,Jacksonville Jaguars,2013,Strength Assistant
 Cedric Scott,Jacksonville Jaguars,2013,Strength Assistant
-David Culley,Kansas City Chiefs,2013,Assistant Head/Wide Receivers
-Joe D'Orazio,Kansas City Chiefs,2013,Senior Assistant Head
+David Culley,Kansas City Chiefs,2013,Assistant Head Coach/Wide Receivers
+Joe D'Orazio,Kansas City Chiefs,2013,Senior Assistant Head Coach
 Tom Melvin,Kansas City Chiefs,2013,Tight Ends
 Andy Heck,Kansas City Chiefs,2013,Offensive Line
 Eugene Chung,Kansas City Chiefs,2013,Assistant Offensive Line
@@ -7374,7 +7374,7 @@ David Corrao,Miami Dolphins,2013,Defensive Quality Control/Assistant Linebackers
 Blue Adams,Miami Dolphins,2013,Assistant Defensive Backs
 Darren Krein,Miami Dolphins,2013,Head Strength And Conditioning
 David Puloka,Miami Dolphins,2013,Assistant Strength And Conditioning
-Jeff Howard,Minnesota Vikings,2013,Assistant Head
+Jeff Howard,Minnesota Vikings,2013,Assistant Head Coach
 Craig Johnson,Minnesota Vikings,2013,Quarterbacks
 James Saxon,Minnesota Vikings,2013,Running Backs
 George Stewart,Minnesota Vikings,2013,Wide Receivers
@@ -7389,7 +7389,7 @@ Tom Kanavy,Minnesota Vikings,2013,Strength And Conditioning
 Martin Streight,Minnesota Vikings,2013,Assistant Strength And Conditioning
 Aaron McLaurin,Minnesota Vikings,2013,Assistant Strength And Conditioning
 Chaz Mahle,Minnesota Vikings,2013,Assistant Strength And Conditioning
-Dante Scarnecchia,New England Patriots,2013,Assistant Head/Offensive Line
+Dante Scarnecchia,New England Patriots,2013,Assistant Head Coach/Offensive Line
 Ivan Fears,New England Patriots,2013,Running Backs
 Jerry Schuplinski,New England Patriots,2013,Coaching Assistant
 Pepper Johnson,New England Patriots,2013,Linebackers
@@ -7458,7 +7458,7 @@ Keith Burns,Oakland Raiders,2013,Assistant Special Teams
 Al Miller,Oakland Raiders,2013,Strength And Conditioning
 John Grieco,Oakland Raiders,2013,Assistant Strength And Conditioning
 Tom Donahoe,Philadelphia Eagles,2013,Senior Football Advisor
-Jerry Azzinaro,Philadelphia Eagles,2013,Assistant Head/Defensive Line
+Jerry Azzinaro,Philadelphia Eagles,2013,Assistant Head Coach/Defensive Line
 Duce Staley,Philadelphia Eagles,2013,Running Backs
 Bob Bicknell,Philadelphia Eagles,2013,Wide Receivers
 Ted Williams,Philadelphia Eagles,2013,Tight Ends
@@ -7475,7 +7475,7 @@ Mike Dawson,Philadelphia Eagles,2013,Defensive Quality Control
 Matthew Harper,Philadelphia Eagles,2013,Assistant Special Teams
 Josh Hingst,Philadelphia Eagles,2013,Head Strength And Conditioning
 Chuck Noll,Pittsburgh Steelers,2013,Administration Advisor
-John Mitchell,Pittsburgh Steelers,2013,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2013,Assistant Head Coach/Defensive Line
 James Saxon,Pittsburgh Steelers,2013,Running Backs
 Richard Mann,Pittsburgh Steelers,2013,Wide Receivers
 James Daniel,Pittsburgh Steelers,2013,Tight Ends
@@ -7484,7 +7484,7 @@ Shaun Sarrett,Pittsburgh Steelers,2013,Offensive Assistant
 Joey Porter,Pittsburgh Steelers,2013,Linebackers
 Carnell Lake,Pittsburgh Steelers,2013,Defensive Backs
 Jerry Olsavsky,Pittsburgh Steelers,2013,Defensive Assistant
-Garrett Giemont,Pittsburgh Steelers,2013,Conditioning
+Garrett Giemont,Pittsburgh Steelers,2013,Conditioning Coach
 Marcel Pastoor,Pittsburgh Steelers,2013,Conditioning Assistant
 Raymond Jackson,Pittsburgh Steelers,2013,Player Development
 John Norwig,Pittsburgh Steelers,2013,Head Athletic Trainer
@@ -7548,7 +7548,7 @@ Robb Smith,Tampa Bay Buccaneers,2013,Linebackers
 Tony Oden,Tampa Bay Buccaneers,2013,Defensive Backs
 Jeff Hafley,Tampa Bay Buccaneers,2013,Assistant Defensive Backs
 Tem Lukabu,Tampa Bay Buccaneers,2013,Defensive Assistant
-Dan Shamash,Tampa Bay Buccaneers,2013,Quality Control Head
+Dan Shamash,Tampa Bay Buccaneers,2013,Quality Control Head Coach
 Phil Galiano,Tampa Bay Buccaneers,2013,Assistant Special Teams
 Jay Butler,Tampa Bay Buccaneers,2013,Head Strength And Conditioning
 Joe Vaughn,Tampa Bay Buccaneers,2013,Assistant Strength And Conditioning
@@ -7563,8 +7563,8 @@ Steve Brown,Tennessee Titans,2013,Assistant Secondary
 Jonathan Gannon,Tennessee Titans,2013,Defensive Assistant/Quality Control
 Nate Kaczor,Tennessee Titans,2013,Special Teams
 Steve Hoffman,Tennessee Titans,2013,Assistant Special Teams
-Steve Watterson,Tennessee Titans,2013,Assistant Head/Strength And Conditioning
-Bobby Turner,Washington Redskins,2013,Assistant Head/Running Backs
+Steve Watterson,Tennessee Titans,2013,Assistant Head Coach/Strength And Conditioning
+Bobby Turner,Washington Redskins,2013,Assistant Head Coach/Running Backs
 Mike McDaniel,Washington Redskins,2013,Wide Receivers
 Chris Morgan,Washington Redskins,2013,Assistant Offensive Line
 Aubrey Pleaseant,Washington Redskins,2013,Offensive Assistant
@@ -7656,9 +7656,9 @@ Sean Desai,Chicago Bears,2014,Defensive Quality Control
 Dwayne Stukes,Chicago Bears,2014,Assistant Special Teams
 Mike Clark,Chicago Bears,2014,Strength And Conditioning
 Jim Arthur,Chicago Bears,2014,Strength And Conditioning Assistant
-Joe Kim,Chicago Bears,2014,Strength Assistant/Skill Development
+Joe Kim,Chicago Bears,2014,Strength Assistant/Skill Development Coach
 Phil Brauch,Chicago Bears,2014,Conditioning Assistant
-Paul Alexander,Cincinnati Bengals,2014,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2014,Assistant Head Coach/Offensive Line Coach
 Kyle Caskey,Cincinnati Bengals,2014,Running Backs
 James Urban,Cincinnati Bengals,2014,Wide Receivers
 Jonathan Hayes,Cincinnati Bengals,2014,Tight Ends
@@ -7677,7 +7677,7 @@ Brian Angelichio,Cleveland Browns,2014,Tight Ends
 Andy Moeller,Cleveland Browns,2014,Offensive Line
 George DeLeone,Cleveland Browns,2014,Assistant Offensive Line
 Jimmy Raye II,Cleveland Browns,2014,Senior Offensive Assistant
-Steve Gera,Cleveland Browns,2014,Offensive Assistant/Special Assistant Head
+Steve Gera,Cleveland Browns,2014,Offensive Assistant/Special Assistant Head Coach
 Richard Hightower,Cleveland Browns,2014,Offensive Quality Control
 Anthony Weaver,Cleveland Browns,2014,Defensive Line
 Chuck Driesbach,Cleveland Browns,2014,Linebackers
@@ -7695,7 +7695,7 @@ Gary Brown,Dallas Cowboys,2014,Running Backs
 Derek Dooley,Dallas Cowboys,2014,Wide Receivers
 Kyle Valero,Dallas Cowboys,2014,Assistant Wide Receivers
 Frank Pollack,Dallas Cowboys,2014,Assistant Offensive Line
-Jimmy Robinson,Dallas Cowboys,2014,Senioring Consultant/Offensive Consultant
+Jimmy Robinson,Dallas Cowboys,2014,Senior Coaching Consultant/Offensive Consultant
 Kevin Carberry,Dallas Cowboys,2014,Offensive Assistant
 Jerome Henderson,Dallas Cowboys,2014,Secondary
 Joe Baker,Dallas Cowboys,2014,Assistant Secondary
@@ -7720,7 +7720,7 @@ Luke Richesson,Denver Broncos,2014,Strength And Conditioning
 Mike Eubanks,Denver Broncos,2014,Assistant Strength And Conditioning
 Jason George,Denver Broncos,2014,Assistant Strength And Conditioning
 Anthony Lomando,Denver Broncos,2014,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2014,Assistant Head/Linebackers
+Winston Moss,Green Bay Packers,2014,Assistant Head Coach/Linebackers
 Sam Gash,Green Bay Packers,2014,Running Backs
 Jerry Fontenot,Green Bay Packers,2014,Tight Ends
 James Campen,Green Bay Packers,2014,Offensive Line
@@ -7767,7 +7767,7 @@ Luke Butkus,Jacksonville Jaguars,2014,Assistant Offensive Line
 Matt Applebaum,Jacksonville Jaguars,2014,Offensive Assistant
 Chris O'Hara,Jacksonville Jaguars,2014,Offensive Assistant
 Tony Sorrentino,Jacksonville Jaguars,2014,Offensive Quality Control
-Tyler Wolf,Jacksonville Jaguars,2014,Assistant Head
+Tyler Wolf,Jacksonville Jaguars,2014,Assistant Head Coach
 Scottie Hazelton,Jacksonville Jaguars,2014,Assistant Linebackers
 DeWayne Walker,Jacksonville Jaguars,2014,Defensive Backs
 Mike Rutenberg,Jacksonville Jaguars,2014,Assistant Defensive Backs
@@ -7778,8 +7778,8 @@ Tom Myslinski,Jacksonville Jaguars,2014,Strength And Conditioning
 Alex Hampton,Jacksonville Jaguars,2014,Strength Assistant
 Jess Langvardt,Jacksonville Jaguars,2014,Strength Assistant
 Cedric Scott,Jacksonville Jaguars,2014,Strength Assistant
-David Culley,Kansas City Chiefs,2014,Assistant Head/Wide Receivers
-Joe D'Orazio,Kansas City Chiefs,2014,Senior Assistant Head
+David Culley,Kansas City Chiefs,2014,Assistant Head Coach/Wide Receivers
+Joe D'Orazio,Kansas City Chiefs,2014,Senior Assistant Head Coach
 Tom Melvin,Kansas City Chiefs,2014,Tight Ends
 Andy Heck,Kansas City Chiefs,2014,Offensive Line
 Eugene Chung,Kansas City Chiefs,2014,Assistant Offensive Line
@@ -7821,7 +7821,7 @@ Ryan Ficken,Minnesota Vikings,2014,Assistant Special Teams
 Eric Sugarman,Minnesota Vikings,2014,Head Athletic Trainer
 Evan Marcus,Minnesota Vikings,2014,Head Strength And Conditioning
 Jeff Hurd,Minnesota Vikings,2014,Assistant Strength And Conditioning
-Michael Lombardi,New England Patriots,2014,Assistanting Staff
+Michael Lombardi,New England Patriots,2014,Assistant Coaching Staff
 Ivan Fears,New England Patriots,2014,Running Backs
 Dave DeGuglielmo,New England Patriots,2014,Offensive Line
 Josh Boyer,New England Patriots,2014,Cornerbacks
@@ -7860,7 +7860,7 @@ Rob Leonard,New York Giants,2014,Defensive Assistant
 Jerry Palmieri,New York Giants,2014,Strength And Conditioning
 Markus Paul,New York Giants,2014,Assistant Strength And Conditioning
 Joe Danos,New York Giants,2014,Strength And Conditioning Assistant
-Kathryn Smith,New York Jets,2014,Assistant Head
+Kathryn Smith,New York Jets,2014,Assistant Head Coach
 David Lee,New York Jets,2014,Quarterbacks
 Sanjay Lal,New York Jets,2014,Wide Receivers
 Steve Hagen,New York Jets,2014,Tight Ends
@@ -7894,7 +7894,7 @@ Chris Boniol,Oakland Raiders,2014,Assistant Special Teams
 John Grieco,Oakland Raiders,2014,Strength And Conditioning
 Vernon Stephens,Oakland Raiders,2014,Assistant Strength And Conditioning
 Tom Donahoe,Philadelphia Eagles,2014,Senior Football Advisor
-Jerry Azzinaro,Philadelphia Eagles,2014,Assistant Head/Defensive Line
+Jerry Azzinaro,Philadelphia Eagles,2014,Assistant Head Coach/Defensive Line
 Duce Staley,Philadelphia Eagles,2014,Running Backs
 Bob Bicknell,Philadelphia Eagles,2014,Wide Receivers
 Ted Williams,Philadelphia Eagles,2014,Tight Ends
@@ -7912,7 +7912,7 @@ Matthew Harper,Philadelphia Eagles,2014,Assistant Special Teams
 Josh Hingst,Philadelphia Eagles,2014,Strength And Conditioning
 Quadrian Banks,Philadelphia Eagles,2014,Assistant Strength And Conditioning
 Keith Gray,Philadelphia Eagles,2014,Assistant Strength And Conditioning
-John Mitchell,Pittsburgh Steelers,2014,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2014,Assistant Head Coach/Defensive Line
 James Saxon,Pittsburgh Steelers,2014,Running Backs
 Richard Mann,Pittsburgh Steelers,2014,Wide Receivers
 James Daniel,Pittsburgh Steelers,2014,Tight Ends
@@ -8045,7 +8045,7 @@ Jeff Ulbrich,Atlanta Falcons,2015,Linebackers
 Doug Mallory,Atlanta Falcons,2015,Defensive Assistant/Linebackers
 Chad Walker,Atlanta Falcons,2015,Defensive Assistant/Defensive Backs
 Eric Sutulovich,Atlanta Falcons,2015,Assistant Special Teams
-Steve Scarnecchia,Atlanta Falcons,2015,Assistant Head
+Steve Scarnecchia,Atlanta Falcons,2015,Assistant Head Coach
 AJ Neibel,Atlanta Falcons,2015,Head Strength And Conditioning
 Jonas Beauchemin,Atlanta Falcons,2015,Strength And Conditioning Assistant
 Thomas Hammock,Baltimore Ravens,2015,Running Backs
@@ -8103,7 +8103,7 @@ Clint Hurtt,Chicago Bears,2015,Outside Linebackers
 Sam Garnes,Chicago Bears,2015,Assistant Defensive Backs
 Sean Desai,Chicago Bears,2015,Defensive Quality Control
 Derius Swinton II,Chicago Bears,2015,Assistant Special Teams
-Paul Alexander,Cincinnati Bengals,2015,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2015,Assistant Head Coach/Offensive Line Coach
 Kyle Caskey,Cincinnati Bengals,2015,Running Backs
 James Urban,Cincinnati Bengals,2015,Wide Receivers
 Jonathan Hayes,Cincinnati Bengals,2015,Tight Ends
@@ -8142,7 +8142,7 @@ Derek Dooley,Dallas Cowboys,2015,Wide Receivers
 Kyle Valero,Dallas Cowboys,2015,Assistant Wide Receivers
 Frank Pollack,Dallas Cowboys,2015,Offensive Line
 Marc Colombo,Dallas Cowboys,2015,Assistant Offensive Line
-Jimmy Robinson,Dallas Cowboys,2015,Senioring Consultant/Offensive Consultant
+Jimmy Robinson,Dallas Cowboys,2015,Senior Coaching Consultant/Offensive Consultant
 Kevin Carberry,Dallas Cowboys,2015,Offensive Assistant
 Jerome Henderson,Dallas Cowboys,2015,Secondary
 Joe Baker,Dallas Cowboys,2015,Assistant Secondary
@@ -8170,7 +8170,7 @@ Luke Richesson,Denver Broncos,2015,Strength And Conditioning
 Mike Eubanks,Denver Broncos,2015,Assistant Strength And Conditioning
 Anthony Lomando,Denver Broncos,2015,Assistant Strength And Conditioning
 Dennis Love,Denver Broncos,2015,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2015,Assistant Head/Linebackers
+Winston Moss,Green Bay Packers,2015,Assistant Head Coach/Linebackers
 Sam Gash,Green Bay Packers,2015,Running Backs
 Jerry Fontenot,Green Bay Packers,2015,Tight Ends
 James Campen,Green Bay Packers,2015,Offensive Line
@@ -8209,14 +8209,14 @@ Tim Berbenich,Indianapolis Colts,2015,Defensive Assistant
 Brant Boyer,Indianapolis Colts,2015,Assistant Special Teams
 Roger Marandino,Indianapolis Colts,2015,Strength And Conditioning
 Richard Howell,Indianapolis Colts,2015,Assistant Strength And Conditioning
-Tyler Wolf,Jacksonville Jaguars,2015,Assistant Head
-ElizaBeth Mayers,Jacksonville Jaguars,2015,Assistant Head And Administrator Ofing Operations
+Tyler Wolf,Jacksonville Jaguars,2015,Assistant Head Coach
+ElizaBeth Mayers,Jacksonville Jaguars,2015,Assistant Head Coach And Administrator Of Coaching Operations
 Kelly Skipper,Jacksonville Jaguars,2015,Running Backs
 Ron Middleton,Jacksonville Jaguars,2015,Tight Ends/Assistant Special Teams
 Luke Butkus,Jacksonville Jaguars,2015,Assistant Offensive Line
 Frank Scelfo,Jacksonville Jaguars,2015,Senior Offensive Assistant
 Tony Sorrentino,Jacksonville Jaguars,2015,Offensive Assistant/Quality Control
-Chris O'Hara,Jacksonville Jaguars,2015,Offensiveing Associate
+Chris O'Hara,Jacksonville Jaguars,2015,Offensive Coaching Associate
 Scottie Hazelton,Jacksonville Jaguars,2015,Assistant Linebackers
 DeWayne Walker,Jacksonville Jaguars,2015,Defensive Backs
 Mike Rutenberg,Jacksonville Jaguars,2015,Assistant Defensive Backs
@@ -8226,8 +8226,8 @@ Matthew Smiley,Jacksonville Jaguars,2015,Assistant Special Teams
 Alex Hampton,Jacksonville Jaguars,2015,Strength And Conditioning Associate
 Jess Langvardt,Jacksonville Jaguars,2015,Strength And Conditioning Associate
 Cedric Scott,Jacksonville Jaguars,2015,Assistant Strength And Conditioning
-David Culley,Kansas City Chiefs,2015,Assistant Head/Wide Receivers
-Kyle Childress,Kansas City Chiefs,2015,Senior Assistant Head
+David Culley,Kansas City Chiefs,2015,Assistant Head Coach/Wide Receivers
+Kyle Childress,Kansas City Chiefs,2015,Senior Assistant Head Coach
 Corey Matthaei,Kansas City Chiefs,2015,Assistant Quarterbacks
 Tom Melvin,Kansas City Chiefs,2015,Tight Ends
 Andy Heck,Kansas City Chiefs,2015,Offensive Line
@@ -8299,7 +8299,7 @@ Wesley McGriff,New Orleans Saints,2015,Secondary
 Marcus Ungaro,New Orleans Saints,2015,Defensive Assistant
 James Willis,New Orleans Saints,2015,Defensive Assistant
 Stan Kwan,New Orleans Saints,2015,Assistant Special Teams
-Mike Caldwell,New York Jets,2015,Assistant Head/Inside Linebackers
+Mike Caldwell,New York Jets,2015,Assistant Head Coach/Inside Linebackers
 Kevin Patullo,New York Jets,2015,Quarterbacks
 Marcel Shipp,New York Jets,2015,Running Backs
 Karl Dorrell,New York Jets,2015,Wide Receivers
@@ -8336,7 +8336,7 @@ Joe Gomes,Oakland Raiders,2015,Head Strength And Conditioning
 Darryl Eto,Oakland Raiders,2015,Assistant Strength And Conditioning
 Kevin Kijowski,Oakland Raiders,2015,Assistant Strength And Conditioning
 Wesley Miller,Oakland Raiders,2015,Assistant Strength And Conditioning
-Jerry Azzinaro,Philadelphia Eagles,2015,Assistant Head/Defensive Line
+Jerry Azzinaro,Philadelphia Eagles,2015,Assistant Head Coach/Defensive Line
 Ryan Day,Philadelphia Eagles,2015,Quarterbacks
 Duce Staley,Philadelphia Eagles,2015,Running Backs
 Bob Bicknell,Philadelphia Eagles,2015,Wide Receivers
@@ -8354,7 +8354,7 @@ Michael Clay,Philadelphia Eagles,2015,Assistant Special Teams
 Josh Hingst,Philadelphia Eagles,2015,Head Strength And Conditioning
 Quadrian Banks,Philadelphia Eagles,2015,Assistant Strength And Conditioning
 Keith Gray,Philadelphia Eagles,2015,Assistant Strength And Conditioning
-John Mitchell,Pittsburgh Steelers,2015,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2015,Assistant Head Coach/Defensive Line
 James Saxon,Pittsburgh Steelers,2015,Running Backs
 Richard Mann,Pittsburgh Steelers,2015,Wide Receivers
 James Daniel,Pittsburgh Steelers,2015,Tight Ends
@@ -8378,7 +8378,7 @@ Greg Williams,San Diego Chargers,2015,Assistant Secondary
 Chris Shula,San Diego Chargers,2015,Defensive Quality Control
 Kent Johnston,San Diego Chargers,2015,Strength And Conditioning
 Rick Lyle,San Diego Chargers,2015,Assistant Strength And Conditioning
-Bill Nayes,San Francisco 49ers,2015,Special Assistant Head
+Bill Nayes,San Francisco 49ers,2015,Special Assistant Head Coach
 Steve Logan,San Francisco 49ers,2015,Quarterbacks
 Tom Rathman,San Francisco 49ers,2015,Running Backs
 Ronald Curry,San Francisco 49ers,2015,Wide Receivers
@@ -8394,7 +8394,7 @@ Mick Lombardi,San Francisco 49ers,2015,Defensive Assistant
 Richard Hightower,San Francisco 49ers,2015,Assistant Special Teams
 Brian Johnson,San Francisco 49ers,2015,Strength &Amp; Conditioning Assistant
 David Young,San Francisco 49ers,2015,Strength &Amp; Conditioning Assistant
-Rocky Seto,Seattle Seahawks,2015,Assistant Head/Defense
+Rocky Seto,Seattle Seahawks,2015,Assistant Head Coach/Defense
 Dave Canales,Seattle Seahawks,2015,Wide Receivers
 Nate Carroll,Seattle Seahawks,2015,Assistant Wide Receivers
 Pat McPherson,Seattle Seahawks,2015,Tight Ends
@@ -8494,7 +8494,7 @@ Doug Mallory,Atlanta Falcons,2016,Defensive Assistant/Linebackers
 Chad Walker,Atlanta Falcons,2016,Defensive Assistant/Defensive Backs
 Eric Sutulovich,Atlanta Falcons,2016,Assistant Special Teams
 Lance Schulters,Atlanta Falcons,2016,Special Teams Intern
-Steve Scarnecchia,Atlanta Falcons,2016,Assistant Head
+Steve Scarnecchia,Atlanta Falcons,2016,Assistant Head Coach
 Jesse Ackerman,Atlanta Falcons,2016,Head Strength And Conditioning
 Jonas Beauchemin,Atlanta Falcons,2016,Assistant Strength And Conditioning
 Thomas Hammock,Baltimore Ravens,2016,Running Backs
@@ -8562,7 +8562,7 @@ Richard Hightower,Chicago Bears,2016,Assistant Special Teams
 Jason George,Chicago Bears,2016,Strength And Conditioning
 Rick Perry,Chicago Bears,2016,Assistant Strength And Conditioning
 Pierre Ngo,Chicago Bears,2016,Assistant Strength And Conditioning
-Paul Alexander,Cincinnati Bengals,2016,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2016,Assistant Head Coach/Offensive Line
 Kyle Caskey,Cincinnati Bengals,2016,Running Backs
 James Urban,Cincinnati Bengals,2016,Wide Receivers
 Jonathan Hayes,Cincinnati Bengals,2016,Tight Ends
@@ -8627,7 +8627,7 @@ Luke Richesson,Denver Broncos,2016,Strength And Conditioning
 Mike Eubanks,Denver Broncos,2016,Assistant Strength And Conditioning
 Anthony Lomando,Denver Broncos,2016,Assistant Strength And Conditioning
 Dennis Love,Denver Broncos,2016,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2016,Associate Head/Linebackers
+Winston Moss,Green Bay Packers,2016,Associate Head Coach/Linebackers
 Ben Sirmans,Green Bay Packers,2016,Running Backs
 Luke Getsy,Green Bay Packers,2016,Wide Receivers
 Brian Angelichio,Green Bay Packers,2016,Tight Ends
@@ -8655,11 +8655,11 @@ Craig Fitzgerald,Houston Texans,2016,Head Strength And Conditioning
 Sean Hayes,Houston Texans,2016,Assistant Strength And Conditioning
 Brian Bell,Houston Texans,2016,Assistant Strength And Conditioning
 Ian Jones,Houston Texans,2016,Assistant Strength And Conditioning
-Jeff Popovich,Indianapolis Colts,2016,Assistant Head
+Jeff Popovich,Indianapolis Colts,2016,Assistant Head Coach
 Jemal Singleton,Indianapolis Colts,2016,Running Backs
 Lee Hull,Indianapolis Colts,2016,Wide Receivers
 Joe Gilbert,Indianapolis Colts,2016,Assistant Offensive Line
-Tim Berbenich,Indianapolis Colts,2016,Offensive Assistant/Assistant Quarterbacks
+Tim Berbenich,Indianapolis Colts,2016,Offensive Assistant/Assistant Quarterbacks Coach
 Frank Giufre,Indianapolis Colts,2016,Offensive Quality Control
 Gary Emanuel,Indianapolis Colts,2016,Defensive Line
 Jim Herrmann,Indianapolis Colts,2016,Linebackers
@@ -8669,15 +8669,15 @@ Shawn Terlecky,Indianapolis Colts,2016,Defensive Quality Control
 Maurice Drayton,Indianapolis Colts,2016,Assistant Special Teams
 Darren Krein,Indianapolis Colts,2016,Strength And Conditioning
 Richard Howell,Indianapolis Colts,2016,Assistant Strength And Conditioning
-Tyler Wolf,Jacksonville Jaguars,2016,Head Associate
-ElizaBeth Mayers,Jacksonville Jaguars,2016,Assistant Head And Administrator Ofing Operations
+Tyler Wolf,Jacksonville Jaguars,2016,Head Coach Associate
+ElizaBeth Mayers,Jacksonville Jaguars,2016,Assistant Head Coach And Administrator Of Coaching Operations
 Nathaniel Hackett,Jacksonville Jaguars,2016,Quarterbacks
 Kelly Skipper,Jacksonville Jaguars,2016,Running Backs
 Tony Sorrentino,Jacksonville Jaguars,2016,Assistant Wide Receivers
 Ron Middleton,Jacksonville Jaguars,2016,Tight Ends/Assistant Special Teams
 John Benton,Jacksonville Jaguars,2016,Assistant Offensive Line
 John Donovan,Jacksonville Jaguars,2016,Offensive Quality Control
-Chris O'Hara,Jacksonville Jaguars,2016,Offensivees Assistant
+Chris O'Hara,Jacksonville Jaguars,2016,Offensive Coaches Assistant
 Aaron Whitecotton,Jacksonville Jaguars,2016,Assistant Defensive Line
 Scottie Hazelton,Jacksonville Jaguars,2016,Assistant Linebackers
 DeWayne Walker,Jacksonville Jaguars,2016,Defensive Backs
@@ -8689,8 +8689,8 @@ Tom Myslinski,Jacksonville Jaguars,2016,Strength And Conditioning
 Alex Hampton,Jacksonville Jaguars,2016,Strength And Conditioning Associate
 Jess Langvardt,Jacksonville Jaguars,2016,Strength And Conditioning Associate
 Cedric Scott,Jacksonville Jaguars,2016,Assistant Strength And Conditioning
-David Culley,Kansas City Chiefs,2016,Assistant Head/Wide Receivers
-Kyle Childress,Kansas City Chiefs,2016,Senior Assistant Head
+David Culley,Kansas City Chiefs,2016,Assistant Head Coach/Wide Receivers
+Kyle Childress,Kansas City Chiefs,2016,Senior Assistant Head Coach
 Corey Matthaei,Kansas City Chiefs,2016,Assistant Quarterbacks
 Tom Melvin,Kansas City Chiefs,2016,Tight Ends
 Andy Heck,Kansas City Chiefs,2016,Offensive Line
@@ -8788,7 +8788,7 @@ Rob Leonard,New York Giants,2016,Defensive Assistant
 Dwayne Stukes,New York Giants,2016,Assistant Special Teams
 Aaron Wellman,New York Giants,2016,Strength And Conditioning
 Markus Paul,New York Giants,2016,Assistant Strength And Conditioning
-Mike Caldwell,New York Jets,2016,Assistant Head/Inside Linebackers
+Mike Caldwell,New York Jets,2016,Assistant Head Coach/Inside Linebackers
 Kevin Patullo,New York Jets,2016,Quarterbacks
 Marcel Shipp,New York Jets,2016,Running Backs
 Karl Dorrell,New York Jets,2016,Wide Receivers
@@ -8841,7 +8841,7 @@ Matthew Harper,Philadelphia Eagles,2016,Assistant Special Teams
 Josh Hingst,Philadelphia Eagles,2016,Head Strength And Conditioning
 Ben Wagner,Philadelphia Eagles,2016,Assistant Strength And Conditioning
 Keith Gray,Philadelphia Eagles,2016,Assistant Strength And Conditioning
-John Mitchell,Pittsburgh Steelers,2016,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2016,Assistant Head Coach/Defensive Line
 James Saxon,Pittsburgh Steelers,2016,Running Backs
 Richard Mann,Pittsburgh Steelers,2016,Wide Receivers
 James Daniel,Pittsburgh Steelers,2016,Tight Ends
@@ -8858,7 +8858,7 @@ John McNulty,San Diego Chargers,2016,Tight Ends
 Dave DeGuglielmo,San Diego Chargers,2016,Assistant Offensive Line
 Fred Graves,San Diego Chargers,2016,Senior Offensive Assistant
 Tommy Rees,San Diego Chargers,2016,Offensive Assistant
-Mark Ridgley,San Diego Chargers,2016,Special Assistant Head/Offense
+Mark Ridgley,San Diego Chargers,2016,Special Assistant Head Coach/Offense
 Giff Smith,San Diego Chargers,2016,Defensive Line
 Bobby King,San Diego Chargers,2016,Assistant Linebackers
 Ron Milus,San Diego Chargers,2016,Defensive Backs
@@ -8884,7 +8884,7 @@ Michael Clay,San Francisco 49ers,2016,Assistant Special Teams
 Brian Johnson,San Francisco 49ers,2016,Assistant Strength &Amp; Conditioning
 David Young,San Francisco 49ers,2016,Strength &Amp; Conditioning Assistant
 Taylor Johnson,San Francisco 49ers,2016,Strength &Amp; Conditioning Assistant
-Rocky Seto,Seattle Seahawks,2016,Assistant Head/Defense
+Rocky Seto,Seattle Seahawks,2016,Assistant Head Coach/Defense
 Will Harriger,Seattle Seahawks,2016,Assistant Quarterbacks
 Dave Canales,Seattle Seahawks,2016,Wide Receivers
 Nate Carroll,Seattle Seahawks,2016,Assistant Wide Receivers
@@ -8903,7 +8903,7 @@ Nick Sorensen,Seattle Seahawks,2016,Assistant Special Teams/Assistant Defensive 
 Chris Carlisle,Seattle Seahawks,2016,Head Strength And Conditioning
 Mondray Gee,Seattle Seahawks,2016,Assistant Strength And Conditioning
 Jamie Yancher,Seattle Seahawks,2016,Assistant Strength And Conditioning
-Zack Grossi,Tampa Bay Buccaneers,2016,Assistant To Head
+Zack Grossi,Tampa Bay Buccaneers,2016,Assistant To Head Coach
 Mike Bajakian,Tampa Bay Buccaneers,2016,Quarterbacks
 Tim Spencer,Tampa Bay Buccaneers,2016,Running Backs
 Andrew Weidinger,Tampa Bay Buccaneers,2016,Assistant Wide Receivers/Game Management
@@ -8958,7 +8958,7 @@ Tom Pratt,Arizona Cardinals,2017,Pass Rush Specialist
 Anthony Blevins,Arizona Cardinals,2017,Assistant Special Teams
 Buddy Morris,Arizona Cardinals,2017,Strength And Conditioning
 Roger Kingdom,Arizona Cardinals,2017,Assistant Strength And Conditioning
-Steve Scarnecchia,Atlanta Falcons,2017,Assistant Head
+Steve Scarnecchia,Atlanta Falcons,2017,Assistant Head Coach
 Bush Hamdan,Atlanta Falcons,2017,Quarterbacks
 Keith Carter,Atlanta Falcons,2017,Running Backs
 Wade Harman,Atlanta Falcons,2017,Tight Ends
@@ -8989,7 +8989,7 @@ Mike Macdonald,Baltimore Ravens,2017,Defensive Backs
 Chris Hewitt,Baltimore Ravens,2017,Secondary
 Chris Horton,Baltimore Ravens,2017,Assistant Special Teams
 Juney Barnett,Baltimore Ravens,2017,Strength And Conditioning
-Steve Saunders,Baltimore Ravens,2017,Performance
+Steve Saunders,Baltimore Ravens,2017,Performance Coach
 David Culley,Buffalo Bills,2017,Quarterbacks
 Kelly Skipper,Buffalo Bills,2017,Running Backs
 Phil McGeoghan,Buffalo Bills,2017,Wide Receivers
@@ -9036,7 +9036,7 @@ Derius Swinton II,Chicago Bears,2017,Assistant Special Teams
 Jason George,Chicago Bears,2017,Strength And Conditioning
 Rick Perry,Chicago Bears,2017,Assistant Strength And Conditioning
 Pierre Ngo,Chicago Bears,2017,Assistant Strength And Conditioning
-Paul Alexander,Cincinnati Bengals,2017,Assistant Head/Offensive Line
+Paul Alexander,Cincinnati Bengals,2017,Assistant Head Coach/Offensive Line
 Kyle Caskey,Cincinnati Bengals,2017,Running Backs
 James Urban,Cincinnati Bengals,2017,Wide Receivers
 Jonathan Hayes,Cincinnati Bengals,2017,Tight Ends
@@ -9080,7 +9080,7 @@ Keith O'Quinn,Dallas Cowboys,2017,Assistant Special Teams
 Mike Woicik,Dallas Cowboys,2017,Strength And Conditioning
 Brett Bech,Dallas Cowboys,2017,Assistant Strength And Conditioning
 Kendall Smith,Dallas Cowboys,2017,Assistant Strength And Conditioning
-Phil Rauscher,Denver Broncos,2017,Assistant Head
+Phil Rauscher,Denver Broncos,2017,Assistant Head Coach
 Bill Musgrave,Denver Broncos,2017,Quarterbacks
 Tyke Tolbert,Denver Broncos,2017,Wide Receivers
 Chris Strausser,Denver Broncos,2017,Assistant Offensive Line
@@ -9097,7 +9097,7 @@ Luke Richesson,Denver Broncos,2017,Strength And Conditioning
 Mike Eubanks,Denver Broncos,2017,Assistant Strength And Conditioning
 Anthony Lomando,Denver Broncos,2017,Assistant Strength And Conditioning
 Cedric Smith,Denver Broncos,2017,Assistant Strength And Conditioning
-Ron Prince,Detroit Lions,2017,Assistant Head/Offensive Line
+Ron Prince,Detroit Lions,2017,Assistant Head Coach/Offensive Line
 David Walker,Detroit Lions,2017,Running Backs
 Robert Prince,Detroit Lions,2017,Wide Receivers
 Al Golden,Detroit Lions,2017,Tight Ends
@@ -9110,7 +9110,7 @@ Steven Williams,Detroit Lions,2017,Defensive Quality Control
 Devin Fitzsimmons,Detroit Lions,2017,Special Teams Assistant
 Harold Nash,Detroit Lions,2017,Head Strength And Conditioning
 Josh Schuler,Detroit Lions,2017,Assistant Strength And Conditioning
-Winston Moss,Green Bay Packers,2017,Associate Head/Linebackers
+Winston Moss,Green Bay Packers,2017,Associate Head Coach/Linebackers
 Ben Sirmans,Green Bay Packers,2017,Running Backs
 Luke Getsy,Green Bay Packers,2017,Wide Receivers
 Brian Angelichio,Green Bay Packers,2017,Tight Ends
@@ -9143,7 +9143,7 @@ Brian Bell,Houston Texans,2017,Assistant Strength And Conditioning
 Jemal Singleton,Indianapolis Colts,2017,Running Backs
 Sanjay Lal,Indianapolis Colts,2017,Wide Receivers
 Joe Gilbert,Indianapolis Colts,2017,Assistant Offensive Line
-Tim Berbenich,Indianapolis Colts,2017,Offensive Assistant/Assistant Quarterbacks
+Tim Berbenich,Indianapolis Colts,2017,Offensive Assistant/Assistant Quarterbacks Coach
 Frank Giufre,Indianapolis Colts,2017,Offensive Quality Control
 Gary Emanuel,Indianapolis Colts,2017,Defensive Line
 Jim Herrmann,Indianapolis Colts,2017,Linebackers
@@ -9173,7 +9173,7 @@ Tom Myslinski,Jacksonville Jaguars,2017,Strength And Conditioning
 Cedric Scott,Jacksonville Jaguars,2017,Assistant Strength And Conditioning
 Alex Hampton,Jacksonville Jaguars,2017,Strength &Amp; Conditioning Associate
 Jess Langvardt,Jacksonville Jaguars,2017,Strength &Amp; Conditioning Associate
-Porter Ellett,Kansas City Chiefs,2017,Senior Assistant Head
+Porter Ellett,Kansas City Chiefs,2017,Senior Assistant Head Coach
 Corey Matthaei,Kansas City Chiefs,2017,Assistant Quarterbacks
 Greg Lewis,Kansas City Chiefs,2017,Wide Receivers
 Tom Melvin,Kansas City Chiefs,2017,Tight Ends
@@ -9207,7 +9207,7 @@ Marquice Williams,Los Angeles Chargers,2017,Assistant Special Teams
 John Lott,Los Angeles Chargers,2017,Head Strength And Conditioning
 Jonathan Brooks,Los Angeles Chargers,2017,Assistant Strength
 Larry Jackson,Los Angeles Chargers,2017,Assistant Strength
-Bill Nayes,Los Angeles Rams,2017,Assistant Head
+Bill Nayes,Los Angeles Rams,2017,Assistant Head Coach
 Skip Peete,Los Angeles Rams,2017,Running Backs
 Eric Yarber,Los Angeles Rams,2017,Wide Receivers
 Shane Waldron,Los Angeles Rams,2017,Tight Ends
@@ -9270,7 +9270,7 @@ Joe Judge,New England Patriots,2017,Special Teams
 Raymond Ventrone,New England Patriots,2017,Assistant Special Teams
 Moses Cabrera,New England Patriots,2017,Strength And Conditioning
 James Hardy,New England Patriots,2017,Assistant Strength And Conditioning
-Kevin Petry,New Orleans Saints,2017,Assistant Head
+Kevin Petry,New Orleans Saints,2017,Assistant Head Coach
 Joel Thomas,New Orleans Saints,2017,Running Backs
 Ronald Curry,New Orleans Saints,2017,Assistant Wide Receivers
 Dan Roushar,New Orleans Saints,2017,Offensive Line
@@ -9298,7 +9298,7 @@ Dave Merritt,New York Giants,2017,Secondary/Safeties
 Bobby Blick,New York Giants,2017,Defensive Assistant
 Aaron Wellman,New York Giants,2017,Strength And Conditioning
 Markus Paul,New York Giants,2017,Assistant Strength And Conditioning
-Mike Caldwell,New York Jets,2017,Assistant Head/Inside Linebackers
+Mike Caldwell,New York Jets,2017,Assistant Head Coach/Inside Linebackers
 Mick Lombardi,New York Jets,2017,Assistant Quarterbacks
 Stump Mitchell,New York Jets,2017,Running Backs
 Karl Dorrell,New York Jets,2017,Wide Receivers
@@ -9351,7 +9351,7 @@ Matthew Harper,Philadelphia Eagles,2017,Assistant Special Teams
 Josh Hingst,Philadelphia Eagles,2017,Head Strength And Conditioning
 Keith Gray,Philadelphia Eagles,2017,Assistant Strength And Conditioning
 Ben Wagner,Philadelphia Eagles,2017,Strength Assistant
-John Mitchell,Pittsburgh Steelers,2017,Assistant Head/Defensive Line
+John Mitchell,Pittsburgh Steelers,2017,Assistant Head Coach/Defensive Line
 James Saxon,Pittsburgh Steelers,2017,Running Backs
 Richard Mann,Pittsburgh Steelers,2017,Wide Receivers
 James Daniel,Pittsburgh Steelers,2017,Tight Ends
@@ -9361,7 +9361,7 @@ Joey Porter,Pittsburgh Steelers,2017,Outside Linebackers
 Carnell Lake,Pittsburgh Steelers,2017,Defensive Backs
 Steve Meyer,Pittsburgh Steelers,2017,Coaching Assistant
 Garrett Giemont,Pittsburgh Steelers,2017,Strength And Conditioning
-Jon Embree,San Francisco 49ers,2017,Assistant Head/Tight Ends
+Jon Embree,San Francisco 49ers,2017,Assistant Head Coach/Tight Ends
 Mike McDaniel,San Francisco 49ers,2017,Run Game Specialist
 Robert Turner,San Francisco 49ers,2017,Running Backs
 Mike LaFleur,San Francisco 49ers,2017,Wide Receivers
@@ -9383,7 +9383,7 @@ Ray Wright,San Francisco 49ers,2017,Head Strength And Conditioning
 Michael Clay,San Francisco 49ers,2017,Strength &Amp; Conditioning Assistant
 Marquis Johnson,San Francisco 49ers,2017,Strength &Amp; Conditioning Assistant
 Dustin Perry,San Francisco 49ers,2017,Strength &Amp; Conditioning Assistant
-Micheal Barrow,Seattle Seahawks,2017,Assistant Head/Linebackers
+Micheal Barrow,Seattle Seahawks,2017,Assistant Head Coach/Linebackers
 Will Harriger,Seattle Seahawks,2017,Assistant Quarterbacks
 Chad Morton,Seattle Seahawks,2017,Running Backs
 Dave Canales,Seattle Seahawks,2017,Wide Receivers
@@ -9404,7 +9404,7 @@ Heath Farwell,Seattle Seahawks,2017,Assistant Special Teams
 Chris Carlisle,Seattle Seahawks,2017,Head Strength And Conditioning
 Mondray Gee,Seattle Seahawks,2017,Assistant Strength And Conditioning
 Jamie Yancher,Seattle Seahawks,2017,Assistant Strength And Conditioning
-Anthony Perkins,Tampa Bay Buccaneers,2017,Assistant To Head
+Anthony Perkins,Tampa Bay Buccaneers,2017,Assistant To Head Coach
 Mike Bajakian,Tampa Bay Buccaneers,2017,Quarterbacks
 Tim Spencer,Tampa Bay Buccaneers,2017,Running Backs
 Ben Steele,Tampa Bay Buccaneers,2017,Tight Ends
@@ -9431,8 +9431,8 @@ Lou Spanos,Tennessee Titans,2017,Linebackers
 Steve Jackson,Tennessee Titans,2017,Assistant Defensive Backs
 Brandon Blaney,Tennessee Titans,2017,Defensive Assistant
 Craig Aukerman,Tennessee Titans,2017,Assistant Special Teams
-Steve Watterson,Tennessee Titans,2017,Assistant Head/Strength And Conditioning
-Tom Kanavy,Tennessee Titans,2017,Assistant Strength And Conditioning
+Steve Watterson,Tennessee Titans,2017,Assistant Head Coach/Strength And Conditioning
+Tom Kanavy,Tennessee Titans,2017,Assistant Strength And Conditioning Coach
 Taylor Porter,Tennessee Titans,2017,Strength And Conditioning Assistant
 Randy Jordan,Washington Redskins,2017,Running Backs
 Ike Hilliard,Washington Redskins,2017,Wide Receivers
@@ -9860,7 +9860,7 @@ Deuce Gruden,Oakland Raiders,2018,Strength And Conditioning Assistant
 Kelsey Martinez,Oakland Raiders,2018,Strength And Conditioning Assistant
 Rick Slate,Oakland Raiders,2018,Strength And Conditioning Assistant
 Tom Donahoe,Philadelphia Eagles,2018,Senior Football Advisor
-Duce Staley,Philadelphia Eagles,2018,Assistant Head/Running Backs
+Duce Staley,Philadelphia Eagles,2018,Assistant Head Coach/Running Backs
 Press Taylor,Philadelphia Eagles,2018,Quarterbacks
 Gunter Brewer,Philadelphia Eagles,2018,Wide Receivers
 Carson Walch,Philadelphia Eagles,2018,Assistant Wide Receivers
@@ -9876,8 +9876,8 @@ Phillip Daniels,Philadelphia Eagles,2018,Defensive Quality Control/Assistant Def
 Ryan Paganetti,Philadelphia Eagles,2018,Defensive Quality Control/Assistant Linebackers
 Dino Vasso,Philadelphia Eagles,2018,Defensive Quality Control/Assistant Secondary
 Matthew Harper,Philadelphia Eagles,2018,Assistant Special Teams
-Josh Hingst,Philadelphia Eagles,2018,Head Strength
-Keith Gray,Philadelphia Eagles,2018,Assistant Strength
+Josh Hingst,Philadelphia Eagles,2018,Head Strength Coach
+Keith Gray,Philadelphia Eagles,2018,Assistant Strength Coach
 Ben Wagner,Philadelphia Eagles,2018,Strength Assistant
 John Mitchell,Pittsburgh Steelers,2018,Assistant Head Coach
 James Saxon,Pittsburgh Steelers,2018,Running Backs
