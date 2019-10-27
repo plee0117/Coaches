@@ -2,5 +2,5 @@
 *.log
 __pycache__/
 *.ipynb_checkpoints
-New_foler/
+New_folder/
 
